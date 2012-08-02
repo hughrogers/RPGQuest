@@ -194,4 +194,56 @@
 </development>
 <customanimations animations="0"></customanimations>
 </character>
+<character class="3" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="0" id="15" basecounter="0">
+<animations></animations>
+<name lang="0"><![CDATA[Human Arcane Forge Owner]]></name>
+<description lang="0"><![CDATA[]]></description>
+<attack id="0" id2="0"></attack>
+<controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<development startlevel="1" maxlevel="1">
+<statusvalue id="0" 0="0"></statusvalue>
+</development>
+<customanimations animations="0"></customanimations>
+</character>
+<character class="3" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="1" id="16" basecounter="0">
+<animations></animations>
+<name lang="0"><![CDATA[Orc Arcane Forge Owner]]></name>
+<description lang="0"><![CDATA[]]></description>
+<attack id="0" id2="0"></attack>
+<controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<development startlevel="1" maxlevel="1">
+<statusvalue id="0" 0="0"></statusvalue>
+</development>
+<customanimations animations="0"></customanimations>
+</character>
+<character class="3" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="3" id="17" basecounter="0">
+<animations></animations>
+<name lang="0"><![CDATA[Dwarf Arcane Forge Owner]]></name>
+<description lang="0"><![CDATA[]]></description>
+<attack id="0" id2="0"></attack>
+<controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<development startlevel="1" maxlevel="1">
+<statusvalue id="0" 0="0"></statusvalue>
+</development>
+<customanimations animations="0"></customanimations>
+</character>
+<character class="3" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="2" id="18" basecounter="0">
+<animations></animations>
+<name lang="0"><![CDATA[Elf Arcane Forge Owner]]></name>
+<description lang="0"><![CDATA[]]></description>
+<attack id="0" id2="0"></attack>
+<controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<development startlevel="1" maxlevel="1">
+<statusvalue id="0" 0="0"></statusvalue>
+</development>
+<customanimations animations="0"></customanimations>
+</character>
 </characters>
