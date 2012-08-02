@@ -1,8 +1,56 @@
 <weapons>
-<weapon equipparts="0" sizes="1" buyprice="0" elements="0" id="0" races="1" effects="0" equiptype="SINGLE">
+<weapon minimumlevel="1" attacks="1" element="0" equipparts="0" sizes="1" buyprice="0" elements="0" id="0" races="1" effects="0" equiptype="SINGLE">
 <animations ownbase="False"></animations>
-<name lang="0"><![CDATA[]]></name>
-<description lang="0"><![CDATA[New Description]]></description>
+<name lang="0"><![CDATA[Rusty Sword]]></name>
+<description lang="0"><![CDATA[This sword was created hundreds of years ago.]]></description>
+<attack id="0" id2="0"></attack>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</weapon>
+<weapon minimumlevel="3" equipparts="0" dropable="true" sizes="1" effects="0" buyprice="50" elements="0" id="1" sellprice="25" sellsetter="PERCENT" races="1" equiptype="SINGLE">
+<animations ownbase="False"></animations>
+<name lang="0"><![CDATA[Bronze Sword]]></name>
+<description lang="0"><![CDATA[A light-weight weapon made of weak metal.]]></description>
+<race id="0" value="3"></race>
+<bonussettings block="3" escape="0" critical="3" counter="3" hit="3" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</weapon>
+<weapon minimumlevel="3" equipparts="0" dropable="true" sizes="1" effects="0" buyprice="50" elements="0" id="2" sellprice="25" sellsetter="PERCENT" races="1" equiptype="SINGLE">
+<animations ownbase="False"></animations>
+<name lang="0"><![CDATA[Bronze Axe]]></name>
+<description lang="0"><![CDATA[a heavier chopping weapon made of weak metal. ]]></description>
+<race id="0" value="5"></race>
+<bonussettings block="0" escape="0" critical="4" counter="3" hit="0" moneysteal="0" itemsteal="0" speed="-2"></bonussettings>
+</weapon>
+<weapon minimumlevel="5" equipparts="0" dropable="true" sizes="1" effects="0" buyprice="100" elements="0" id="3" sellprice="25" sellsetter="PERCENT" races="1" equiptype="SINGLE">
+<animations ownbase="False"></animations>
+<name lang="0"><![CDATA[Iron Sword]]></name>
+<description lang="0"><![CDATA[A light-weight weapon made of a durable metal.]]></description>
+<race id="0" value="6"></race>
+<bonussettings block="5" escape="0" critical="5" counter="5" hit="5" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</weapon>
+<weapon minimumlevel="5" equipparts="0" dropable="true" sizes="1" effects="0" buyprice="100" elements="0" id="4" sellprice="25" sellsetter="PERCENT" races="1" equiptype="SINGLE">
+<animations ownbase="False"></animations>
+<name lang="0"><![CDATA[Iron Axe]]></name>
+<description lang="0"><![CDATA[A heavier chopping weapon made of a durable metal.]]></description>
+<race id="0" value="7"></race>
+<bonussettings block="0" escape="0" critical="6" counter="5" hit="0" moneysteal="0" itemsteal="0" speed="-4"></bonussettings>
+</weapon>
+<weapon minimumlevel="1" equipparts="0" sizes="1" buyprice="0" elements="0" id="5" races="1" effects="0" equiptype="SINGLE">
+<animations ownbase="False"></animations>
+<name lang="0"><![CDATA[Notched Staff]]></name>
+<description lang="0"><![CDATA[A rotted staff made from a notch in a tree.]]></description>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</weapon>
+<weapon minimumlevel="3" equipparts="0" dropable="true" sizes="1" effects="0" buyprice="50" elements="0" id="6" sellprice="25" sellsetter="PERCENT" races="1" equiptype="SINGLE">
+<animations ownbase="False"></animations>
+<name lang="0"><![CDATA[Sapphire Staff]]></name>
+<description lang="0"><![CDATA[A basic wooden staff adorned with a pure sapphire.]]></description>
+<race id="0" value="4"></race>
+<bonussettings block="0" escape="0" critical="4" counter="0" hit="4" moneysteal="0" itemsteal="0" speed="4"></bonussettings>
+</weapon>
+<weapon minimumlevel="5" equipparts="0" dropable="true" sizes="1" effects="0" buyprice="100" elements="0" id="7" sellprice="25" sellsetter="PERCENT" races="1" equiptype="SINGLE">
+<animations ownbase="False"></animations>
+<name lang="0"><![CDATA[Emerald Staff]]></name>
+<description lang="0"><![CDATA[A more advanced staff adorned with a pure emerald]]></description>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 </weapon>
 </weapons>
