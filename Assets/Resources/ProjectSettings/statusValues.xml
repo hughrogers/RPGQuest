@@ -1,0 +1,6 @@
+<statusvalues>
+<value id="0" type="NORMAL" minvalue="0" maxvalue="99999">
+<name lang="0"><![CDATA[New Value]]></name>
+<description lang="0"><![CDATA[New Description]]></description>
+</value>
+</statusvalues>
