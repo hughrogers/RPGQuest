@@ -1,0 +1,22 @@
+<items>
+<item useable="True" dropable="true" effects="0" targettype="SELF" itemvariable="NONE" buyprice="10" skilltarget="SINGLE" useinbattle="true" stealable="true" useinfield="true" id="0" itemtype="0" sellprice="5" sellsetter="VALUE" consume="True" values="0">
+<name lang="0"><![CDATA[Brew of Life]]></name>
+<description lang="0"><![CDATA[+50 HP]]></description>
+<targetraycast></targetraycast>
+</item>
+<item useable="True" dropable="true" effects="0" targettype="SELF" itemvariable="NONE" buyprice="20" skilltarget="SINGLE" useinbattle="true" stealable="true" useinfield="true" id="1" itemtype="0" sellprice="10" sellsetter="VALUE" consume="True" values="0">
+<name lang="0"><![CDATA[Brew of Power]]></name>
+<description lang="0"><![CDATA[+100 HP]]></description>
+<targetraycast></targetraycast>
+</item>
+<item useable="True" effects="0" targettype="ALLY" itemvariable="NONE" buyprice="15" revive="true" skilltarget="SINGLE" useinbattle="true" id="2" itemtype="0" sellprice="5" sellsetter="VALUE" consume="True" values="0">
+<name lang="0"><![CDATA[Brew of revive]]></name>
+<description lang="0"><![CDATA[revives a ally or you]]></description>
+<targetraycast></targetraycast>
+</item>
+<item useable="True" dropable="true" effects="0" itemvariable="NONE" buyprice="15" skilltarget="SINGLE" stealable="true" targettype="ENEMY" id="3" itemtype="0" sellprice="4" sellsetter="VALUE" consume="True" values="0">
+<name lang="0"><![CDATA[Brew of death]]></name>
+<description lang="0"><![CDATA[-50 to enemy]]></description>
+<targetraycast></targetraycast>
+</item>
+</items>
