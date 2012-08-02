@@ -1,0 +1,92 @@
+<camerapositions>
+<cameraposition id="0" child="Head" lookat="true" local="true" fov="40">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[Head front]]></name>
+<position y="0" z="5" x="0"></position>
+</cameraposition>
+<cameraposition id="1" child="Head" lookat="true" local="true">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[Head front far]]></name>
+<position y="0" z="15" x="0"></position>
+</cameraposition>
+<cameraposition id="2" child="Head" lookat="true" local="true" fov="70">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[Head front high FoV]]></name>
+<position y="0" z="5" x="0"></position>
+</cameraposition>
+<cameraposition id="3" child="Head" lookat="true" local="true" fov="70">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[Head front far high FoV]]></name>
+<position y="0" z="15" x="0"></position>
+</cameraposition>
+<cameraposition id="4" lookat="true" fov="40" ignoreyrotation="true">
+<rotation y="-25" z="0" x="0"></rotation>
+<name><![CDATA[CamPos1]]></name>
+<position y="10" z="-1" x="-10"></position>
+</cameraposition>
+<cameraposition id="5" lookat="true" fov="40">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[CamPos2]]></name>
+<position y="15" z="5" x="-5"></position>
+</cameraposition>
+<cameraposition id="6" lookat="true">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[CamPos3]]></name>
+<position y="10" z="1" x="-10"></position>
+</cameraposition>
+<cameraposition id="7" lookat="true">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[CamPos4]]></name>
+<position y="3" z="1" x="-20"></position>
+</cameraposition>
+<cameraposition id="8" child="Head" lookat="true" local="true" fov="40">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[Head front right]]></name>
+<position y="0" z="5" x="-3"></position>
+</cameraposition>
+<cameraposition id="9" lookat="true" child="Head" fov="40">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[Dialogue Pos1]]></name>
+<position y="3" z="5" x="5"></position>
+</cameraposition>
+<cameraposition id="10" lookat="true" child="Head" fov="40">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[Dialogue Pos2]]></name>
+<position y="7" z="5" x="-10"></position>
+</cameraposition>
+<cameraposition id="11" lookat="true" local="true" fov="40">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[Battle Cam1]]></name>
+<position y="5" z="5" x="-15"></position>
+</cameraposition>
+<cameraposition id="12" lookat="true" fov="40">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[Attack Cam1]]></name>
+<position y="5" z="3" x="-10"></position>
+</cameraposition>
+<cameraposition id="13" ignorezrotation="true" lookat="true" fov="70">
+<rotation y="0" z="45" x="0"></rotation>
+<name><![CDATA[Attack Cam2]]></name>
+<position y="8" z="3" x="-5"></position>
+</cameraposition>
+<cameraposition id="14" child="Head" lookat="true" local="true" fov="40">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[Defend Cam1]]></name>
+<position y="3" z="5" x="3"></position>
+</cameraposition>
+<cameraposition id="15" child="Head" lookat="true" local="true" fov="40">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[Boost Cam1]]></name>
+<position y="3" z="15" x="0"></position>
+</cameraposition>
+<cameraposition id="16" child="Head" lookat="true" local="true" fov="40">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[Boost Cam2]]></name>
+<position y="3" z="5" x="0"></position>
+</cameraposition>
+<cameraposition id="17" child="Head" lookat="true" local="true" fov="40">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[Item Cam1]]></name>
+<position y="3" z="-5" x="3"></position>
+</cameraposition>
+</camerapositions>

@@ -1,0 +1,92 @@
+<statusvalues>
+<value id="0" type="NORMAL" minvalue="0" maxvalue="99999">
+<name lang="0"><![CDATA[MaxHP]]></name>
+<description lang="0"><![CDATA[Maximum health points]]></description>
+<name lang="1"><![CDATA[MaxLP]]></name>
+<description lang="1"><![CDATA[Maximale Lebenspunkte]]></description>
+</value>
+<value id="1" killchar="True" type="CONSUMABLE" maxstatus="0" minvalue="0" maxvalue="99999">
+<name lang="0"><![CDATA[HP]]></name>
+<description lang="0"><![CDATA[Health points]]></description>
+<name lang="1"><![CDATA[LP]]></name>
+<description lang="1"><![CDATA[Lebenspunkte]]></description>
+<addtext fadeinend="1" x="1" y="1" fadeintime="0.25" fadeininterpolate="Linear" fadeoutend="0" visibletime="2.5" fadeinstart="0" fadeoutinterpolate="Linear" fadeouttime="0.75" color="3" shadowcolor="1" fadeoutstart="1">
+<baseoffset y="0" z="0" x="0"></baseoffset>
+<randomoffset tz="0" fx="0" fy="0" fz="0" tx="0" ty="0"></randomoffset>
+<animate xspeed="0" yspeed="1" zspeed="0"></animate>
+<flash blueend="0" redend="0" bluestart="1" flashinterpolate="Linear" children="True" flashtime="0.5" redstart="1"></flash>
+<textopt id="0"><![CDATA[+%]]></textopt>
+<textopt id="1"><![CDATA[+%]]></textopt>
+</addtext>
+<subtext fadeinend="1" x="1" y="1" fadeintime="0.25" fadeininterpolate="Linear" fadeoutend="0" visibletime="2.5" fadeinstart="0" fadeoutinterpolate="Linear" fadeouttime="0.75" color="0" shadowcolor="1" fadeoutstart="1">
+<baseoffset y="1" z="0" x="0"></baseoffset>
+<randomoffset tz="0.5" fx="-0.5" fy="-0.5" fz="-0.5" tx="0.5" ty="0.5"></randomoffset>
+<animate xspeed="0" yspeed="1" zspeed="0"></animate>
+<flash blueend="0" bluestart="1" flashinterpolate="Linear" children="True" greenstart="1" flashtime="0.3" greenend="0"></flash>
+<textopt id="0"><![CDATA[-%]]></textopt>
+<textopt id="1"><![CDATA[-%]]></textopt>
+</subtext>
+</value>
+<value id="2" type="NORMAL" minvalue="0" maxvalue="99999">
+<name lang="0"><![CDATA[MaxMP]]></name>
+<description lang="0"><![CDATA[Maximum magic points]]></description>
+<name lang="1"><![CDATA[MaxZP]]></name>
+<description lang="1"><![CDATA[Maximale Zauberpunkte]]></description>
+</value>
+<value id="3" killchar="False" type="CONSUMABLE" maxstatus="2" minvalue="0" maxvalue="99999">
+<name lang="0"><![CDATA[MP]]></name>
+<description lang="0"><![CDATA[Magic points]]></description>
+<name lang="1"><![CDATA[ZP]]></name>
+<description lang="1"><![CDATA[Zauberpunkte]]></description>
+<addtext fadeinend="1" x="1" y="1" fadeintime="0.25" fadeininterpolate="Linear" fadeoutend="0" visibletime="2.5" fadeinstart="0" fadeoutinterpolate="Linear" fadeouttime="0.75" color="4" shadowcolor="1" fadeoutstart="1">
+<baseoffset y="0" z="0" x="0"></baseoffset>
+<randomoffset tz="0" fx="0" fy="0" fz="0" tx="0" ty="0"></randomoffset>
+<animate xspeed="0" yspeed="0.5" zspeed="0"></animate>
+<textopt id="0"><![CDATA[+%]]></textopt>
+<textopt id="1"><![CDATA[+%]]></textopt>
+</addtext>
+<subtext fadeinend="1" x="1" y="1" fadeintime="0.25" fadeininterpolate="Linear" fadeoutend="0" visibletime="2.5" fadeinstart="0" fadeoutinterpolate="Linear" fadeouttime="0.75" color="0" shadowcolor="1" fadeoutstart="1">
+<baseoffset y="1" z="0" x="0"></baseoffset>
+<randomoffset tz="0.5" fx="-0.5" fy="-0.5" fz="-0.5" tx="0.5" ty="0.5"></randomoffset>
+<animate xspeed="0" yspeed="1" zspeed="0"></animate>
+<textopt id="0"><![CDATA[-%]]></textopt>
+<textopt id="1"><![CDATA[-%]]></textopt>
+</subtext>
+</value>
+<value id="4" type="NORMAL" minvalue="1" maxvalue="255">
+<name lang="0"><![CDATA[STR]]></name>
+<description lang="0"><![CDATA[Strength]]></description>
+<name lang="1"><![CDATA[STR]]></name>
+<description lang="1"><![CDATA[Stärke]]></description>
+</value>
+<value id="5" type="NORMAL" minvalue="1" maxvalue="255">
+<name lang="0"><![CDATA[VIT]]></name>
+<description lang="0"><![CDATA[Vitality]]></description>
+<name lang="1"><![CDATA[VIT]]></name>
+<description lang="1"><![CDATA[Vitalität]]></description>
+</value>
+<value id="6" type="NORMAL" minvalue="1" maxvalue="255">
+<name lang="0"><![CDATA[AGI]]></name>
+<description lang="0"><![CDATA[Agility]]></description>
+<name lang="1"><![CDATA[AGI]]></name>
+<description lang="1"><![CDATA[Schnelligkeit]]></description>
+</value>
+<value id="7" type="NORMAL" minvalue="1" maxvalue="255">
+<name lang="0"><![CDATA[DEX]]></name>
+<description lang="0"><![CDATA[Dexterity]]></description>
+<name lang="1"><![CDATA[DEX]]></name>
+<description lang="1"><![CDATA[Geschicklichkeit]]></description>
+</value>
+<value id="8" type="NORMAL" minvalue="1" maxvalue="255">
+<name lang="0"><![CDATA[INT]]></name>
+<description lang="0"><![CDATA[Intelligence]]></description>
+<name lang="1"><![CDATA[INT]]></name>
+<description lang="1"><![CDATA[Intelligenz]]></description>
+</value>
+<value id="9" type="EXPERIENCE" levelup="True" minvalue="0" maxvalue="100000000">
+<name lang="0"><![CDATA[EXP]]></name>
+<description lang="0"><![CDATA[Experience]]></description>
+<name lang="1"><![CDATA[EXP]]></name>
+<description lang="1"><![CDATA[Erfahrung]]></description>
+</value>
+</statusvalues>

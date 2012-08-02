@@ -1,0 +1,16 @@
+<battleanimations>
+<battleanimation id="0" returntobasecampos="True" steps="11">
+<step id="0" min="1" type="RANDOM_STEP" next="1" max="2"></step>
+<step id="1" type="GO_TO" next="4"></step>
+<step statusorigin="USER" id="2" type="SET_CAMERA_POSITION" next="3" campos="12" show2="False"></step>
+<step time="2" type="FADE_CAMERA_POSITION" show2="False" next="4" interpolate="EaseInOutQuad" id="3" campos="13" wait="False" statusorigin="TARGET"></step>
+<step time="1" movetotarget="TARGET" show4="True" type="MOVE_TO" show2="True" show3="False" wait="True" interpolate="Linear" id="4" float1="2" next="5" show="True" prefab="0" controller="True"></step>
+<step next="6" type="PLAY_ANIMATION" show2="True" time="0.3" combatantanimation="ATTACK" number="1" id="5" wait="False" statusorigin="USER" playmode="StopSameLayer"></step>
+<step id="6" time="0.5" type="WAIT" next="7"></step>
+<step id="7" wait="True" number="1" type="CALCULATE" next="8" time="0.3" playmode="StopSameLayer"></step>
+<step time="2" type="FADE_CAMERA_POSITION" show2="False" next="9" interpolate="EaseInOutQuad" id="8" campos="12" wait="False" statusorigin="TARGET"></step>
+<step id="9" time="1" type="WAIT" next="10"></step>
+<step time="1" movetotarget="BASE" show4="False" type="MOVE_TO" show2="True" show3="False" wait="True" interpolate="Linear" id="10" float1="0" next="11" show="True" prefab="0" controller="True"></step>
+<battleanimationname><![CDATA[Attack]]></battleanimationname>
+</battleanimation>
+</battleanimations>

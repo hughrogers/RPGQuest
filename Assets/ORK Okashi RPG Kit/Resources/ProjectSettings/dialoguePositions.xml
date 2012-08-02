@@ -1,0 +1,137 @@
+<dialoguepositions>
+<dialogueposition mix="760" aligncenter="False" moveininterpolation="Linear" moveouttime="0.3" choiceinactivealpha="0.5" fadeininterpolation="Linear" moveintime="0.3" autocollapse="True" miy="400" showshadow="True" mox="960" showbox="True" moveoutinterpolation="Linear" linespacing="10" moy="400" oneline="False" shownamebox="True" scrollable="False" id="0" fadeouttime="0.3" hidebutton="False" fadeintime="0.3" fadeoutinterpolation="Linear">
+<name><![CDATA[Main Menu]]></name>
+<boxbounds y="400" h="400" w="200" x="860"></boxbounds>
+<nameboxbounds y="750" h="50" w="150" x="0"></nameboxbounds>
+<boxpadding y="10" z="10" w="10" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+<dialogueposition aligncenter="False" choiceinactivealpha="0.5" autocollapse="False" showshadow="True" showbox="True" linespacing="10" oneline="False" shownamebox="True" scrollable="False" id="1" hidebutton="False">
+<name><![CDATA[Big dialogue]]></name>
+<boxbounds y="300" h="600" w="900" x="510"></boxbounds>
+<nameboxbounds y="260" h="40" w="150" x="510"></nameboxbounds>
+<boxpadding y="10" z="10" w="10" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+<dialogueposition aligncenter="False" choiceinactivealpha="0.5" autocollapse="False" showshadow="True" showbox="False" linespacing="10" oneline="False" shownamebox="False" scrollable="False" id="2" hidebutton="False">
+<name><![CDATA[Big dialogue no box]]></name>
+<boxbounds y="300" h="600" w="900" x="510"></boxbounds>
+<nameboxbounds y="250" h="50" w="150" x="510"></nameboxbounds>
+<boxpadding y="10" z="10" w="10" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+<dialogueposition aligncenter="False" choiceinactivealpha="0.5" autocollapse="False" showshadow="True" showbox="True" linespacing="10" oneline="False" shownamebox="True" scrollable="False" id="3" hidebutton="False">
+<name><![CDATA[Small box]]></name>
+<boxbounds y="700" h="400" w="700" x="200"></boxbounds>
+<nameboxbounds y="660" h="40" w="150" x="200"></nameboxbounds>
+<boxpadding y="10" z="10" w="10" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+<dialogueposition aligncenter="False" choiceinactivealpha="0.5" autocollapse="False" showshadow="True" showbox="True" linespacing="10" oneline="False" shownamebox="True" scrollable="True" id="4" hidebutton="False">
+<name><![CDATA[Small box scroll]]></name>
+<boxbounds y="700" h="400" w="700" x="200"></boxbounds>
+<nameboxbounds y="660" h="40" w="150" x="200"></nameboxbounds>
+<boxpadding y="10" z="10" w="25" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+<dialogueposition mix="100" aligncenter="False" moveininterpolation="EaseOutQuad" moveouttime="0.3" choiceinactivealpha="0.5" fadeininterpolation="Linear" moveintime="0.3" autocollapse="False" miy="600" showshadow="True" mox="300" showbox="True" moveoutinterpolation="EaseInQuad" linespacing="10" moy="800" oneline="False" shownamebox="True" scrollable="False" id="5" fadeouttime="0.3" hidebutton="False" fadeintime="0.3" fadeoutinterpolation="Linear">
+<name><![CDATA[Move and fade!]]></name>
+<boxbounds y="700" h="400" w="700" x="200"></boxbounds>
+<nameboxbounds y="660" h="40" w="150" x="200"></nameboxbounds>
+<boxpadding y="10" z="10" w="10" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+<dialogueposition mix="100" aligncenter="False" moveininterpolation="EaseOutQuad" moveouttime="2" choiceinactivealpha="0.5" fadeininterpolation="Linear" moveintime="2" autocollapse="False" miy="600" showshadow="True" mox="300" showbox="True" moveoutinterpolation="EaseInQuad" linespacing="10" moy="800" oneline="False" shownamebox="True" scrollable="False" id="6" fadeouttime="2" hidebutton="False" fadeintime="2" fadeoutinterpolation="Linear">
+<name><![CDATA[Move and fade slow!]]></name>
+<boxbounds y="700" h="400" w="700" x="200"></boxbounds>
+<nameboxbounds y="660" h="40" w="150" x="200"></nameboxbounds>
+<boxpadding y="10" z="10" w="10" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+<dialogueposition mix="0" aligncenter="True" moveininterpolation="Linear" moveouttime="0.3" choiceinactivealpha="0.5" fadeininterpolation="Linear" moveintime="0.3" autocollapse="True" miy="-50" showshadow="True" mox="0" showbox="True" moveoutinterpolation="Linear" linespacing="10" moy="-50" oneline="True" shownamebox="True" scrollable="False" id="7" fadeouttime="0.3" hidebutton="True" fadeintime="0.3" fadeoutinterpolation="Linear">
+<name><![CDATA[Area Names]]></name>
+<boxbounds y="0" h="50" w="1920" x="0"></boxbounds>
+<nameboxbounds y="750" h="50" w="150" x="0"></nameboxbounds>
+<boxpadding y="10" z="10" w="10" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+<dialogueposition aligncenter="False" choiceinactivealpha="0.5" autocollapse="False" showshadow="True" showbox="True" linespacing="10" oneline="False" shownamebox="True" scrollable="True" id="8" hidebutton="False">
+<name><![CDATA[Big dialogue scrollable]]></name>
+<boxbounds y="300" h="600" w="900" x="510"></boxbounds>
+<nameboxbounds y="260" h="40" w="150" x="510"></nameboxbounds>
+<boxpadding y="10" z="10" w="25" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+<dialogueposition mix="760" aligncenter="False" moveininterpolation="Linear" moveouttime="0.3" choiceinactivealpha="0.5" fadeininterpolation="Linear" moveintime="0.3" autocollapse="True" miy="400" showshadow="True" mox="960" showbox="False" moveoutinterpolation="Linear" linespacing="10" moy="400" oneline="False" choiceox="15" shownamebox="False" scrollable="False" id="9" fadeouttime="0.3" hidebutton="False" choicewidth="200" fadeintime="0.3" fadeoutinterpolation="Linear">
+<name><![CDATA[Save Point]]></name>
+<boxbounds y="400" h="400" w="400" x="860"></boxbounds>
+<nameboxbounds y="750" h="50" w="150" x="0"></nameboxbounds>
+<boxpadding y="10" z="10" w="10" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+<dialogueposition mix="660" aligncenter="False" moveininterpolation="Linear" moveouttime="0.3" choiceinactivealpha="0.5" fadeininterpolation="Linear" moveintime="0.3" autocollapse="True" miy="400" showshadow="True" mox="860" showbox="True" moveoutinterpolation="Linear" linespacing="10" moy="400" oneline="False" shownamebox="True" scrollable="False" id="10" fadeouttime="0.3" hidebutton="False" fadeintime="0.3" fadeoutinterpolation="Linear">
+<name><![CDATA[Save Question]]></name>
+<boxbounds y="400" h="400" w="400" x="760"></boxbounds>
+<nameboxbounds y="750" h="50" w="150" x="0"></nameboxbounds>
+<boxpadding y="10" z="10" w="10" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+<dialogueposition mix="410" aligncenter="False" moveininterpolation="Linear" moveouttime="0.3" choiceinactivealpha="0.5" fadeininterpolation="Linear" moveintime="0.3" autocollapse="True" miy="300" showshadow="True" mox="610" showbox="True" moveoutinterpolation="Linear" linespacing="10" moy="300" oneline="False" shownamebox="True" scrollable="False" id="11" fadeouttime="0.3" hidebutton="False" fadeintime="0.3" fadeoutinterpolation="Linear">
+<name><![CDATA[Save Selection]]></name>
+<boxbounds y="300" h="600" w="900" x="510"></boxbounds>
+<nameboxbounds y="260" h="40" w="150" x="510"></nameboxbounds>
+<boxpadding y="10" z="10" w="10" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+<dialogueposition mix="0" aligncenter="False" moveininterpolation="Linear" moveouttime="0.3" choiceinactivealpha="0.5" fadeininterpolation="Linear" moveintime="0.3" autocollapse="True" miy="600" showshadow="True" mox="200" showbox="True" moveoutinterpolation="Linear" linespacing="10" moy="600" oneline="False" shownamebox="True" scrollable="False" id="12" fadeouttime="0.3" hidebutton="True" fadeintime="0.3" fadeoutinterpolation="Linear">
+<name><![CDATA[Battle Menu]]></name>
+<boxbounds y="600" h="600" w="300" x="100"></boxbounds>
+<nameboxbounds y="560" h="40" w="150" x="100"></nameboxbounds>
+<boxpadding y="10" z="10" w="10" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+<dialogueposition mix="0" aligncenter="False" moveininterpolation="Linear" moveouttime="0.3" choiceinactivealpha="0.5" fadeininterpolation="Linear" moveintime="0.3" autocollapse="False" miy="600" showshadow="True" mox="200" showbox="True" moveoutinterpolation="Linear" linespacing="10" moy="600" oneline="False" shownamebox="True" scrollable="True" id="13" fadeouttime="0.3" hidebutton="True" fadeintime="0.3" fadeoutinterpolation="Linear">
+<name><![CDATA[Skill Item Menu]]></name>
+<boxbounds y="600" h="400" w="300" x="100"></boxbounds>
+<nameboxbounds y="560" h="40" w="150" x="100"></nameboxbounds>
+<boxpadding y="10" z="10" w="10" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+<dialogueposition mix="0" aligncenter="True" moveininterpolation="EaseOutQuad" moveouttime="0.3" choiceinactivealpha="0.5" fadeininterpolation="Linear" moveintime="0.3" autocollapse="False" miy="450" showshadow="True" mox="0" showbox="False" moveoutinterpolation="EaseInQuad" linespacing="10" moy="650" oneline="True" shownamebox="True" scrollable="False" id="14" fadeouttime="0.3" hidebutton="True" fadeintime="0.3" fadeoutinterpolation="Linear">
+<name><![CDATA[Battle Message]]></name>
+<boxbounds y="550" h="400" w="1920" x="0"></boxbounds>
+<nameboxbounds y="750" h="50" w="150" x="0"></nameboxbounds>
+<boxpadding y="10" z="10" w="10" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+</dialoguepositions>

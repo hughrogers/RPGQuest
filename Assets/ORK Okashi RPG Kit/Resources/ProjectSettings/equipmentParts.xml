@@ -1,0 +1,26 @@
+<equipmentparts>
+<equipmentpart id="0">
+<name lang="0"><![CDATA[Weapon]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Waffe]]></name>
+<description lang="1"><![CDATA[]]></description>
+</equipmentpart>
+<equipmentpart id="1">
+<name lang="0"><![CDATA[Head]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Kopf]]></name>
+<description lang="1"><![CDATA[]]></description>
+</equipmentpart>
+<equipmentpart id="2">
+<name lang="0"><![CDATA[Armor]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Rüstung]]></name>
+<description lang="1"><![CDATA[]]></description>
+</equipmentpart>
+<equipmentpart id="3">
+<name lang="0"><![CDATA[Shoes]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Schuhe]]></name>
+<description lang="1"><![CDATA[]]></description>
+</equipmentpart>
+</equipmentparts>

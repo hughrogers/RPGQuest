@@ -1,0 +1,50 @@
+<areanames>
+<areaname id="0">
+<name lang="0"><![CDATA[Town entrance]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Dorfeingang]]></name>
+<description lang="1"><![CDATA[]]></description>
+</areaname>
+<areaname id="1">
+<name lang="0"><![CDATA[Green Area]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Grüne Gegend]]></name>
+<description lang="1"><![CDATA[]]></description>
+</areaname>
+<areaname id="2">
+<name lang="0"><![CDATA[Tree in the middle of town]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Baum in der Mitte des Dorfes]]></name>
+<description lang="1"><![CDATA[]]></description>
+</areaname>
+<areaname id="3">
+<name lang="0"><![CDATA[Red Area]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Rote Gegend]]></name>
+<description lang="1"><![CDATA[]]></description>
+</areaname>
+<areaname id="4">
+<name lang="0"><![CDATA[Purple Area]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Lila Gegend]]></name>
+<description lang="1"><![CDATA[]]></description>
+</areaname>
+<areaname id="5">
+<name lang="0"><![CDATA[Near Town]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Nahe dem Dorf]]></name>
+<description lang="1"><![CDATA[]]></description>
+</areaname>
+<areaname id="6">
+<name lang="0"><![CDATA[Forest]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Wald]]></name>
+<description lang="1"><![CDATA[]]></description>
+</areaname>
+<areaname id="7">
+<name lang="0"><![CDATA[Plain]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Ebene]]></name>
+<description lang="1"><![CDATA[]]></description>
+</areaname>
+</areanames>

@@ -1,0 +1,39 @@
+<enemies>
+<enemy attacks="1" baseelement="0" drops="2" ais="1" basecritical="0" sizes="1" effects="8" sizeid="0" baseblock="0" raceid="0" elements="7" isaggressive="True" level="5" id="0" races="1" basecounter="4" money="15" values="10">
+<animations></animations>
+<name lang="0"><![CDATA[Evil Pants]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Böse Hosen]]></name>
+<description lang="1"><![CDATA[]]></description>
+<statusvalue id="0" value="80"></statusvalue>
+<statusvalue id="1" value="0"></statusvalue>
+<statusvalue id="2" value="20"></statusvalue>
+<statusvalue id="3" value="0"></statusvalue>
+<statusvalue id="4" value="25"></statusvalue>
+<statusvalue id="5" value="10"></statusvalue>
+<statusvalue id="6" value="15"></statusvalue>
+<statusvalue id="7" value="25"></statusvalue>
+<statusvalue id="8" value="1"></statusvalue>
+<statusvalue id="9" value="50"></statusvalue>
+<effect id="2" value="REMOVE"></effect>
+<element id="1" value="200"></element>
+<element id="2" value="-100"></element>
+<itemdrop id="0" chance="50" item="0" type="ITEM"></itemdrop>
+<itemdrop id="1" chance="5" item="3" type="ITEM"></itemdrop>
+<aibehaviour id="0" actions="1" battleai="0">
+<action id="0" useid="0" attackselection="DEFEND" lvl="1"></action>
+</aibehaviour>
+<attack id="0" id2="0"></attack>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8">
+<idle id="-2"><![CDATA[idle]]></idle>
+<walk id="0"><![CDATA[walk]]></walk>
+<run id="0"><![CDATA[run]]></run>
+<sprint id="0"><![CDATA[sprint]]></sprint>
+<jump id="1"><![CDATA[jump]]></jump>
+<fall id="1"><![CDATA[fall]]></fall>
+<land id="0"><![CDATA[land]]></land>
+</fieldanimations>
+<variables variables="0" numbervariables="0"></variables>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</enemy>
+</enemies>

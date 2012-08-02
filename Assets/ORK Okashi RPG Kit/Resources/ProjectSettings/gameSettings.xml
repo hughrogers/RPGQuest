@@ -1,0 +1,41 @@
+<gamesettings>
+<gamesetting inputhandling="BUTTON_DOWN" langs="2" cursortimeout="0.25" itemcollectionpos="0" hudrefreshrate="0.5" maxactiveparty="3" gamecontrol="BOTH" guisystemtype="UNITY" dialogueokposition="BOTTOM_RIGHT" guifiltermode="Bilinear" battletexturedelete="NONE" maxrandomrange="100" mipmapbias="0.5" clicktimeout="0.2" scrollspeed="3" minrandomrange="0" areanametime="3" menutexturedelete="NONE" areanamepos="7" maxclickdistance="2" guiimagestretch="BILINEAR">
+<itemcollectiontext id="0"><![CDATA[You found % %n!]]></itemcollectiontext>
+<itemcollectionyestext id="0"><![CDATA[Take]]></itemcollectionyestext>
+<itemcollectionnotext id="0"><![CDATA[Leave]]></itemcollectionnotext>
+<itemcollectiontext id="1"><![CDATA[You found % %n!]]></itemcollectiontext>
+<itemcollectionyestext id="1"><![CDATA[Take]]></itemcollectionyestext>
+<itemcollectionnotext id="1"><![CDATA[Leave]]></itemcollectionnotext>
+<dialogueoktext id="0" x="0" width="100" y="0" height="30"><![CDATA[Ok]]></dialogueoktext>
+<dialogueoktext id="1" x="0" width="100" y="0" height="30"><![CDATA[Ok]]></dialogueoktext>
+<defaultscreen width="1920" height="1200"></defaultscreen>
+<dropsettings y2="-1" save="False" y1="1" x2="-1" x1="1" z1="1" z2="1"></dropsettings>
+<acceptkey><![CDATA[Accept]]></acceptkey>
+<cancelkey><![CDATA[Cancel]]></cancelkey>
+<verticalkey><![CDATA[Vertical]]></verticalkey>
+<horizontalkey><![CDATA[Horizontal]]></horizontalkey>
+<skillpluskey><![CDATA[]]></skillpluskey>
+<skillminuskey><![CDATA[]]></skillminuskey>
+<charpluskey><![CDATA[]]></charpluskey>
+<charminuskey><![CDATA[]]></charminuskey>
+<pausekey><![CDATA[]]></pausekey>
+<moneytext id="0"><![CDATA[% Money]]></moneytext>
+<moneytext id="1"><![CDATA[% Money]]></moneytext>
+<timetext id="0"><![CDATA[Time: %]]></timetext>
+<timetext id="1"><![CDATA[Time: %]]></timetext>
+<skilllevelname id="0"><![CDATA[%n Lvl %]]></skilllevelname>
+<skilllevelname id="1"><![CDATA[%n Lvl %]]></skilllevelname>
+<playercontrolsettings type="DEFAULT" rotatespeed="500" usecharacterspeed="true" speedsmoothing="10" usecamdir="True" runspeed="8" movedead="True" gravity="-9.81">
+<verticalaxis><![CDATA[Vertical]]></verticalaxis>
+<horizontalaxis><![CDATA[Horizontal]]></horizontalaxis>
+</playercontrolsettings>
+<cameracontrolsettings distance="10" rotationdamping="3" heightdamping="2" type="FOLLOW" height="15"></cameracontrolsettings>
+<moneyprefab><![CDATA[]]></moneyprefab>
+<moneycollectiontext id="0"><![CDATA[You found % money!]]></moneycollectiontext>
+<moneycollectionyes id="0"><![CDATA[Take]]></moneycollectionyes>
+<moneycollectionno id="0"><![CDATA[Leave]]></moneycollectionno>
+<moneycollectiontext id="1"><![CDATA[You found % money!]]></moneycollectiontext>
+<moneycollectionyes id="1"><![CDATA[Take]]></moneycollectionyes>
+<moneycollectionno id="1"><![CDATA[Leave]]></moneycollectionno>
+</gamesetting>
+</gamesettings>

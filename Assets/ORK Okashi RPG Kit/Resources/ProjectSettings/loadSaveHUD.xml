@@ -1,0 +1,26 @@
+<loadsavehuds>
+<loadsavehud langs="2" showload="True" fadeout="True" fadeininterpolate="Linear" fadeintime="0.5" sppos="9" savegametype="FILE" savequestionposition="10" saveposition="11" fadein="True" fadeoutinterpolate="Linear" maxsavegames="3" fadeouttime="0.5" showchoice="True">
+<savetext id="0"><![CDATA[Select save file]]></savetext>
+<savetext id="1"><![CDATA[Spielstand zum Speichern auswählen]]></savetext>
+<loadtext id="0"><![CDATA[Select load file]]></loadtext>
+<loadtext id="1"><![CDATA[Spielstand zum Laden auswählen]]></loadtext>
+<saveyestext id="0"><![CDATA[Yes]]></saveyestext>
+<saveyestext id="1"><![CDATA[Ja]]></saveyestext>
+<savenotext id="0"><![CDATA[No]]></savenotext>
+<savenotext id="1"><![CDATA[Nein]]></savenotext>
+<savequestiontext id="0"><![CDATA[Save file %i?]]></savequestiontext>
+<savequestiontext id="1"><![CDATA[Spielstand %i speichern?]]></savequestiontext>
+<loadquestiontext id="0"><![CDATA[Load file %i?]]></loadquestiontext>
+<loadquestiontext id="1"><![CDATA[Spielstand %i laden?]]></loadquestiontext>
+<fileinfolayout id="0"><![CDATA[File %i: %n Lvl. %l - %a, %t]]></fileinfolayout>
+<fileinfolayout id="1"><![CDATA[Spielstand %i: %n Lvl. %l - %a, %t]]></fileinfolayout>
+<emptyinfolayout id="0"><![CDATA[File %i: empty]]></emptyinfolayout>
+<emptyinfolayout id="1"><![CDATA[Spielstand %i: empty]]></emptyinfolayout>
+<spsavetext id="0"><![CDATA[Save]]></spsavetext>
+<spsavetext id="1"><![CDATA[Speichern]]></spsavetext>
+<sploadtext id="0"><![CDATA[Load]]></sploadtext>
+<sploadtext id="1"><![CDATA[Laden]]></sploadtext>
+<spcanceltext id="0"><![CDATA[Cancel]]></spcanceltext>
+<spcanceltext id="1"><![CDATA[Abbrechen]]></spcanceltext>
+</loadsavehud>
+</loadsavehuds>

@@ -1,0 +1,80 @@
+<items>
+<item useable="True" effects="8" targettype="ALLY" itemvariable="NONE" buyprice="50" useinbattle="true" skilltarget="SINGLE" useinfield="true" id="0" itemtype="0" sellprice="50" sellsetter="PERCENT" consume="True" values="10">
+<name lang="0"><![CDATA[Potion]]></name>
+<description lang="0"><![CDATA[Heals 150 HP]]></description>
+<name lang="1"><![CDATA[Trank]]></name>
+<description lang="1"><![CDATA[Heilt 150 LP]]></description>
+<valuechange id="1" value="150" operator="ADD" formulachooser="VALUE"></valuechange>
+<targetraycast></targetraycast>
+</item>
+<item useable="True" effects="8" targettype="ALLY" itemvariable="NONE" buyprice="200" useinbattle="true" skilltarget="SINGLE" useinfield="true" id="1" itemtype="0" sellprice="50" sellsetter="PERCENT" consume="True" values="10">
+<name lang="0"><![CDATA[Big Potion]]></name>
+<description lang="0"><![CDATA[Heals 500 HP]]></description>
+<name lang="1"><![CDATA[Großer Trank]]></name>
+<description lang="1"><![CDATA[Heilt 500 LP]]></description>
+<valuechange id="1" value="500" operator="ADD" formulachooser="VALUE"></valuechange>
+<targetraycast></targetraycast>
+</item>
+<item useable="True" effects="8" targettype="ALLY" itemvariable="NONE" buyprice="100" useinbattle="true" skilltarget="SINGLE" useinfield="true" id="2" itemtype="0" sellprice="50" sellsetter="PERCENT" consume="True" values="10">
+<name lang="0"><![CDATA[Aether]]></name>
+<description lang="0"><![CDATA[Heals 50 MP]]></description>
+<name lang="1"><![CDATA[Äther]]></name>
+<description lang="1"><![CDATA[Heilt 50 ZP]]></description>
+<valuechange id="3" value="50" operator="ADD" formulachooser="VALUE"></valuechange>
+<targetraycast></targetraycast>
+</item>
+<item useable="False" effects="8" itemvariable="NONE" buyprice="1000" skilltarget="SINGLE" targettype="ALLY" id="3" itemtype="1" sellprice="50" sellsetter="PERCENT" consume="True" values="10">
+<name lang="0"><![CDATA[Gold]]></name>
+<description lang="0"><![CDATA[Valuable!]]></description>
+<name lang="1"><![CDATA[Gold]]></name>
+<description lang="1"><![CDATA[Wertvoll!]]></description>
+<targetraycast></targetraycast>
+</item>
+<item useable="True" effects="8" targettype="ALLY" itemvariable="NONE" buyprice="500" skilltarget="SINGLE" useinfield="true" id="4" itemtype="0" sellprice="50" sellsetter="PERCENT" consume="True" values="10">
+<name lang="0"><![CDATA[MaxHP+]]></name>
+<description lang="0"><![CDATA[Increases MaxHP]]></description>
+<name lang="1"><![CDATA[MaxLP+]]></name>
+<description lang="1"><![CDATA[Erhöht MaxLP]]></description>
+<valuechange id="0" value="10" operator="ADD" formulachooser="VALUE"></valuechange>
+<targetraycast></targetraycast>
+</item>
+<item useable="True" effects="8" targettype="ALLY" itemvariable="NONE" buyprice="500" skilltarget="SINGLE" useinfield="true" id="5" itemtype="0" sellprice="50" sellsetter="PERCENT" consume="True" values="10">
+<name lang="0"><![CDATA[MaxMP+]]></name>
+<description lang="0"><![CDATA[Increases MaxMP]]></description>
+<name lang="1"><![CDATA[MaxZP+]]></name>
+<description lang="1"><![CDATA[Erhöht MaxZP]]></description>
+<valuechange id="2" value="10" operator="ADD" formulachooser="VALUE"></valuechange>
+<targetraycast></targetraycast>
+</item>
+<item useable="True" effects="8" targettype="ALLY" itemvariable="NONE" buyprice="500" skilltarget="SINGLE" useinfield="true" id="6" itemtype="0" sellprice="50" sellsetter="PERCENT" consume="True" values="10">
+<name lang="0"><![CDATA[STR+]]></name>
+<description lang="0"><![CDATA[Increases STR]]></description>
+<name lang="1"><![CDATA[STR+]]></name>
+<description lang="1"><![CDATA[Erhöht STR]]></description>
+<valuechange id="4" value="1" operator="ADD" formulachooser="VALUE"></valuechange>
+<targetraycast></targetraycast>
+</item>
+<item useable="False" effects="8" itemvariable="NONE" buyprice="0" skilltarget="SINGLE" targettype="ALLY" id="7" itemtype="2" sellprice="50" sellsetter="PERCENT" consume="True" values="10">
+<name lang="0"><![CDATA[Quest Item A]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Quest Item A]]></name>
+<description lang="1"><![CDATA[]]></description>
+<targetraycast></targetraycast>
+</item>
+<item useable="False" effects="8" itemvariable="NONE" buyprice="0" skilltarget="SINGLE" targettype="ALLY" id="8" itemtype="2" sellprice="50" sellsetter="PERCENT" consume="True" values="10">
+<name lang="0"><![CDATA[Quest Item B]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Quest Item B]]></name>
+<description lang="1"><![CDATA[]]></description>
+<targetraycast></targetraycast>
+</item>
+<item useable="True" effects="8" targettype="ALLY" itemvariable="NONE" buyprice="50" revive="true" useinbattle="true" skilltarget="SINGLE" useinfield="true" id="9" itemtype="0" sellprice="50" sellsetter="PERCENT" consume="True" values="10">
+<name lang="0"><![CDATA[Revive Potion]]></name>
+<description lang="0"><![CDATA[Revives Character]]></description>
+<name lang="1"><![CDATA[Wiederbelebungstrank]]></name>
+<description lang="1"><![CDATA[Belebt wieder]]></description>
+<valuechange id="1" operator="ADD" formulachooser="STATUS" status="0"></valuechange>
+<valuechange id="3" operator="ADD" formulachooser="STATUS" status="2"></valuechange>
+<targetraycast></targetraycast>
+</item>
+</items>

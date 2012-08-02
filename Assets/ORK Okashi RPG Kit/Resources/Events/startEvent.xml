@@ -1,0 +1,6 @@
+<gameevents>
+<gameevent block="True" audioclips="0" steps="2" maincam="True" prefabs="0" waypoints="0" actors="0">
+<step id="0" character="0" type="JOIN_PARTY" next="1"></step>
+<step id="1" type="SPAWN_PLAYER" next="2" spawn="0"></step>
+</gameevent>
+</gameevents>

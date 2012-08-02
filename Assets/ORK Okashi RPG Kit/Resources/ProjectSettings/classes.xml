@@ -1,0 +1,21 @@
+<classes>
+<class armors="4" equipparts="4" skills="2" sizes="1" id="0" weapons="3" elements="7" races="1">
+<name lang="0"><![CDATA[Base class]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Basisklasse]]></name>
+<description lang="1"><![CDATA[]]></description>
+<equippart id="0"></equippart>
+<equippart id="1"></equippart>
+<equippart id="2"></equippart>
+<equippart id="3"></equippart>
+<weapon id="0"></weapon>
+<weapon id="1"></weapon>
+<weapon id="2"></weapon>
+<armor id="0"></armor>
+<armor id="1"></armor>
+<armor id="2"></armor>
+<armor id="3"></armor>
+<skill id="0" slvl="1" level="4" skill="1"></skill>
+<skill id="1" slvl="1" level="6" skill="4"></skill>
+</class>
+</classes>

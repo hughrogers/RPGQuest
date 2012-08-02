@@ -1,0 +1,128 @@
+<skills>
+<skill id="0" skilltype="0" useinbattle="true" levels="1" skilltarget="SINGLE" targettype="ENEMY">
+<name lang="0"><![CDATA[Fire]]></name>
+<description lang="0"><![CDATA[Fire damage]]></description>
+<name lang="1"><![CDATA[Feuer]]></name>
+<description lang="1"><![CDATA[Feuerschaden]]></description>
+<level id="0" effects="8" element="1" consumes="10" skillcombos="0">
+<targetconsume id="1" formula="2" operator="SUB" formulachooser="FORMULA"></targetconsume>
+<userconsume id="3" value="5" operator="SUB" formulachooser="VALUE"></userconsume>
+<stealchance></stealchance>
+</level>
+<targetraycast></targetraycast>
+</skill>
+<skill id="1" skilltype="1" useinbattle="true" levels="1" skilltarget="SINGLE" targettype="ALLY">
+<name lang="0"><![CDATA[Boost]]></name>
+<description lang="0"><![CDATA[Effect boost on target]]></description>
+<name lang="1"><![CDATA[Boost]]></name>
+<description lang="1"><![CDATA[Effekt Boost aufs Ziel]]></description>
+<level id="0" effects="8" element="0" consumes="10" skillcombos="0">
+<userconsume id="3" value="2" operator="SUB" formulachooser="VALUE"></userconsume>
+<effect id="1" value="ADD"></effect>
+<stealchance></stealchance>
+</level>
+<targetraycast></targetraycast>
+</skill>
+<skill targettype="ALLY" levels="1" useinbattle="true" id="2" useinfield="true" skilltarget="SINGLE" skilltype="0">
+<name lang="0"><![CDATA[Heal]]></name>
+<description lang="0"><![CDATA[Heals 500 HP]]></description>
+<name lang="1"><![CDATA[Heilung]]></name>
+<description lang="1"><![CDATA[Heilt 500 HP]]></description>
+<level id="0" effects="8" element="5" consumes="10" skillcombos="0">
+<targetconsume id="1" value="500" operator="ADD" formulachooser="VALUE"></targetconsume>
+<userconsume id="3" value="4" operator="SUB" formulachooser="VALUE"></userconsume>
+<stealchance></stealchance>
+</level>
+<targetraycast></targetraycast>
+</skill>
+<skill id="3" skilltype="0" useinbattle="true" levels="1" skilltarget="SINGLE" targettype="ALLY">
+<name lang="0"><![CDATA[Regeneration]]></name>
+<description lang="0"><![CDATA[Effect regeneration]]></description>
+<name lang="1"><![CDATA[Regeneration]]></name>
+<description lang="1"><![CDATA[Effekt Regeneration]]></description>
+<level id="0" effects="8" element="5" consumes="10" skillcombos="0">
+<userconsume id="3" value="6" operator="SUB" formulachooser="VALUE"></userconsume>
+<effect id="3" value="ADD"></effect>
+<stealchance></stealchance>
+</level>
+<targetraycast></targetraycast>
+</skill>
+<skill id="4" skilltype="0" useinbattle="true" levels="1" skilltarget="SINGLE" targettype="ALLY">
+<name lang="0"><![CDATA[Cure Effect]]></name>
+<description lang="0"><![CDATA[Cures all effects]]></description>
+<name lang="1"><![CDATA[Heile Effekt]]></name>
+<description lang="1"><![CDATA[Heilt alle Effekte]]></description>
+<level id="0" effects="8" element="0" consumes="10" skillcombos="0">
+<userconsume id="3" value="3" operator="SUB" formulachooser="VALUE"></userconsume>
+<effect id="0" value="REMOVE"></effect>
+<effect id="1" value="REMOVE"></effect>
+<effect id="2" value="REMOVE"></effect>
+<effect id="3" value="REMOVE"></effect>
+<effect id="4" value="REMOVE"></effect>
+<effect id="5" value="REMOVE"></effect>
+<effect id="6" value="REMOVE"></effect>
+<effect id="7" value="REMOVE"></effect>
+<stealchance></stealchance>
+</level>
+<targetraycast></targetraycast>
+</skill>
+<skill id="5" skilltype="0" useinbattle="true" levels="1" skilltarget="SINGLE" targettype="ALLY">
+<name lang="0"><![CDATA[Enchant Fire]]></name>
+<description lang="0"><![CDATA[Effect enchant fire]]></description>
+<name lang="1"><![CDATA[Feuerverzaubern]]></name>
+<description lang="1"><![CDATA[Effekt Feuerverzaubern]]></description>
+<level id="0" effects="8" element="0" consumes="10" skillcombos="0">
+<userconsume id="3" value="5" operator="SUB" formulachooser="VALUE"></userconsume>
+<effect id="4" value="ADD"></effect>
+<stealchance></stealchance>
+</level>
+<targetraycast></targetraycast>
+</skill>
+<skill id="6" skilltype="1" useinbattle="true" levels="1" skilltarget="SINGLE" targettype="ENEMY">
+<name lang="0"><![CDATA[Cyclone]]></name>
+<description lang="0"><![CDATA[New Description]]></description>
+<name lang="1"><![CDATA[New Skill]]></name>
+<description lang="1"><![CDATA[New Description]]></description>
+<level id="0" hitchance="1" effects="8" element="0" consumes="10" skillcombos="0">
+<targetconsume id="1" formula="3" operator="SUB" formulachooser="FORMULA"></targetconsume>
+<userconsume id="3" value="5" operator="SUB" formulachooser="VALUE"></userconsume>
+<stealchance></stealchance>
+</level>
+<targetraycast></targetraycast>
+</skill>
+<skill targettype="ALLY" levels="1" useinbattle="true" id="7" useinfield="true" skilltarget="SINGLE" skilltype="0">
+<name lang="0"><![CDATA[Revive]]></name>
+<description lang="0"><![CDATA[Revives target]]></description>
+<name lang="1"><![CDATA[Wiederbelebung]]></name>
+<description lang="1"><![CDATA[Wiederbelebt Ziel]]></description>
+<level id="0" revive="true" effects="8" element="5" consumes="10" skillcombos="0">
+<targetconsume id="1" operator="ADD" formulachooser="STATUS" status="0"></targetconsume>
+<userconsume id="3" value="15" operator="SUB" formulachooser="VALUE"></userconsume>
+<stealchance></stealchance>
+</level>
+<targetraycast></targetraycast>
+</skill>
+<skill id="8" skilltype="0" useinbattle="true" levels="1" skilltarget="SINGLE" targettype="ENEMY">
+<name lang="0"><![CDATA[Water]]></name>
+<description lang="0"><![CDATA[Water damage]]></description>
+<name lang="1"><![CDATA[Wasser]]></name>
+<description lang="1"><![CDATA[Wasserschaden]]></description>
+<level id="0" effects="8" element="2" consumes="10" skillcombos="0">
+<targetconsume id="1" formula="2" operator="SUB" formulachooser="FORMULA"></targetconsume>
+<userconsume id="3" value="5" operator="SUB" formulachooser="VALUE"></userconsume>
+<stealchance></stealchance>
+</level>
+<targetraycast></targetraycast>
+</skill>
+<skill id="9" skilltype="0" useinbattle="true" levels="1" skilltarget="SINGLE" targettype="ENEMY">
+<name lang="0"><![CDATA[Poison]]></name>
+<description lang="0"><![CDATA[Poisons enemy]]></description>
+<name lang="1"><![CDATA[Gift]]></name>
+<description lang="1"><![CDATA[Vergiftet Gegner]]></description>
+<level id="0" effects="8" element="0" consumes="10" skillcombos="0">
+<effect id="0" value="ADD"></effect>
+<stealchance></stealchance>
+</level>
+<targetraycast></targetraycast>
+</skill>
+</skills>

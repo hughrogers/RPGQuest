@@ -1,0 +1,63 @@
+<statuseffects>
+<effect end="TURN" conditions="10" endvalue="5" sizes="1" endchance="50" endwithbattle="True" elements="7" id="0" races="1">
+<name lang="0"><![CDATA[Poison]]></name>
+<description lang="0"><![CDATA[Lowers HP every turn]]></description>
+<name lang="1"><![CDATA[Gift]]></name>
+<description lang="1"><![CDATA[Senkt jede Runde LP]]></description>
+<condition id="1" execution="TURN" time="0" value="5" operator="SUB" setter="PERCENT"></condition>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</effect>
+<effect end="TURN" conditions="10" endvalue="3" sizes="1" endchance="100" endwithbattle="True" elements="7" id="1" races="1">
+<name lang="0"><![CDATA[Boost]]></name>
+<description lang="0"><![CDATA[Increases STR]]></description>
+<name lang="1"><![CDATA[Boost]]></name>
+<description lang="1"><![CDATA[Erhöht STR]]></description>
+<condition id="4" execution="CAST" time="0" value="20" operator="ADD" setter="VALUE"></condition>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</effect>
+<effect end="NONE" conditions="10" endvalue="0" sizes="1" endchance="0" endwithbattle="True" elements="7" id="2" races="1">
+<name lang="0"><![CDATA[Blind]]></name>
+<description lang="0"><![CDATA[Lowers hit chance]]></description>
+<name lang="1"><![CDATA[Blind]]></name>
+<description lang="1"><![CDATA[Senkt Trefferchance]]></description>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="-50" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</effect>
+<effect end="TIME" conditions="10" endvalue="300" sizes="1" endchance="0" endwithbattle="True" elements="7" id="3" races="1">
+<name lang="0"><![CDATA[Regeneration]]></name>
+<description lang="0"><![CDATA[Regenerates HP every turn]]></description>
+<name lang="1"><![CDATA[Regeneration]]></name>
+<description lang="1"><![CDATA[Regeneriert jede Runde HP]]></description>
+<condition id="1" execution="TURN" time="0" value="5" operator="ADD" setter="PERCENT"></condition>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</effect>
+<effect end="TURN" conditions="10" endvalue="4" sizes="1" endchance="100" endwithbattle="True" elements="7" attackelement="1" id="4" races="1">
+<name lang="0"><![CDATA[Enchant Fire]]></name>
+<description lang="0"><![CDATA[Fire attack element, higher fire defence]]></description>
+<name lang="1"><![CDATA[Feuerverzaubern]]></name>
+<description lang="1"><![CDATA[Angriffselement Feuer, höhere Verteidigung gegen Feuer]]></description>
+<element id="1" value="-100" operator="SET"></element>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</effect>
+<effect end="NONE" conditions="10" endvalue="0" sizes="1" endchance="0" endwithbattle="True" elements="7" id="5" blockskills="true" races="1">
+<name lang="0"><![CDATA[Block]]></name>
+<description lang="0"><![CDATA[Disables skills]]></description>
+<name lang="1"><![CDATA[Blockiert]]></name>
+<description lang="1"><![CDATA[Verhindert die Ausführung von Fähigkeiten]]></description>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</effect>
+<effect end="NONE" conditions="10" endvalue="0" sizes="1" endchance="0" endwithbattle="True" elements="7" id="6" races="1" autoattack="true">
+<name lang="0"><![CDATA[Berserk]]></name>
+<description lang="0"><![CDATA[Automatically attacks, higher STR]]></description>
+<name lang="1"><![CDATA[Berserker]]></name>
+<description lang="1"><![CDATA[Greift automatisch an, mehr STR]]></description>
+<condition id="4" execution="CAST" time="0" value="50" operator="ADD" setter="PERCENT"></condition>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</effect>
+<effect attackfriends="true" end="NONE" conditions="10" endvalue="0" sizes="1" endchance="0" endwithbattle="True" endonattack="true" elements="7" id="7" races="1">
+<name lang="0"><![CDATA[Crazy]]></name>
+<description lang="0"><![CDATA[Attacks friends]]></description>
+<name lang="1"><![CDATA[Verrückt]]></name>
+<description lang="1"><![CDATA[Greift Freunde an]]></description>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</effect>
+</statuseffects>

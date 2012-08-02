@@ -1,0 +1,9 @@
+<itemrecipes>
+<itemrecipe id="0" quantity="1" itemid="1" type="ITEM" ingredients="1">
+<ingredient id="0" quantity="2" itemid="0" type="ITEM"></ingredient>
+<name lang="0"><![CDATA[Big Potion]]></name>
+<description lang="0"><![CDATA[]]></description>
+<name lang="1"><![CDATA[Großer Trank]]></name>
+<description lang="1"><![CDATA[]]></description>
+</itemrecipe>
+</itemrecipes>

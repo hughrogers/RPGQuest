@@ -1,0 +1,44 @@
+<elements>
+<element id="0">
+<name lang="0"><![CDATA[Normal]]></name>
+<description lang="0"><![CDATA[No element]]></description>
+<name lang="1"><![CDATA[Normal]]></name>
+<description lang="1"><![CDATA[Kein Element]]></description>
+</element>
+<element id="1">
+<name lang="0"><![CDATA[Fire]]></name>
+<description lang="0"><![CDATA[Fire element]]></description>
+<name lang="1"><![CDATA[Feuer]]></name>
+<description lang="1"><![CDATA[Feuerelement]]></description>
+</element>
+<element id="2">
+<name lang="0"><![CDATA[Water]]></name>
+<description lang="0"><![CDATA[Water element]]></description>
+<name lang="1"><![CDATA[Wasser]]></name>
+<description lang="1"><![CDATA[Wasserelement]]></description>
+</element>
+<element id="3">
+<name lang="0"><![CDATA[Earth]]></name>
+<description lang="0"><![CDATA[Earth element]]></description>
+<name lang="1"><![CDATA[Erde]]></name>
+<description lang="1"><![CDATA[Erdelement]]></description>
+</element>
+<element id="4">
+<name lang="0"><![CDATA[Wind]]></name>
+<description lang="0"><![CDATA[Wind element]]></description>
+<name lang="1"><![CDATA[Wind]]></name>
+<description lang="1"><![CDATA[Windelement]]></description>
+</element>
+<element id="5">
+<name lang="0"><![CDATA[Light]]></name>
+<description lang="0"><![CDATA[Light element]]></description>
+<name lang="1"><![CDATA[Licht]]></name>
+<description lang="1"><![CDATA[Lichtelement]]></description>
+</element>
+<element id="6">
+<name lang="0"><![CDATA[Dark]]></name>
+<description lang="0"><![CDATA[Dark element]]></description>
+<name lang="1"><![CDATA[Dunkel]]></name>
+<description lang="1"><![CDATA[Dunkles Element]]></description>
+</element>
+</elements>

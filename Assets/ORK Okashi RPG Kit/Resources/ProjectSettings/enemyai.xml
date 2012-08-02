@@ -1,0 +1,34 @@
+<ais>
+<ai id="0" conditions="1" needed="ALL">
+<name><![CDATA[33 % Chance]]></name>
+<condition id="0" target="SELF" chance="33" type="CHANCE"></condition>
+</ai>
+<ai id="1" conditions="1" needed="ALL">
+<name><![CDATA[66 % Chance]]></name>
+<condition id="0" target="SELF" chance="66" type="CHANCE"></condition>
+</ai>
+<ai id="2" conditions="1" needed="ALL">
+<name><![CDATA[100 % Chance]]></name>
+<condition id="0" target="SELF" chance="100" type="CHANCE"></condition>
+</ai>
+<ai id="3" conditions="1" needed="ALL">
+<name><![CDATA[Own HP<25 %]]></name>
+<condition statussetter="PERCENT" type="STATUS" statuscheck="LESS" statusid="1" target="SELF" id="0" statusvalue="25" checkstatusid="0"></condition>
+</ai>
+<ai id="4" conditions="1" needed="ALL">
+<name><![CDATA[Ally HP<25 %]]></name>
+<condition statussetter="PERCENT" type="STATUS" statuscheck="LESS" statusid="1" target="ALLY" id="0" statusvalue="25" checkstatusid="0"></condition>
+</ai>
+<ai id="5" conditions="5" needed="ONE">
+<name><![CDATA[Ally negative status]]></name>
+<condition id="0" effectactive="ACTIVE" target="ALLY" type="EFFECT" effectid="0"></condition>
+<condition id="1" effectactive="ACTIVE" target="ALLY" type="EFFECT" effectid="2"></condition>
+<condition id="2" effectactive="ACTIVE" target="ALLY" type="EFFECT" effectid="5"></condition>
+<condition id="3" effectactive="ACTIVE" target="ALLY" type="EFFECT" effectid="6"></condition>
+<condition id="4" effectactive="ACTIVE" target="ALLY" type="EFFECT" effectid="7"></condition>
+</ai>
+<ai id="6" conditions="1" needed="ALL">
+<name><![CDATA[Ally not boosted]]></name>
+<condition id="0" effectactive="INACTIVE" target="ALLY" type="EFFECT" effectid="1"></condition>
+</ai>
+</ais>

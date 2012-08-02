@@ -1,0 +1,33 @@
+<weapons>
+<weapon equipparts="4" sizes="1" effects="8" buyprice="50" elements="7" id="0" sellprice="50" sellsetter="PERCENT" races="1" bonuses="10" equiptype="SINGLE">
+<animations ownbase="False"></animations>
+<name lang="0"><![CDATA[Short Sword]]></name>
+<description lang="0"><![CDATA[A short sword]]></description>
+<name lang="1"><![CDATA[Kurzschwert]]></name>
+<description lang="1"><![CDATA[Ein kurzes Schwert]]></description>
+<equippart id="0" enabled="True"></equippart>
+<bonus id="4" value="10"></bonus>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</weapon>
+<weapon equipparts="4" sizes="1" effects="8" buyprice="100" elements="7" id="1" sellprice="50" sellsetter="PERCENT" races="1" bonuses="10" equiptype="SINGLE">
+<animations ownbase="False"></animations>
+<name lang="0"><![CDATA[Long Sword]]></name>
+<description lang="0"><![CDATA[A long sword]]></description>
+<name lang="1"><![CDATA[Langschwert]]></name>
+<description lang="1"><![CDATA[Ein langes Schwert]]></description>
+<equippart id="0" enabled="True"></equippart>
+<bonus id="4" value="20"></bonus>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="25" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</weapon>
+<weapon attacks="1" element="1" equipparts="4" sizes="1" effects="8" buyprice="200" elements="7" id="2" sellprice="50" sellsetter="PERCENT" races="1" bonuses="10" equiptype="SINGLE">
+<animations ownbase="False"></animations>
+<name lang="0"><![CDATA[Firesword]]></name>
+<description lang="0"><![CDATA[A fire element Sword]]></description>
+<name lang="1"><![CDATA[Feuerschwert]]></name>
+<description lang="1"><![CDATA[Ein Feuerelement Schwert]]></description>
+<equippart id="0" enabled="True"></equippart>
+<bonus id="4" value="20"></bonus>
+<attack id="0" id2="1"></attack>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</weapon>
+</weapons>

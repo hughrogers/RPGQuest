@@ -1,0 +1,20 @@
+<itemtypes>
+<itemtype id="0">
+<name lang="0"><![CDATA[Useable]]></name>
+<description lang="0"><![CDATA[Useable items]]></description>
+<name lang="1"><![CDATA[Benützbar]]></name>
+<description lang="1"><![CDATA[Benützbare Gegenstände]]></description>
+</itemtype>
+<itemtype id="1">
+<name lang="0"><![CDATA[Valuables]]></name>
+<description lang="0"><![CDATA[Valuable items]]></description>
+<name lang="1"><![CDATA[Wertsachen]]></name>
+<description lang="1"><![CDATA[Wertgegenstände]]></description>
+</itemtype>
+<itemtype id="2">
+<name lang="0"><![CDATA[Quest Items]]></name>
+<description lang="0"><![CDATA[Items used in quests]]></description>
+<name lang="1"><![CDATA[Quest Items]]></name>
+<description lang="1"><![CDATA[Items für Quests]]></description>
+</itemtype>
+</itemtypes>

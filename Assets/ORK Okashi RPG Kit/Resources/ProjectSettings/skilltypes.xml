@@ -1,0 +1,14 @@
+<skilltypes>
+<skilltype id="0">
+<name lang="0"><![CDATA[Magic]]></name>
+<description lang="0"><![CDATA[Magic skills]]></description>
+<name lang="1"><![CDATA[Magie]]></name>
+<description lang="1"><![CDATA[Magiefähigkeiten]]></description>
+</skilltype>
+<skilltype id="1">
+<name lang="0"><![CDATA[Abilities]]></name>
+<description lang="0"><![CDATA[Battle abilities]]></description>
+<name lang="1"><![CDATA[Fähigkeiten]]></name>
+<description lang="1"><![CDATA[Kampffähigkeiten]]></description>
+</skilltype>
+</skilltypes>

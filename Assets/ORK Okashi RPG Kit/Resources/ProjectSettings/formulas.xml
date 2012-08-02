@@ -1,0 +1,85 @@
+<formulas>
+<formula id="0" pieces="5">
+<name><![CDATA[Base attack]]></name>
+<piece id="0" operator="DIVIDE" chooser="STATUS" status="7" statusorigin="USER"></piece>
+<piece id="1" value="5" operator="ADD" chooser="VALUE"></piece>
+<piece id="2" operator="ADD" chooser="STATUS" status="4" statusorigin="USER"></piece>
+<piece id="3" operator="MULTIPLY" min="0" chooser="RANDOM" max="10"></piece>
+<piece id="4" formula="10" operator="DONE" chooser="FORMULA"></piece>
+</formula>
+<formula id="1" pieces="3">
+<name><![CDATA[Hit chance]]></name>
+<piece id="0" operator="DIVIDE" chooser="STATUS" status="7" statusorigin="USER"></piece>
+<piece id="1" operator="MULTIPLY" chooser="STATUS" status="6" statusorigin="TARGET"></piece>
+<piece id="2" value="100" operator="DONE" chooser="VALUE"></piece>
+</formula>
+<formula id="2" pieces="4">
+<name><![CDATA[Magic attack]]></name>
+<piece id="0" operator="ADD" chooser="STATUS" status="8" statusorigin="USER"></piece>
+<piece id="1" operator="MULTIPLY" min="0" chooser="RANDOM" max="10"></piece>
+<piece id="2" value="3" operator="MULTIPLY" chooser="VALUE"></piece>
+<piece id="3" formula="10" operator="DONE" chooser="FORMULA"></piece>
+</formula>
+<formula id="3" pieces="4">
+<name><![CDATA[Skill attack]]></name>
+<piece id="0" operator="ADD" chooser="STATUS" status="4" statusorigin="USER"></piece>
+<piece id="1" operator="MULTIPLY" min="0" chooser="RANDOM" max="10"></piece>
+<piece id="2" value="5" operator="MULTIPLY" chooser="VALUE"></piece>
+<piece id="3" formula="10" operator="DONE" chooser="FORMULA"></piece>
+</formula>
+<formula id="4" pieces="3">
+<name><![CDATA[Counter chance]]></name>
+<piece id="0" operator="DIVIDE" chooser="STATUS" status="7" statusorigin="USER"></piece>
+<piece id="1" operator="MULTIPLY" chooser="STATUS" status="7" statusorigin="TARGET"></piece>
+<piece id="2" value="50" operator="DONE" chooser="VALUE"></piece>
+</formula>
+<formula id="5" pieces="3">
+<name><![CDATA[Time Calc]]></name>
+<piece id="0" operator="DIVIDE" chooser="STATUS" status="7" statusorigin="USER"></piece>
+<piece id="1" value="2" operator="ADD" chooser="VALUE"></piece>
+<piece id="2" operator="DONE" chooser="STATUS" status="6" statusorigin="USER"></piece>
+</formula>
+<formula id="6" pieces="2">
+<name><![CDATA[Start Time Calc]]></name>
+<piece id="0" formula="5" operator="MULTIPLY" chooser="FORMULA"></piece>
+<piece id="1" operator="DONE" min="0" chooser="RANDOM" max="20"></piece>
+</formula>
+<formula id="7" pieces="4">
+<name><![CDATA[Defend %]]></name>
+<piece id="0" operator="DIVIDE" chooser="STATUS" status="5" statusorigin="USER"></piece>
+<piece id="1" value="255" operator="MULTIPLY" chooser="VALUE"></piece>
+<piece id="2" value="25" operator="ADD" chooser="VALUE"></piece>
+<piece id="3" value="50" operator="DONE" chooser="VALUE"></piece>
+</formula>
+<formula id="8" pieces="4">
+<name><![CDATA[Escape Chance]]></name>
+<piece id="0" operator="DIVIDE" chooser="STATUS" status="6" statusorigin="USER"></piece>
+<piece id="1" value="255" operator="MULTIPLY" chooser="VALUE"></piece>
+<piece id="2" value="25" operator="ADD" chooser="VALUE"></piece>
+<piece id="3" value="15" operator="DONE" chooser="VALUE"></piece>
+</formula>
+<formula id="9" pieces="2">
+<name><![CDATA[Base defence]]></name>
+<piece id="0" operator="DIVIDE" chooser="STATUS" status="5" statusorigin="TARGET"></piece>
+<piece id="1" value="300" operator="DONE" chooser="VALUE"></piece>
+</formula>
+<formula id="10" pieces="2">
+<name><![CDATA[Defence reduction]]></name>
+<piece id="0" value="1" operator="SUB" chooser="VALUE"></piece>
+<piece id="1" formula="9" operator="DONE" chooser="FORMULA"></piece>
+</formula>
+<formula id="11" pieces="4">
+<name><![CDATA[Critical chance]]></name>
+<piece id="0" operator="DIVIDE" chooser="STATUS" status="7" statusorigin="USER"></piece>
+<piece id="1" value="8" operator="DIVIDE" chooser="VALUE"></piece>
+<piece id="2" operator="MULTIPLY" chooser="STATUS" status="6" statusorigin="TARGET"></piece>
+<piece id="3" value="100" operator="DONE" chooser="VALUE"></piece>
+</formula>
+<formula id="12" pieces="4">
+<name><![CDATA[Critical attack]]></name>
+<piece id="0" operator="DIVIDE" chooser="STATUS" status="7" statusorigin="USER"></piece>
+<piece id="1" value="5" operator="ADD" chooser="VALUE"></piece>
+<piece id="2" operator="ADD" chooser="STATUS" status="4" statusorigin="USER"></piece>
+<piece id="3" operator="DONE" min="0" chooser="RANDOM" max="10"></piece>
+</formula>
+</formulas>

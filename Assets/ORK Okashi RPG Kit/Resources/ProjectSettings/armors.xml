@@ -1,0 +1,39 @@
+<armors>
+<armor equipparts="4" sizes="1" effects="8" buyprice="50" elements="8" id="0" sellprice="50" sellsetter="PERCENT" races="1" bonuses="10" equiptype="SINGLE">
+<name lang="0"><![CDATA[Helmet]]></name>
+<description lang="0"><![CDATA[Wear it on your head]]></description>
+<name lang="1"><![CDATA[Helm]]></name>
+<description lang="1"><![CDATA[Trag es am Kopf]]></description>
+<equippart id="1" enabled="True"></equippart>
+<bonus id="5" value="5"></bonus>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</armor>
+<armor equipparts="4" sizes="1" effects="8" buyprice="100" elements="8" id="1" sellprice="50" sellsetter="PERCENT" races="1" bonuses="10" equiptype="SINGLE">
+<name lang="0"><![CDATA[Armor]]></name>
+<description lang="0"><![CDATA[Protects your body]]></description>
+<name lang="1"><![CDATA[Rüstung]]></name>
+<description lang="1"><![CDATA[Schützt deinen Körper]]></description>
+<equippart id="2" enabled="True"></equippart>
+<bonus id="5" value="15"></bonus>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</armor>
+<armor equipparts="4" sizes="1" effects="8" buyprice="200" elements="8" id="2" sellprice="50" sellsetter="PERCENT" races="1" bonuses="10" equiptype="SINGLE">
+<name lang="0"><![CDATA[Fire armor]]></name>
+<description lang="0"><![CDATA[Protects your body with fire element]]></description>
+<name lang="1"><![CDATA[Rüstung]]></name>
+<description lang="1"><![CDATA[Schützt deinen Körper mit Feuerelement]]></description>
+<equippart id="2" enabled="True"></equippart>
+<bonus id="5" value="15"></bonus>
+<element id="1" value="50" operator="SUB"></element>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</armor>
+<armor equipparts="4" sizes="1" effects="8" buyprice="100" elements="8" id="3" sellprice="50" sellsetter="PERCENT" races="1" bonuses="10" equiptype="SINGLE">
+<name lang="0"><![CDATA[Shoes]]></name>
+<description lang="0"><![CDATA[Make you faster]]></description>
+<name lang="1"><![CDATA[Schuhe]]></name>
+<description lang="1"><![CDATA[Machen dich schneller]]></description>
+<equippart id="3" enabled="True"></equippart>
+<bonus id="6" value="10"></bonus>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</armor>
+</armors>

@@ -1,0 +1,14 @@
+<baseattacks>
+<name id="0"><![CDATA[Default Attack]]></name>
+<name id="1"><![CDATA[Weapon Attack]]></name>
+<baseattack id="0" hitchance="1" critical="true" itemconsumes="0">
+<consume id="1" formula="0" operator="SUB" formulachooser="FORMULA" cancelskills="true"></consume>
+<criticalconsume id="1" formula="12" operator="SUB" formulachooser="FORMULA" cancelskills="true"></criticalconsume>
+<stealchance></stealchance>
+</baseattack>
+<baseattack id="1" hitchance="1" critical="true" itemconsumes="0">
+<consume id="1" formula="0" operator="SUB" formulachooser="FORMULA" cancelskills="true"></consume>
+<criticalconsume id="1" formula="12" operator="SUB" formulachooser="FORMULA" cancelskills="true"></criticalconsume>
+<stealchance></stealchance>
+</baseattack>
+</baseattacks>

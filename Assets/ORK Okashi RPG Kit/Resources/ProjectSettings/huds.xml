@@ -1,0 +1,49 @@
+<huds>
+<hud moveininterpolation="EaseOutQuad" moveintime="0.3" moveouttime="0.3" mix="785" onlyone="True" x="885" y="575" miy="575" fadeintime="0.3" mox="985" ox="0" oy="10" moy="575" moveoutinterpolation="EaseInQuad" controls="6" elements="1" box="True" oninteraction="True" id="0" fadeouttime="0.3" height="50" fadeininterpolation="Linear" fadeoutinterpolation="Linear" width="150">
+<skin><![CDATA[BattleTextSkin]]></skin>
+<name><![CDATA[Interact]]></name>
+<controltype id="1"></controltype>
+<element c1="0" langs="2" type="TEXT" x="0" y="0" c2="1" ox="1" oy="1" width="150" box="False" id="0" height="50" shadow="True" anchor="MiddleCenter">
+<text id="0"><![CDATA[Interact]]></text>
+<text id="1"><![CDATA[Interagieren]]></text>
+</element>
+</hud>
+<hud moveininterpolation="EaseOutQuad" moveintime="0.3" moveouttime="0.3" mix="0" onlyone="False" x="20" y="1140" miy="1200" fadeintime="0.3" mox="0" ox="0" oy="-60" moy="1200" moveoutinterpolation="EaseInQuad" controls="6" elements="11" box="False" oninteraction="False" id="1" fadeouttime="0.3" height="50" fadeininterpolation="Linear" fadeoutinterpolation="Linear" width="1900">
+<skin><![CDATA[BaseSkin]]></skin>
+<name><![CDATA[Battle HUD]]></name>
+<controltype id="2"></controltype>
+<element c1="0" langs="2" type="TEXT" x="0" y="0" c2="1" ox="1" oy="1" width="1180" box="True" id="0" height="50" shadow="True" anchor="UpperLeft">
+<text id="0"><![CDATA[ ]]></text>
+<text id="1"><![CDATA[ ]]></text>
+</element>
+<element c1="0" type="NAME" nametype="CHARACTER" x="10" y="10" c2="1" ox="1" oy="1" width="300" box="False" id="1" height="100" shadow="True" contenttype="TEXT" anchor="UpperLeft"></element>
+<element type="STATUS" x="210" y="35" barcolor="3" statusid="1" width="300" useimage="False" box="False" displaytype="BAR" id="2" height="5" anchor="UpperLeft"></element>
+<element c1="0" type="NAME" nametype="STATUS" x="210" y="10" c2="1" ox="1" oy="1" statusid="1" width="300" box="False" id="3" height="100" shadow="True" contenttype="TEXT" anchor="UpperLeft"></element>
+<element c1="0" type="STATUS" x="210" y="10" c2="1" showmax="True" ox="1" oy="1" statusid="1" width="300" box="False" displaytype="TEXT" id="4" height="100" shadow="True" anchor="UpperRight"><![CDATA[ / ]]></element>
+<element type="STATUS" x="540" y="35" barcolor="4" statusid="3" width="300" useimage="False" box="False" displaytype="BAR" id="5" height="5" anchor="UpperLeft"></element>
+<element c1="0" type="NAME" nametype="STATUS" x="540" y="10" c2="1" ox="1" oy="1" statusid="3" width="300" box="False" id="6" height="100" shadow="True" contenttype="TEXT" anchor="UpperLeft"></element>
+<element c1="0" type="STATUS" x="540" y="10" c2="1" showmax="True" ox="1" oy="1" statusid="3" width="300" box="False" displaytype="TEXT" id="7" height="100" shadow="True" anchor="UpperRight"><![CDATA[ / ]]></element>
+<element type="TIMEBAR" x="870" y="35" barcolor="2" width="300" useimage="False" box="False" displaytype="BAR" id="8" height="5" anchor="UpperLeft"></element>
+<element c1="0" langs="2" type="TEXT" x="870" y="10" c2="1" ox="1" oy="1" width="300" box="False" id="9" height="100" shadow="True" anchor="UpperLeft">
+<text id="0"><![CDATA[Time]]></text>
+<text id="1"><![CDATA[Zeit]]></text>
+</element>
+<element c1="5" c2="1" type="EFFECT" x="1190" y="10" rows="1" spacing="3" oy="1" ox="1" width="710" columns="4" box="False" id="10" height="100" shadow="True" contenttype="TEXT" anchor="UpperLeft"></element>
+</hud>
+<hud moveininterpolation="EaseOutQuad" moveintime="0.3" moveouttime="0.3" mix="0" onlyone="False" x="20" y="1140" miy="1200" fadeintime="0.3" mox="0" ox="0" oy="-60" moy="1200" moveoutinterpolation="EaseInQuad" controls="6" elements="8" box="False" oninteraction="False" id="2" fadeouttime="0.3" height="50" fadeininterpolation="Linear" fadeoutinterpolation="Linear" width="1900">
+<skin><![CDATA[BaseSkin]]></skin>
+<name><![CDATA[Field HUD]]></name>
+<controltype id="1"></controltype>
+<element c1="0" langs="2" type="TEXT" x="0" y="0" c2="1" ox="1" oy="1" width="850" box="True" id="0" height="50" shadow="True" anchor="UpperLeft">
+<text id="0"><![CDATA[ ]]></text>
+<text id="1"><![CDATA[ ]]></text>
+</element>
+<element c1="0" type="NAME" nametype="CHARACTER" x="10" y="10" c2="1" ox="1" oy="1" width="300" box="False" id="1" height="100" shadow="True" contenttype="TEXT" anchor="UpperLeft"></element>
+<element type="STATUS" x="210" y="35" barcolor="3" statusid="1" width="300" useimage="False" box="False" displaytype="BAR" id="2" height="5" anchor="UpperLeft"></element>
+<element c1="0" type="NAME" nametype="STATUS" x="210" y="10" c2="1" ox="1" oy="1" statusid="1" width="300" box="False" id="3" height="100" shadow="True" contenttype="TEXT" anchor="UpperLeft"></element>
+<element c1="0" type="STATUS" x="210" y="10" c2="1" showmax="True" ox="1" oy="1" statusid="1" width="300" box="False" displaytype="TEXT" id="4" height="100" shadow="True" anchor="UpperRight"><![CDATA[ / ]]></element>
+<element type="STATUS" x="540" y="35" barcolor="4" statusid="3" width="300" useimage="False" box="False" displaytype="BAR" id="5" height="5" anchor="UpperLeft"></element>
+<element c1="0" type="NAME" nametype="STATUS" x="540" y="10" c2="1" ox="1" oy="1" statusid="3" width="300" box="False" id="6" height="100" shadow="True" contenttype="TEXT" anchor="UpperLeft"></element>
+<element c1="0" type="STATUS" x="540" y="10" c2="1" showmax="True" ox="1" oy="1" statusid="3" width="300" box="False" displaytype="TEXT" id="7" height="100" shadow="True" anchor="UpperRight"><![CDATA[ / ]]></element>
+</hud>
+</huds>

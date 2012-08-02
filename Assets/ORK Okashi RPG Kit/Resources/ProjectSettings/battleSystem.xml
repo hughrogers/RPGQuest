@@ -1,0 +1,83 @@
+<battlesystem>
+<system activecommand="True" type="TURN" defendformula="7" itemtimebaruse="1" starttimecalc="6" turncalc="5" actionborder="1000" escapeformula="8" actionpause="True" atbtickinterval="0.05"></system>
+<menu itemposition="13" showdefend="True" skillposition="13" showattack="True" combineitems="True" order="Attack:Skill:Item:Defend:Escape" showitems="True" showescape="True" dialogueposition="12" combineskills="True" showskills="True" targetposition="12">
+<attack id="0"><![CDATA[Attack]]></attack>
+<attack id="1"><![CDATA[Angriff]]></attack>
+<skill id="0"><![CDATA[Skill]]></skill>
+<skill id="1"><![CDATA[Fähigkeit]]></skill>
+<item id="0"><![CDATA[Item]]></item>
+<item id="1"><![CDATA[Item]]></item>
+<defend id="0"><![CDATA[Defend]]></defend>
+<defend id="1"><![CDATA[Verteidigen]]></defend>
+<escape id="0"><![CDATA[Escape]]></escape>
+<escape id="1"><![CDATA[Flucht]]></escape>
+<target interpolation="Linear" time="0.5" rs="1" children="True" re="0" targetblink="True" targetmenu="True"></target>
+</menu>
+<text bvshadowcolor="1" bvcolor="3" bdshadowcolor="1" showuserdamage="False" bmpos="14" becolor="4" bmtime="3" beshadowcolor="1" bscolor="2" bdcolor="2" bsshadowcolor="1">
+<info showstealmoneyfail="True" time="3" showdefend="True" showcounter="True" showstealitemfail="True" position="7" showstealitem="True" showitems="True" showescape="True" showstealmoney="True" showskills="True"></info>
+<counter id="0"><![CDATA[Counter attack]]></counter>
+<counter id="1"><![CDATA[Konterangriff]]></counter>
+<allies id="0"><![CDATA[All allies]]></allies>
+<allies id="1"><![CDATA[Alle Freunde]]></allies>
+<enemies id="0"><![CDATA[All enemies]]></enemies>
+<enemies id="1"><![CDATA[Alle Gegner]]></enemies>
+<battlestart id="0"><![CDATA[Fight!]]></battlestart>
+<battlestart id="1"><![CDATA[Kampf!]]></battlestart>
+<battlevictory id="0"><![CDATA[Victory]]></battlevictory>
+<battlevictory id="1"><![CDATA[Sieg]]></battlevictory>
+<battledefeat id="0"><![CDATA[You are defeated]]></battledefeat>
+<battledefeat id="1"><![CDATA[Du wurdest besiegt]]></battledefeat>
+<battleescape id="0"><![CDATA[You escaped]]></battleescape>
+<battleescape id="1"><![CDATA[Du bist geflohen]]></battleescape>
+<stealitem id="0"><![CDATA[%n stole %]]></stealitem>
+<stealitem id="1"><![CDATA[%n hat % gestohlen]]></stealitem>
+<stealitemfail id="0"><![CDATA[Steal failed]]></stealitemfail>
+<stealitemfail id="1"><![CDATA[Stehlen fehlgeschlagen]]></stealitemfail>
+<stealmoney id="0"><![CDATA[%n stole %]]></stealmoney>
+<stealmoney id="1"><![CDATA[%n hat % gestohlen]]></stealmoney>
+<stealmoneyfail id="0"><![CDATA[Steal failed]]></stealmoneyfail>
+<stealmoneyfail id="1"><![CDATA[Stehlen fehlgeschlagen]]></stealmoneyfail>
+<effect fadeinend="1" x="1" y="1" fadeintime="0.25" fadeininterpolate="Linear" fadeoutend="0" visibletime="2.5" fadeinstart="0" fadeoutinterpolate="Linear" fadeouttime="0.75" color="5" shadowcolor="1" fadeoutstart="1">
+<baseoffset y="0" z="0" x="0"></baseoffset>
+<randomoffset tz="1" fx="-1" fy="-1" fz="-1" tx="1" ty="1"></randomoffset>
+<animate xspeed="0" yspeed="1" zspeed="0"></animate>
+<textopt id="0"><![CDATA[%]]></textopt>
+<textopt id="1"><![CDATA[%]]></textopt>
+</effect>
+<misssettings fadeinend="1" x="1" y="1" fadeintime="0.25" fadeininterpolate="Linear" fadeoutend="0" visibletime="2.5" fadeinstart="0" fadeoutinterpolate="Linear" fadeouttime="0.75" color="0" shadowcolor="1" fadeoutstart="1">
+<baseoffset y="0" z="0" x="0"></baseoffset>
+<randomoffset tz="0" fx="0" fy="0" fz="0" tx="0" ty="0"></randomoffset>
+<textopt id="0"><![CDATA[Miss]]></textopt>
+<textopt id="1"><![CDATA[Verfehlt]]></textopt>
+</misssettings>
+<blocksettings fadeinend="1" x="1" y="1" fadeintime="0.25" fadeininterpolate="Linear" fadeoutend="0" visibletime="2.5" fadeinstart="0" fadeoutinterpolate="Linear" fadeouttime="0.75" color="0" shadowcolor="1" fadeoutstart="1">
+<baseoffset y="0" z="0" x="0"></baseoffset>
+<randomoffset tz="0" fx="0" fy="0" fz="0" tx="0" ty="0"></randomoffset>
+<textopt id="0"><![CDATA[Block]]></textopt>
+<textopt id="1"><![CDATA[Blockiert]]></textopt>
+</blocksettings>
+<castcancelsettings></castcancelsettings>
+<levelupsettings></levelupsettings>
+</text>
+<battleend pos="1" gainorder="Money:Item:Experience" levelorder="Levelup:Status:Skill">
+<money id="0"><![CDATA[You got % money!]]></money>
+<money id="1"><![CDATA[Du hast % Geld erhalten!]]></money>
+<item id="0"><![CDATA[You found % %n.]]></item>
+<item id="1"><![CDATA[Du hast % %n gefunden.]]></item>
+<levelup id="0"><![CDATA[%n reached level %!]]></levelup>
+<levelup id="1"><![CDATA[%n hat Level % erreicht!]]></levelup>
+<status id="0"><![CDATA[%n +%]]></status>
+<status id="1"><![CDATA[%n +%]]></status>
+<skill id="0"><![CDATA[%n learned!]]></skill>
+<skill id="1"><![CDATA[%n erlernt!]]></skill>
+<experience id="0"><![CDATA[% %n gained.]]></experience>
+<experience id="1"><![CDATA[% %n erhalten.]]></experience>
+</battleend>
+<battlecam></battlecam>
+<battlecontrol>
+<attack><![CDATA[]]></attack>
+<menu><![CDATA[]]></menu>
+<skillmenu><![CDATA[]]></skillmenu>
+<itemmenu><![CDATA[]]></itemmenu>
+</battlecontrol>
+</battlesystem>
