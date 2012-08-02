@@ -1,0 +1,77 @@
+﻿Weapons:
+Light axe/sword:
+1. Bronze
+2. Iron
+3. Steel
+Staff
+1. Low energy
+2. High energy
+3. others(possibly)
+bow(possibly)
+Armor:
+        Fighter(heavy armor):
+1. Leather
+2. Iron
+3. Steel
+4. others(possibly)
+        Wizard(robes):
+1. cotton
+2. silk
+3. others(possibly)
+        Ranger(possibly)
+Items:
+1. Red Potion
+2. Blue Potion
+3. Father’s scroll
+NPCs:
+1. Blacksmith
+2. Father(name?)
+3. Arcane forge owner
+4. Imperial guard
+5. Imperial general(name?)
+6. Innkeeper
+7. Random villager(male)
+8. Random villager(female)
+Characters:
+1. YOU!
+2. Blacksmith’s son(name?)
+Enemies:
+1. Skeleton fighter
+2. Skeleton mage
+3. Bonecrusher(boss)
+Tiles:
+Dungeon:
+1. Stone floor
+2. Scattered bones(2x3 tiles)
+3. puddle
+4. wall tiles
+5. torch(right and left)
+6. ladder up
+7. ladder down
+8. Chest(1x2 tiles)
+9. door(1x2) tiles
+10. Healing spot
+World Map:
+1. Wheat
+2. tall grass
+3. rock(mountain)
+4. cave entrance
+5. Village entrance
+6. parched tree
+        Village:
+1. Barrel
+2. Scattered Wood
+3. fence
+4. flowers
+5. anvil
+6. furnace
+7. chair
+8. table
+9. counter
+10. window
+11. normal door
+12. bed
+13. Items(inside a glass case): weapons/armor, items.
+14. carpet
+15. wood wall texture
+16.
