@@ -1,0 +1,17 @@
+<mainmenus>
+<mainmenu questionposition="0" fadeoutinterpolate="Linear" fadein="True" fadeout="True" fadeininterpolate="Linear" showexit="True" fadeintime="0.5" showload="True" menuposition="0" aboutposition="0" showlanguage="True" fadeouttime="0.5" showabout="True">
+<newgametext id="0"><![CDATA[New game]]></newgametext>
+<loadgametext id="0"><![CDATA[Load game]]></loadgametext>
+<languagetext id="0"><![CDATA[Language]]></languagetext>
+<abouttext id="0"><![CDATA[About]]></abouttext>
+<exittext id="0"><![CDATA[Exit]]></exittext>
+<canceltext id="0"><![CDATA[Cancel]]></canceltext>
+<aboutinfo id="0"><![CDATA[]]></aboutinfo>
+<question id="0"><![CDATA[Quit game?]]></question>
+<yes id="0"><![CDATA[Yes]]></yes>
+<no id="0"><![CDATA[No]]></no>
+<difficultyquestion id="0"><![CDATA[]]></difficultyquestion>
+<newgamescene><![CDATA[]]></newgamescene>
+<menuscene><![CDATA[]]></menuscene>
+</mainmenu>
+</mainmenus>

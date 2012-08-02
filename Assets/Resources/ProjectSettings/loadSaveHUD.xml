@@ -1,0 +1,16 @@
+<loadsavehuds>
+<loadsavehud gamevarselector="ALL" showload="True" fadeout="True" saveweapons="True" fadeininterpolate="Linear" savearmors="True" fadeintime="0.5" sppos="0" savegametype="PLAYER_PREFS" savestatistics="True" savequestionposition="0" saverecipes="True" saveposition="0" fadein="True" fadeoutinterpolate="Linear" maxsavegames="3" saveparty="True" fadeouttime="0.5" numbervarselector="ALL" savemoney="True" savetime="True" saveitems="True" showchoice="True" savepartyposition="True">
+<savetext id="0"><![CDATA[Select save file]]></savetext>
+<loadtext id="0"><![CDATA[Select load file]]></loadtext>
+<saveyestext id="0"><![CDATA[Yes]]></saveyestext>
+<savenotext id="0"><![CDATA[No]]></savenotext>
+<savequestiontext id="0"><![CDATA[Save file %i?]]></savequestiontext>
+<loadquestiontext id="0"><![CDATA[Load file %i?]]></loadquestiontext>
+<fileinfolayout id="0"><![CDATA[File %i: %n Lvl. %l - %a, %t]]></fileinfolayout>
+<emptyinfolayout id="0"><![CDATA[File %i: empty]]></emptyinfolayout>
+<spsavetext id="0"><![CDATA[Save]]></spsavetext>
+<sploadtext id="0"><![CDATA[Load]]></sploadtext>
+<spcanceltext id="0"><![CDATA[Cancel]]></spcanceltext>
+<autofile id="0"><![CDATA[AUTO]]></autofile>
+</loadsavehud>
+</loadsavehuds>
