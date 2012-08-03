@@ -1,7 +1,17 @@
 <armors>
-<armor equipparts="0" sizes="1" buyprice="0" elements="0" id="0" races="1" effects="0" equiptype="SINGLE">
-<name lang="0"><![CDATA[test]]></name>
-<description lang="0"><![CDATA[New Description]]></description>
+<armor minimumlevel="1" equipparts="0" sizes="3" buyprice="0" elements="0" id="0" races="4" effects="0" equiptype="SINGLE">
+<name lang="0"><![CDATA[Leather  Armor]]></name>
+<description lang="0"><![CDATA[]]></description>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</armor>
+<armor minimumlevel="3" equipparts="0" sizes="3" effects="0" buyprice="50" elements="0" id="1" sellprice="20" sellsetter="PERCENT" races="4" equiptype="SINGLE">
+<name lang="0"><![CDATA[Bronze Armor]]></name>
+<description lang="0"><![CDATA[]]></description>
+<bonussettings block="1" escape="0" critical="1" counter="1" hit="2" moneysteal="1" itemsteal="1" speed="0"></bonussettings>
+</armor>
+<armor minimumlevel="5" equipparts="0" sizes="3" effects="0" buyprice="100" elements="0" id="2" sellprice="20" sellsetter="PERCENT" races="4" equiptype="SINGLE">
+<name lang="0"><![CDATA[Iron Armor]]></name>
+<description lang="0"><![CDATA[]]></description>
+<bonussettings block="3" escape="0" critical="3" counter="3" hit="4" moneysteal="3" itemsteal="3" speed="0"></bonussettings>
 </armor>
 </armors>

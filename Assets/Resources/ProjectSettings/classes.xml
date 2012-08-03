@@ -1,0 +1,28 @@
+<classes>
+<class armors="3" equipparts="0" sizes="3" id="0" weapons="8" elements="0" races="4">
+<name lang="0"><![CDATA[Fighter]]></name>
+<description lang="0"><![CDATA[]]></description>
+<development skills="1">
+<skill id="0" slvl="1" level="1" skill="0"></skill>
+</development>
+<bonus block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonus>
+</class>
+<class armors="3" equipparts="0" sizes="3" id="1" weapons="8" elements="0" races="4">
+<name lang="0"><![CDATA[Wizard]]></name>
+<description lang="0"><![CDATA[New Description]]></description>
+<development></development>
+<bonus block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonus>
+</class>
+<class armors="3" equipparts="0" sizes="3" id="2" weapons="8" elements="0" races="4">
+<name lang="0"><![CDATA[Villager]]></name>
+<description lang="0"><![CDATA[New Description]]></description>
+<development></development>
+<bonus block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonus>
+</class>
+<class armors="3" equipparts="0" sizes="3" id="3" weapons="8" elements="0" races="4">
+<name lang="0"><![CDATA[Shopkeeper]]></name>
+<description lang="0"><![CDATA[New Description]]></description>
+<development></development>
+<bonus block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonus>
+</class>
+</classes>

@@ -1,0 +1,11 @@
+<skills>
+<skill id="0" skilltype="0" useinbattle="true" levels="1" skilltarget="SINGLE" targettype="ENEMY">
+<name lang="0"><![CDATA[New Skill]]></name>
+<description lang="0"><![CDATA[New Description]]></description>
+<level id="0" effects="0" element="0" consumes="7" skillcombos="0">
+<userconsume id="1" value="4" operator="SUB" formulachooser="VALUE"></userconsume>
+<stealchance></stealchance>
+</level>
+<targetraycast></targetraycast>
+</skill>
+</skills>
