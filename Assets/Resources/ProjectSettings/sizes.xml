@@ -1,6 +1,14 @@
 <sizes>
 <size id="0">
-<name lang="0"><![CDATA[Default Size]]></name>
+<name lang="0"><![CDATA[Medium]]></name>
+<description lang="0"><![CDATA[]]></description>
+</size>
+<size id="1">
+<name lang="0"><![CDATA[Large]]></name>
+<description lang="0"><![CDATA[]]></description>
+</size>
+<size id="2">
+<name lang="0"><![CDATA[Huge]]></name>
 <description lang="0"><![CDATA[]]></description>
 </size>
 </sizes>

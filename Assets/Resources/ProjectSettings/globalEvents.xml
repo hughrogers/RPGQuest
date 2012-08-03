@@ -1,1 +1,7 @@
-<globalevents></globalevents>
+<globalevents>
+<name id="0"><![CDATA[New Event]]></name>
+<globalevent id="0" inpause="False" prefabs="0" timeout="1" type="AUTO" audioclips="0">
+<eventfile><![CDATA[]]></eventfile>
+<variables variables="0" needed="ALL" numbervariables="0"></variables>
+</globalevent>
+</globalevents>

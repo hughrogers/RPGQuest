@@ -1,4 +1,9 @@
 <textcolors>
 <color id="0" a="1" r="1" g="1" b="1"><![CDATA[White]]></color>
 <color id="1" a="1" r="0" g="0" b="0"><![CDATA[Shadow]]></color>
+<color id="2" a="1" r="0.2898811" g="0.9626865" b="0.1867899"><![CDATA[green]]></color>
+<color id="3" a="1" r="0.2607381" g="0.1520383" b="0.9701493"><![CDATA[Blue]]></color>
+<color id="4" a="1" r="0.977612" g="0.0510693" b="0.0510693"><![CDATA[red]]></color>
+<color id="5" a="1" r="0.9626865" g="0.9112414" b="0.04310539"><![CDATA[yellow]]></color>
+<color id="6" a="1" r="0.9253731" g="0" b="0.8736041"><![CDATA[pink]]></color>
 </textcolors>

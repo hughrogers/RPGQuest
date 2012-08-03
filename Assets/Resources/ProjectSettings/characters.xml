@@ -1,0 +1,154 @@
+<characters>
+<character class="0" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="0" id="0" basecounter="0">
+<animations></animations>
+<name lang="0"><![CDATA[Player]]></name>
+<description lang="0"><![CDATA[YOUUUUUUUUUUUUUUUUUUUUUUUUUUUU!]]></description>
+<attack id="0" id2="0"></attack>
+<controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<development startlevel="1" maxlevel="5">
+<statusvalue id="0" 4="49999" 0="0" 1="19999" 2="29999" 3="39999"></statusvalue>
+<statusvalue id="1" 4="49999" 0="0" 1="19999" 2="29999" 3="39999"></statusvalue>
+<statusvalue id="2" 4="49999" 0="0" 1="19999" 2="29999" 3="39999"></statusvalue>
+<statusvalue id="3" 4="49999" 0="0" 1="19999" 2="29999" 3="39999"></statusvalue>
+<statusvalue id="4" 4="49999" 0="0" 1="19999" 2="29999" 3="39999"></statusvalue>
+<statusvalue id="5" 4="49999" 0="0" 1="19999" 2="29999" 3="39999"></statusvalue>
+<statusvalue id="6" 4="49999" 0="0" 1="19999" 2="29999" 3="39999"></statusvalue>
+</development>
+<customanimations animations="0"></customanimations>
+</character>
+<character class="0" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="0" id="1" basecounter="0">
+<animations></animations>
+<name lang="0"><![CDATA[Blacksmith's son]]></name>
+<description lang="0"><![CDATA[New Description]]></description>
+<attack id="0" id2="0"></attack>
+<controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<development startlevel="1" maxlevel="10">
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="4"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="5"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="6"></statusvalue>
+</development>
+<customanimations animations="0"></customanimations>
+</character>
+<character class="0" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="0" id="2" basecounter="0">
+<animations></animations>
+<name lang="0"><![CDATA[Father]]></name>
+<description lang="0"><![CDATA[New Description]]></description>
+<attack id="0" id2="0"></attack>
+<controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<development startlevel="1" maxlevel="10">
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="4"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="5"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="6"></statusvalue>
+</development>
+<customanimations animations="0"></customanimations>
+</character>
+<character class="0" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="0" id="3" basecounter="0">
+<animations></animations>
+<name lang="0"><![CDATA[Human Blacksmith]]></name>
+<description lang="0"><![CDATA[New Description]]></description>
+<attack id="0" id2="0"></attack>
+<controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<development startlevel="1" maxlevel="10">
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="4"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="5"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="6"></statusvalue>
+</development>
+<customanimations animations="0"></customanimations>
+</character>
+<character class="0" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="0" id="4" basecounter="0">
+<animations></animations>
+<name lang="0"><![CDATA[Human Villager(male)]]></name>
+<description lang="0"><![CDATA[New Description]]></description>
+<attack id="0" id2="0"></attack>
+<controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<development startlevel="1" maxlevel="10">
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="4"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="5"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="6"></statusvalue>
+</development>
+<customanimations animations="0"></customanimations>
+</character>
+<character class="0" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="0" id="5" basecounter="0">
+<animations></animations>
+<name lang="0"><![CDATA[Human Villager(female)]]></name>
+<description lang="0"><![CDATA[New Description]]></description>
+<attack id="0" id2="0"></attack>
+<controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<development startlevel="1" maxlevel="10">
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="4"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="5"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="6"></statusvalue>
+</development>
+<customanimations animations="0"></customanimations>
+</character>
+<character class="0" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="0" id="6" basecounter="0">
+<animations></animations>
+<name lang="0"><![CDATA[Innkeeper]]></name>
+<description lang="0"><![CDATA[New Description]]></description>
+<attack id="0" id2="0"></attack>
+<controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<development startlevel="1" maxlevel="10">
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="4"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="5"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="6"></statusvalue>
+</development>
+<customanimations animations="0"></customanimations>
+</character>
+<character class="0" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="0" id="7" basecounter="0">
+<animations></animations>
+<name lang="0"><![CDATA[Arcane Forge Owner]]></name>
+<description lang="0"><![CDATA[New Description]]></description>
+<attack id="0" id2="0"></attack>
+<controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<development startlevel="1" maxlevel="10">
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="4"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="5"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="6"></statusvalue>
+</development>
+<customanimations animations="0"></customanimations>
+</character>
+</characters>
