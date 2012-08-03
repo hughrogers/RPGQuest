@@ -1,6 +1,6 @@
 <armors>
 <armor equipparts="0" sizes="1" buyprice="0" elements="0" id="0" races="1" effects="0" equiptype="SINGLE">
-<name lang="0"><![CDATA[New Armor]]></name>
+<name lang="0"><![CDATA[test]]></name>
 <description lang="0"><![CDATA[New Description]]></description>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 </armor>
