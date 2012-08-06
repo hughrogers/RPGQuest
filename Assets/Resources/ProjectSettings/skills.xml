@@ -29,21 +29,4 @@
 </level>
 <targetraycast></targetraycast>
 </skill>
-<skill id="3" skilltype="0" levels="1" skilltarget="SINGLE" targettype="ALLY">
-<name lang="0"><![CDATA[New Skill]]></name>
-<description lang="0"><![CDATA[New Description]]></description>
-<level id="0" effects="2" element="0" consumes="7" skillcombos="0">
-<stealchance></stealchance>
-</level>
-<targetraycast></targetraycast>
-</skill>
-<skill id="4" skilltype="2" useinbattle="true" levels="1" skilltarget="SINGLE" targettype="ENEMY">
-<name lang="0"><![CDATA[Melee]]></name>
-<description lang="0"><![CDATA[New Description]]></description>
-<level id="0" effects="2" element="0" consumes="7" skillcombos="0">
-<targetconsume id="0" value="5" operator="SUB" formulachooser="VALUE"></targetconsume>
-<stealchance></stealchance>
-</level>
-<targetraycast></targetraycast>
-</skill>
 </skills>
