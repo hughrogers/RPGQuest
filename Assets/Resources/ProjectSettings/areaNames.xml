@@ -3,4 +3,44 @@
 <name lang="0"><![CDATA[ Bellode]]></name>
 <description lang="0"><![CDATA[Town name and Title name]]></description>
 </areaname>
+<areaname id="1">
+<name lang="0"><![CDATA[Inn]]></name>
+<description lang="0"><![CDATA[]]></description>
+</areaname>
+<areaname id="2">
+<name lang="0"><![CDATA[Arcane Forge]]></name>
+<description lang="0"><![CDATA[]]></description>
+</areaname>
+<areaname id="3">
+<name lang="0"><![CDATA[Blacksmith's Shop]]></name>
+<description lang="0"><![CDATA[]]></description>
+</areaname>
+<areaname id="4">
+<name lang="0"><![CDATA[Your House]]></name>
+<description lang="0"><![CDATA[]]></description>
+</areaname>
+<areaname id="5">
+<name lang="0"><![CDATA[World Map]]></name>
+<description lang="0"><![CDATA[]]></description>
+</areaname>
+<areaname id="6">
+<name lang="0"><![CDATA[Cave Entrance]]></name>
+<description lang="0"><![CDATA[]]></description>
+</areaname>
+<areaname id="7">
+<name lang="0"><![CDATA[Bonecrusher's Crypt: Floor 1]]></name>
+<description lang="0"><![CDATA[]]></description>
+</areaname>
+<areaname id="8">
+<name lang="0"><![CDATA[Bonecrusher's Crypt: Floor 2]]></name>
+<description lang="0"><![CDATA[]]></description>
+</areaname>
+<areaname id="9">
+<name lang="0"><![CDATA[Bonecrusher's Crypt: Floor 3]]></name>
+<description lang="0"><![CDATA[]]></description>
+</areaname>
+<areaname id="10">
+<name lang="0"><![CDATA[Bonecrusher's Crypt: Bonecrusher's Lair]]></name>
+<description lang="0"><![CDATA[]]></description>
+</areaname>
 </areanames>
