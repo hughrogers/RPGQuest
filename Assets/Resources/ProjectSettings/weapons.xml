@@ -9,7 +9,7 @@
 </weapon>
 <weapon minimumlevel="1" equipparts="2" sizes="3" buyprice="0" elements="3" id="1" races="4" effects="2" equiptype="SINGLE">
 <animations ownbase="False"></animations>
-<name lang="0"><![CDATA[notched staff]]></name>
+<name lang="0"><![CDATA[Notched Staff]]></name>
 <description lang="0"><![CDATA[]]></description>
 <blockpart id="0" blocked="True"></blockpart>
 <equippart id="1" enabled="True"></equippart>

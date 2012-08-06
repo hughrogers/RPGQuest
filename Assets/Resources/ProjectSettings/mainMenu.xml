@@ -7,9 +7,9 @@
 <exittext id="0"><![CDATA[Exit]]></exittext>
 <canceltext id="0"><![CDATA[Cancel]]></canceltext>
 <aboutinfo id="0"><![CDATA[]]></aboutinfo>
-<question id="0"><![CDATA[QUIT GAME!?]]></question>
-<yes id="0"><![CDATA[YES!]]></yes>
-<no id="0"><![CDATA[N0!]]></no>
+<question id="0"><![CDATA[Quit Game?]]></question>
+<yes id="0"><![CDATA[Yes!]]></yes>
+<no id="0"><![CDATA[No!]]></no>
 <difficultyquestion id="0"><![CDATA[]]></difficultyquestion>
 <newgamescene><![CDATA[]]></newgamescene>
 <menuscene><![CDATA[]]></menuscene>
