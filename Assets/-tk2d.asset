@@ -1,0 +1,333 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41cb500cf0f58e74f9a52a8af931edde, type: 1}
+  m_Name: -tk2d
+  version: 0
+  spriteAnimations:
+  - {fileID: 11400000, guid: 18a39674a9b14f54b97497254e83b349, type: 2}
+  - {fileID: 11400000, guid: 68cc4da10d501f9439d1507a1a2c46c1, type: 2}
+  fonts:
+  - {fileID: 11400000, guid: 063b15d80dbb4604d890600a64c79cf8, type: 2}
+  - {fileID: 11400000, guid: 5b9fac241be038041b70ac7e84cd6151, type: 2}
+  - {fileID: 11400000, guid: db60ffa92fa16ea478fc7ad4f595a0e6, type: 2}
+  spriteCollectionIndex:
+  - name: DemoSpiderSpriteCollection
+    spriteCollectionGUID: 1fe2f34d6bac2b440944f04ac87d9e8a
+    spriteCollectionDataGUID: 822f1f9eedf119f4eaca33509ba7b549
+    spriteNames:
+    - body
+    - lowerleg
+    - mouth
+    - upperleg
+    spriteTextureGUIDs:
+    - 17a4fe5393d6f6048b0a96839cd54591
+    - 731aac236e6d1724fb48cd35227e8998
+    - 871eb2b697bff4f4e832b95668b9b3cc
+    - 75f62f68bfc69b04d876f87672036e09
+    version: 3
+  - name: DemoMultiAtlas
+    spriteCollectionGUID: 6abdf3241ce81204293a7d50f971e3d7
+    spriteCollectionDataGUID: e40f26e01721f87448061d44beed20dd
+    spriteNames:
+    - explosion_44FR/0
+    - explosion_44FR/1
+    - explosion_44FR/2
+    - explosion_44FR/3
+    - explosion_44FR/4
+    - explosion_44FR/5
+    - explosion_44FR/6
+    - explosion_44FR/7
+    - explosion_44FR/8
+    - explosion_44FR/9
+    - explosion_44FR/10
+    - explosion_44FR/11
+    - explosion_44FR/12
+    - explosion_44FR/13
+    - explosion_44FR/14
+    - explosion_44FR/15
+    - explosion_44FR/16
+    - explosion_44FR/17
+    - explosion_44FR/18
+    - explosion_44FR/19
+    - explosion_44FR/20
+    - explosion_44FR/21
+    - explosion_44FR/22
+    - explosion_44FR/23
+    - explosion_44FR/24
+    - explosion_44FR/25
+    - explosion_44FR/26
+    - explosion_44FR/27
+    - explosion_44FR/28
+    - explosion_44FR/29
+    - explosion_44FR/30
+    - explosion_44FR/31
+    - explosion_44FR/32
+    - explosion_44FR/33
+    - explosion_44FR/34
+    - explosion_44FR/35
+    - explosion_44FR/36
+    - explosion_44FR/37
+    - explosion_44FR/38
+    - explosion_44FR/39
+    - explosion_44FR/40
+    - explosion_44FR/41
+    - explosion_44FR/42
+    - explosion_44FR/43
+    spriteTextureGUIDs:
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    - f38c1e9651d69654c87ea0956466e36d
+    version: 3
+  - name: DemoSpriteCollection
+    spriteCollectionGUID: 71d75aef51c47034082eca27f2eb6e30
+    spriteCollectionDataGUID: b5aec6ebd1a8ffc458a2e46a3236acab
+    spriteNames:
+    - bubble_green
+    - bubble_red
+    - bubble_orange
+    - sun
+    - bg
+    - smoke0
+    - smoke4
+    - smoke2
+    - smoke3
+    - smoke1
+    - explosion_beam
+    - smoke
+    - core
+    - bg1
+    - sheep_0
+    - sheep_1
+    - sheep_2
+    - cloud1
+    - cloud2
+    - Brown Block
+    - Chest Closed
+    - Stone Block
+    - Rock
+    - crate
+    - ground
+    - smoke5
+    - animdemo_4
+    - animdemo_5
+    - animdemo_1
+    - animdemo_3
+    - animdemo_2
+    - button_down
+    - button_up
+    - wavyground
+    - starspike
+    - platform
+    - platform_spiked
+    - 2dtoolkit_logo
+    - background
+    - slicedButton_down
+    - slicedButton_up
+    spriteTextureGUIDs:
+    - 7aca923e78526cd4b984265f396e04d8
+    - bb6c9fb18b1dc46499fc0567ff873e42
+    - 4a3adedb01045d0458d6e6330d1dd25d
+    - 60ab1d7b85ae054498eb9122996758d9
+    - b5e1233ff1ab3d14a8b3e3910c4c8281
+    - c9b9253339e73124bbe3b5012f4bc936
+    - 39734a83ab620ae42b7fd778891e490e
+    - 287c70551d47fed40aaed1d763b2c586
+    - f54a71b7ee1fcd541859ccce61c15d4f
+    - e89d30fcbd3b3cb4f81b9f612565cd15
+    - 972d12151f1a30d4fb5c0457807734e9
+    - 6109dd1f0c6a20e40b9a5cc3cd4bbfaa
+    - 41539258830f7a24abc38d8bbe487af3
+    - 0d86fdb28836c6445974f98f412dfbf2
+    - c25d0635778cf614eb2cca727e071fd6
+    - d20c61a95bed34948a4408be780c3d55
+    - df162a39ace0bbb4dbbe4c348669075c
+    - 4a902aa2ec2deaa469755f61aa3e8134
+    - a329c3266c887ba44b0bf7c627043688
+    - 9fc5fcd3fc8803f4caf11d337579f6c8
+    - 6b3b26a1fb4ebcf448d47859ec1cb66f
+    - 2deb4cd15b4f4144894c8b9f4f1a19a3
+    - 82f0ed3ac7232ae4c8b948fb7654f205
+    - f6724743a506f464ea1684044c461aef
+    - 2f1986f4c79909a4ca592f02dec914e4
+    - 3fe04aba96e31d748a88af0fdc870d13
+    - 27e59c976f45f48488bd746d93f38085
+    - ce42d39374f446b43974cdf748be1594
+    - 7a1c114efdc6f1548b40b62b7666cf2e
+    - caa05169d2cbf6b4d8d7748e71781a40
+    - e84a1e8c2679c6347b789eb93ff1893f
+    - f31ec590f22df524e97e5d2f9139ec46
+    - a6bc359a914e1df468afe824439ede88
+    - abd2d4d8e662ace4c961589c5d18e01f
+    - fe18dfa9012243c4ea82497709a18b26
+    - c6c9f7d3fb91a8d4db53b929d3b367df
+    - 129360c4101c34f4f8a5650c70863c8c
+    - d4b13e5fdf4b0f540be8e00a364ddd35
+    - d87ec7b1d50a9164f85cac54c36371e8
+    - 8eecf2da5d1c91845ac19745f5828760
+    - e322d00650c45ff49ad06ce7a54418a6
+    version: 3
+  - name: DemoCameraSpriteCollection
+    spriteCollectionGUID: ff338294f6bf0b345850bad080ef85dc
+    spriteCollectionDataGUID: 4864518b0693631458553f73aaa86021
+    spriteNames:
+    - heart_empty
+    - heart_full
+    - heart_half
+    - window
+    spriteTextureGUIDs:
+    - c3cedcf3f2f726c4ea2af2b350a9ce88
+    - 5083dbb889212cf4082bbce0e506a093
+    - 775e311b21d73a74c93ca74a71671b1e
+    - 03fff0d1701d7e14399d5ee2209561dc
+    version: 3
+  - name: Tiles
+    spriteCollectionGUID: 2bdba77bc6c8c4be3b3f9641e327d02e
+    spriteCollectionDataGUID: 3eed2cfde44184cb79f4e8ef14d33438
+    spriteNames:
+    - healingSpotTilePlaceholder
+    - tallGrassTilePlaceholder
+    - stoneWallTilePlaceholder
+    - caveEntranceTilePlaceholder
+    - GrassTilePlaceholder
+    - carpetTilePlaceholder
+    - stoneFloorTilePlaceholder
+    - chest01TilePlaceholder
+    - boneFloorTilePlaceholder
+    - chest02TilePlaceholder
+    - Grass02TilePlaceholder
+    - dungeonDoorTilePlaceholder
+    - ladderTilePlaceholder
+    - rockTilePlaceholder
+    - stoneFloorPuddleTilePlaceholder
+    spriteTextureGUIDs:
+    - 3053d1d34f0ec4bcb9418948e7ef455a
+    - f843f307f9fd148a4bbd428c6a275bed
+    - fbb9b4acc3db74e299c95789fc63dcad
+    - 25ca051e8eb7e46d68e4718d25fe7cf4
+    - 75f86e87f9ea043f0b05ff9c03d2726d
+    - 20d311a7c9cbd41389e6e11e678591ee
+    - 65ed730c87be348dc97a58447cc80b8d
+    - 245b098c72d764c6c9dee4ddb74fec98
+    - 8c9330fd6631a48e999cecbc3d745e1d
+    - b47e0ba7a8cbd4b45acdb02306739da1
+    - 3b06d9297ab194f078720e805b2c8614
+    - 2f97c1c068cdf44609ac90860e7236ef
+    - 323c9593d4b684a68a961acd5ff8188c
+    - 4d5bf2692c78141e585f116a7bb09caa
+    - ecab1ee94666049738554e7aecfa75e2
+    version: 3
+  - name: BackgroundSprites
+    spriteCollectionGUID: 23d53b8aa161940ad9c5efa067773ece
+    spriteCollectionDataGUID: f4749c86f0ad844d5b3c782d052c0143
+    spriteNames:
+    - furnacePlaceholder
+    - bedPlaceholder
+    - stoneFloorTilePlaceholder
+    - chest02TilePlaceholder
+    - barrelPlaceholder
+    - parchedTreePlaceholder
+    - flowerPlaceholder
+    - stoneWallTilePlaceholder
+    - GrassTilePlaceholder
+    - boneFloorTilePlaceholder
+    - rockTilePlaceholder
+    - caveEntranceTilePlaceholder
+    - anVilPlaceholder
+    - wheatTilePlaceholder
+    - torchTilePlaceholder
+    - carpetTilePlaceholder
+    - chest01TilePlaceholder
+    - Grass02TilePlaceholder
+    - windowlTilePlaceholder
+    - woodpileTilePlaceholder
+    - counterPlaceholder
+    - rockPlaceholder
+    - villageDoorTile
+    - villageGateTilePlaceholder
+    - healingSpotTilePlaceholder
+    - dungeonDoorTilePlaceholder
+    - ladderTilePlaceholder
+    - stoneFloorPuddleTilePlaceholder
+    - tallGrassTilePlaceholder
+    - TablePlaceholder
+    spriteTextureGUIDs:
+    - 75efcff6db69f4a628a51da74708156d
+    - ef5e6337424314e988feb4439874b58c
+    - 65ed730c87be348dc97a58447cc80b8d
+    - b47e0ba7a8cbd4b45acdb02306739da1
+    - c5fcd300e941b46ae9357ce89eb36168
+    - da27f6cb441fe42f5841d3376d402c5c
+    - f7490aeb7fe39409684c8828418e6d86
+    - fbb9b4acc3db74e299c95789fc63dcad
+    - 75f86e87f9ea043f0b05ff9c03d2726d
+    - 8c9330fd6631a48e999cecbc3d745e1d
+    - 4d5bf2692c78141e585f116a7bb09caa
+    - 25ca051e8eb7e46d68e4718d25fe7cf4
+    - 3492d0eaa77f14c5faba123c993034ff
+    - 29127943e1cd143f5b64833c101fa59f
+    - 6a0bfd5328b6b49f29ecdb4ffe00c716
+    - 20d311a7c9cbd41389e6e11e678591ee
+    - 245b098c72d764c6c9dee4ddb74fec98
+    - 3b06d9297ab194f078720e805b2c8614
+    - 45ea3ae71f2334eadba2efb1a8f7770d
+    - 7bc374f7b9ced430cae46005ac73ded2
+    - af7a4c4834c3c47e7bdc1fc230b725d7
+    - 183b7868db6a04c44bdf8f888b922c5d
+    - edb98e98006da4047b96851a1abab68a
+    - 9be8fdaa288524519a78f0b533b16612
+    - 3053d1d34f0ec4bcb9418948e7ef455a
+    - 2f97c1c068cdf44609ac90860e7236ef
+    - 323c9593d4b684a68a961acd5ff8188c
+    - ecab1ee94666049738554e7aecfa75e2
+    - f843f307f9fd148a4bbd428c6a275bed
+    - fffcfcd1844b748e5bac281eddb41c0a
+    version: 3
