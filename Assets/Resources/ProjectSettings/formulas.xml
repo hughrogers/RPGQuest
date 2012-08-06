@@ -1,0 +1,7 @@
+<formulas>
+<formula id="0" pieces="2">
+<name><![CDATA[Melee damage]]></name>
+<piece id="0" operator="SUB" chooser="STATUS" status="2" statusorigin="USER"></piece>
+<piece id="1" rounding="CEIL" operator="DONE" begingroup="true" chooser="STATUS" status="4" statusorigin="TARGET"></piece>
+</formula>
+</formulas>

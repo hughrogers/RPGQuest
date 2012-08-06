@@ -2,16 +2,16 @@
 <item useable="True" dropable="true" effects="2" targettype="ALLY" itemvariable="NONE" buyprice="5" skilltarget="SINGLE" useinbattle="true" stealable="true" useinfield="true" id="0" itemtype="0" sellprice="20" sellsetter="PERCENT" consume="True" values="7">
 <name lang="0"><![CDATA[Brew of life]]></name>
 <description lang="0"><![CDATA[You're too young to drink! restores 50]]></description>
-<valuechange id="0" value="50" operator="ADD" formulachooser="VALUE"></valuechange>
+<valuechange id="0" value="30" operator="ADD" formulachooser="VALUE"></valuechange>
 <targetraycast></targetraycast>
 </item>
 <item useable="True" dropable="true" effects="2" targettype="ALLY" itemvariable="NONE" buyprice="5" skilltarget="SINGLE" useinbattle="true" stealable="true" useinfield="true" id="1" itemtype="0" sellprice="20" sellsetter="PERCENT" consume="True" values="7">
 <name lang="0"><![CDATA[Brew of power]]></name>
 <description lang="0"><![CDATA[You're too young to drink! Restores 50 Animus]]></description>
-<valuechange id="1" value="50" operator="ADD" formulachooser="VALUE"></valuechange>
+<valuechange id="1" value="30" operator="ADD" formulachooser="VALUE"></valuechange>
 <targetraycast></targetraycast>
 </item>
-<item useable="True" dropable="true" effects="2" targettype="ALLY" itemvariable="NONE" buyprice="50" revive="true" useinbattle="true" skilltarget="SINGLE" useinfield="true" id="2" itemtype="0" sellprice="20" sellsetter="PERCENT" consume="True" values="7">
+<item useable="True" dropable="true" effects="2" targettype="ALLY" itemvariable="NONE" buyprice="75" revive="true" useinbattle="true" skilltarget="SINGLE" useinfield="true" id="2" itemtype="0" sellprice="20" sellsetter="PERCENT" consume="True" values="7">
 <name lang="0"><![CDATA[Brew of revive]]></name>
 <description lang="0"><![CDATA[You're too young to drink!]]></description>
 <valuechange id="0" value="50" operator="ADD" formulachooser="VALUE"></valuechange>
@@ -20,7 +20,7 @@
 <item useable="True" dropable="true" effects="2" targettype="ENEMY" itemvariable="NONE" buyprice="20" skilltarget="SINGLE" stealable="true" useinbattle="true" id="3" itemtype="0" sellprice="20" sellsetter="PERCENT" consume="True" values="7">
 <name lang="0"><![CDATA[Brew of death]]></name>
 <description lang="0"><![CDATA[You're too young to dr-oh wait you aren't drinking it. Deals 20 damage to enemy]]></description>
-<valuechange formulachooser="VALUE" ignoresize="true" ignoreelement="true" ignoredefend="true" id="0" value="20" ignorerace="true" operator="SUB"></valuechange>
+<valuechange formulachooser="VALUE" ignoresize="true" ignoreelement="true" ignoredefend="true" id="0" value="15" ignorerace="true" operator="SUB"></valuechange>
 <targetraycast></targetraycast>
 </item>
 <item useable="True" effects="2" itemvariable="NONE" buyprice="0" targettype="ALLY" id="4" itemtype="2" skilltarget="SINGLE" useinfield="true" consume="True" values="7">

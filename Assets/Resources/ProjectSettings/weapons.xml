@@ -1,5 +1,5 @@
 <weapons>
-<weapon minimumlevel="1" equipparts="2" sizes="3" buyprice="0" elements="3" id="0" races="4" effects="2" equiptype="SINGLE">
+<weapon minimumlevel="1" equipparts="2" sizes="3" buyprice="0" elements="3" id="0" races="2" effects="2" equiptype="SINGLE">
 <animations ownbase="False"></animations>
 <name lang="0"><![CDATA[Stone Sword]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -7,7 +7,7 @@
 <equippart id="1" enabled="True"></equippart>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 </weapon>
-<weapon minimumlevel="1" equipparts="2" sizes="3" buyprice="0" elements="3" id="1" races="4" effects="2" equiptype="SINGLE">
+<weapon minimumlevel="1" equipparts="2" sizes="3" buyprice="0" elements="3" id="1" races="2" effects="2" equiptype="SINGLE">
 <animations ownbase="False"></animations>
 <name lang="0"><![CDATA[Notched Staff]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -15,7 +15,7 @@
 <equippart id="1" enabled="True"></equippart>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 </weapon>
-<weapon minimumlevel="3" equipparts="2" sizes="3" effects="2" buyprice="50" elements="3" id="2" sellprice="20" sellsetter="PERCENT" races="4" equiptype="SINGLE">
+<weapon minimumlevel="3" equipparts="2" sizes="3" effects="2" buyprice="50" elements="3" id="2" sellprice="20" sellsetter="PERCENT" races="2" equiptype="SINGLE">
 <animations ownbase="False"></animations>
 <name lang="0"><![CDATA[Bronze Sword]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -24,7 +24,7 @@
 <race id="0" value="3"></race>
 <bonussettings block="2" escape="0" critical="0" counter="2" hit="2" moneysteal="2" itemsteal="2" speed="2"></bonussettings>
 </weapon>
-<weapon minimumlevel="3" equipparts="2" sizes="3" effects="2" skills="1" buyprice="50" elements="3" id="3" sellprice="20" sellsetter="PERCENT" races="4" equiptype="SINGLE">
+<weapon minimumlevel="3" equipparts="2" sizes="3" effects="2" skills="1" buyprice="50" elements="3" id="3" sellprice="20" sellsetter="PERCENT" races="2" equiptype="SINGLE">
 <animations ownbase="False"></animations>
 <name lang="0"><![CDATA[Bronze Axe]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -34,7 +34,7 @@
 <race id="0" value="4"></race>
 <bonussettings block="3" escape="0" critical="3" counter="3" hit="0" moneysteal="3" itemsteal="3" speed="0"></bonussettings>
 </weapon>
-<weapon minimumlevel="3" equipparts="2" sizes="3" effects="2" buyprice="50" elements="3" id="4" sellprice="20" sellsetter="PERCENT" races="4" equiptype="SINGLE">
+<weapon minimumlevel="3" equipparts="2" sizes="3" effects="2" buyprice="50" elements="3" id="4" sellprice="20" sellsetter="PERCENT" races="2" equiptype="SINGLE">
 <animations ownbase="False"></animations>
 <name lang="0"><![CDATA[Sapphire Staff]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -43,7 +43,7 @@
 <race id="0" value="3"></race>
 <bonussettings block="2" escape="2" critical="2" counter="2" hit="2" moneysteal="2" itemsteal="2" speed="2"></bonussettings>
 </weapon>
-<weapon minimumlevel="5" equipparts="2" sizes="3" effects="2" buyprice="100" elements="3" id="5" sellprice="20" sellsetter="PERCENT" races="4" equiptype="SINGLE">
+<weapon minimumlevel="5" equipparts="2" sizes="3" effects="2" buyprice="100" elements="3" id="5" sellprice="20" sellsetter="PERCENT" races="2" equiptype="SINGLE">
 <animations ownbase="False"></animations>
 <name lang="0"><![CDATA[Iron Sword]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -52,7 +52,7 @@
 <race id="0" value="4"></race>
 <bonussettings block="4" escape="0" critical="2" counter="4" hit="4" moneysteal="4" itemsteal="4" speed="4"></bonussettings>
 </weapon>
-<weapon minimumlevel="5" equipparts="2" sizes="3" effects="2" buyprice="100" elements="3" id="6" sellprice="20" sellsetter="PERCENT" races="4" equiptype="SINGLE">
+<weapon minimumlevel="5" equipparts="2" sizes="3" effects="2" buyprice="100" elements="3" id="6" sellprice="20" sellsetter="PERCENT" races="2" equiptype="SINGLE">
 <animations ownbase="False"></animations>
 <name lang="0"><![CDATA[Iron Axe]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -61,7 +61,7 @@
 <race id="0" value="6"></race>
 <bonussettings block="5" escape="0" critical="5" counter="5" hit="0" moneysteal="5" itemsteal="5" speed="0"></bonussettings>
 </weapon>
-<weapon minimumlevel="5" equipparts="2" sizes="3" effects="2" buyprice="100" elements="3" id="7" sellprice="20" sellsetter="PERCENT" races="4" equiptype="SINGLE">
+<weapon minimumlevel="5" equipparts="2" sizes="3" effects="2" buyprice="100" elements="3" id="7" sellprice="20" sellsetter="PERCENT" races="2" equiptype="SINGLE">
 <animations ownbase="False"></animations>
 <name lang="0"><![CDATA[Emerald Staff]]></name>
 <description lang="0"><![CDATA[]]></description>

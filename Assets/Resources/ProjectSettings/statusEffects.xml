@@ -1,11 +1,11 @@
 <statuseffects>
-<effect end="TURN" conditions="7" endvalue="5" sizes="3" endchance="0" endwithbattle="True" elements="3" id="0" races="4">
+<effect end="TURN" conditions="7" endvalue="5" sizes="3" endchance="0" endwithbattle="True" elements="3" id="0" races="2">
 <name lang="0"><![CDATA[Poison]]></name>
 <description lang="0"><![CDATA[Lowers HP every turn]]></description>
 <condition id="0" execution="TURN" time="0" value="5" operator="SUB" setter="PERCENT"></condition>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 </effect>
-<effect blockskills="true" conditions="7" endvalue="3" sizes="3" endwithbattle="True" endchance="0" blockdefend="true" end="TURN" elements="3" blockattack="true" id="1" blockitems="true" stopmove="true" races="4" blockescape="true">
+<effect blockskills="true" conditions="7" endvalue="3" sizes="3" endwithbattle="True" endchance="0" blockdefend="true" end="TURN" elements="3" blockattack="true" id="1" blockitems="true" stopmove="true" races="2" blockescape="true">
 <name lang="0"><![CDATA[Stun]]></name>
 <description lang="0"><![CDATA[Stuns enemy or character]]></description>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>

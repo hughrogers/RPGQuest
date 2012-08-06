@@ -4,7 +4,6 @@
 <description lang="0"><![CDATA[]]></description>
 <equippart id="0" enabled="True"></equippart>
 <blockpart id="1" blocked="True"></blockpart>
-<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 </armor>
 <armor minimumlevel="3" equipparts="2" sizes="3" effects="2" buyprice="50" elements="3" id="1" sellprice="20" sellsetter="PERCENT" races="4" equiptype="SINGLE">
 <name lang="0"><![CDATA[Bronze Armor]]></name>
