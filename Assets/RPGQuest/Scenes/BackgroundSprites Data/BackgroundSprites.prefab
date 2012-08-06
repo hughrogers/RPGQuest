@@ -1161,7 +1161,7 @@ MonoBehaviour:
   spriteCollectionName: BackgroundSprites
   invOrthoSize: 1
   halfTargetHeight: 320
-  buildKey: 1341492754
+  buildKey: 879166347
   dataGuid: f4749c86f0ad844d5b3c782d052c0143
 --- !u!1001 &100100000
 Prefab:
