@@ -67,7 +67,7 @@ MonoBehaviour:
   collection: {fileID: 11400000, guid: f4749c86f0ad844d5b3c782d052c0143, type: 2}
   _color: {r: 1, g: 1, b: 1, a: 1}
   _scale: {x: .150000006, y: .150000006, z: .150000006}
-  _spriteId: 24
+  _spriteId: 15
   pixelPerfect: 0
   boxCollider: {fileID: 0}
   meshCollider: {fileID: 0}
