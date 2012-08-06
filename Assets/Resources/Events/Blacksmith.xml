@@ -1,0 +1,19 @@
+<gameevents>
+<gameevent block="True" audioclips="0" steps="0" maincam="True" prefabs="0" waypoints="0" actors="5">
+<actor id="0" showname="true">
+<name id="0"><![CDATA[Arthas]]></name>
+</actor>
+<actor id="1" showname="true">
+<name id="0"><![CDATA[Blacksmith]]></name>
+</actor>
+<actor id="2" showname="true">
+<name id="0"><![CDATA[Elvis]]></name>
+</actor>
+<actor id="3" showname="true">
+<name id="0"><![CDATA[Romansoldier1]]></name>
+</actor>
+<actor id="4" showname="true">
+<name id="0"><![CDATA[Romansoldier1]]></name>
+</actor>
+</gameevent>
+</gameevents>

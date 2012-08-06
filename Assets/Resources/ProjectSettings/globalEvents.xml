@@ -1,7 +1,12 @@
 <globalevents>
-<name id="0"><![CDATA[New Event]]></name>
+<name id="0"><![CDATA[Waking up]]></name>
+<name id="1"><![CDATA[Blacksmith]]></name>
 <globalevent id="0" inpause="False" prefabs="0" timeout="1" type="AUTO" audioclips="0">
-<eventfile><![CDATA[]]></eventfile>
+<eventfile><![CDATA[wake up]]></eventfile>
+<controltype id="3"></controltype>
 <variables variables="0" needed="ALL" numbervariables="0"></variables>
+</globalevent>
+<globalevent id="1" prefabs="0" audioclips="0" type="CALL">
+<eventfile><![CDATA[Blacksmith]]></eventfile>
 </globalevent>
 </globalevents>
