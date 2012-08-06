@@ -3,7 +3,7 @@ using UnityEngine;
 using System.Collections;
 
 [AddComponentMenu("RPG Kit/Controls/Smooth Look At Camera")]
-public class SmoothLookAtCamera : BaseCamera
+public class SmoothLookAt : BaseCamera
 {
 	public float damping = 6.0f;
 	public bool smooth = true;
