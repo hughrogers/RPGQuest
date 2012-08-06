@@ -1,1 +1,14 @@
-<baseattacks></baseattacks>
+<baseattacks>
+<name id="0"><![CDATA[Melee Attack]]></name>
+<name id="1"><![CDATA[Magic Attack]]></name>
+<baseattack id="0" critical="true" itemconsumes="0">
+<consume id="0" value="5" operator="SUB" formulachooser="VALUE"></consume>
+<criticalconsume id="0" value="10" operator="SUB" formulachooser="VALUE"></criticalconsume>
+<stealchance></stealchance>
+</baseattack>
+<baseattack id="1" critical="true" itemconsumes="0">
+<consume id="0" value="5" operator="SUB" formulachooser="VALUE"></consume>
+<criticalconsume id="0" value="10" operator="SUB" formulachooser="VALUE"></criticalconsume>
+<stealchance></stealchance>
+</baseattack>
+</baseattacks>

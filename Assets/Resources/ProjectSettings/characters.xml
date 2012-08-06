@@ -1,8 +1,8 @@
 <characters>
 <character class="0" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="0" id="0" basecounter="0">
 <animations></animations>
-<name lang="0"><![CDATA[Player]]></name>
-<description lang="0"><![CDATA[YOUUUUUUUUUUUUUUUUUUUUUUUUUUUU!]]></description>
+<name lang="0"><![CDATA[Fighter]]></name>
+<description lang="0"><![CDATA[you.]]></description>
 <attack id="0" id2="0"></attack>
 <controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
@@ -20,8 +20,8 @@
 </character>
 <character class="0" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="0" id="1" basecounter="0">
 <animations></animations>
-<name lang="0"><![CDATA[Blacksmith's son]]></name>
-<description lang="0"><![CDATA[New Description]]></description>
+<name lang="0"><![CDATA[Wizard]]></name>
+<description lang="0"><![CDATA[]]></description>
 <attack id="0" id2="0"></attack>
 <controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
@@ -40,7 +40,7 @@
 <character class="0" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="0" id="2" basecounter="0">
 <animations></animations>
 <name lang="0"><![CDATA[Father]]></name>
-<description lang="0"><![CDATA[New Description]]></description>
+<description lang="0"><![CDATA[]]></description>
 <attack id="0" id2="0"></attack>
 <controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
@@ -59,7 +59,7 @@
 <character class="0" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="0" id="3" basecounter="0">
 <animations></animations>
 <name lang="0"><![CDATA[Human Blacksmith]]></name>
-<description lang="0"><![CDATA[New Description]]></description>
+<description lang="0"><![CDATA[]]></description>
 <attack id="0" id2="0"></attack>
 <controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
@@ -136,6 +136,25 @@
 <animations></animations>
 <name lang="0"><![CDATA[Arcane Forge Owner]]></name>
 <description lang="0"><![CDATA[New Description]]></description>
+<attack id="0" id2="0"></attack>
+<controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<development startlevel="1" maxlevel="10">
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="4"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="5"></statusvalue>
+<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="6"></statusvalue>
+</development>
+<customanimations animations="0"></customanimations>
+</character>
+<character class="0" baseelement="0" attacks="1" basecritical="0" sizeid="0" baseblock="0" raceid="0" id="8" basecounter="0">
+<animations></animations>
+<name lang="0"><![CDATA[Blacksmith's Son]]></name>
+<description lang="0"><![CDATA[]]></description>
 <attack id="0" id2="0"></attack>
 <controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>

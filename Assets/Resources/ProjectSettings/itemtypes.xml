@@ -1,0 +1,14 @@
+<itemtypes>
+<itemtype id="0">
+<name lang="0"><![CDATA[Usable]]></name>
+<description lang="0"><![CDATA[Items that are consumed when used.]]></description>
+</itemtype>
+<itemtype id="1">
+<name lang="0"><![CDATA[Loot]]></name>
+<description lang="0"><![CDATA[Stuff that is just for sale]]></description>
+</itemtype>
+<itemtype id="2">
+<name lang="0"><![CDATA[Quest Item]]></name>
+<description lang="0"><![CDATA[Items for quests.]]></description>
+</itemtype>
+</itemtypes>

@@ -1,9 +1,47 @@
 <skills>
-<skill id="0" skilltype="0" useinbattle="true" levels="1" skilltarget="SINGLE" targettype="ENEMY">
+<skill targettype="ALLY" levels="1" useinbattle="true" id="0" useinfield="true" skilltarget="SINGLE" skilltype="1">
+<name lang="0"><![CDATA[Heal]]></name>
+<description lang="0"><![CDATA[Heals character]]></description>
+<level id="0" effects="2" element="0" consumes="7" skillcombos="0">
+<targetconsume id="0" value="5" operator="ADD" formulachooser="VALUE"></targetconsume>
+<userconsume id="1" value="4" operator="SUB" formulachooser="VALUE"></userconsume>
+<stealchance></stealchance>
+</level>
+<targetraycast></targetraycast>
+</skill>
+<skill id="1" skilltype="1" useinbattle="true" levels="1" skilltarget="SINGLE" targettype="ENEMY">
+<name lang="0"><![CDATA[Stun]]></name>
+<description lang="0"><![CDATA[Stun Enemies]]></description>
+<level id="0" effects="2" element="1" consumes="7" skillcombos="0">
+<userconsume id="1" value="5" operator="ADD" formulachooser="VALUE"></userconsume>
+<effect id="1" value="ADD"></effect>
+<stealchance></stealchance>
+</level>
+<targetraycast></targetraycast>
+</skill>
+<skill id="2" skilltype="0" levels="1" skilltarget="SINGLE" targettype="ENEMY">
+<name lang="0"><![CDATA[Poison]]></name>
+<description lang="0"><![CDATA[Poison Enemy]]></description>
+<level reusetime="5" element="1" consumes="7" skillreuse="TURN" skillcombos="0" id="0" effects="2">
+<userconsume id="1" value="5" operator="SUB" formulachooser="VALUE"></userconsume>
+<effect id="0" value="ADD"></effect>
+<stealchance></stealchance>
+</level>
+<targetraycast></targetraycast>
+</skill>
+<skill id="3" skilltype="0" levels="1" skilltarget="SINGLE" targettype="ALLY">
 <name lang="0"><![CDATA[New Skill]]></name>
 <description lang="0"><![CDATA[New Description]]></description>
-<level id="0" effects="0" element="0" consumes="7" skillcombos="0">
-<userconsume id="1" value="4" operator="SUB" formulachooser="VALUE"></userconsume>
+<level id="0" effects="2" element="0" consumes="7" skillcombos="0">
+<stealchance></stealchance>
+</level>
+<targetraycast></targetraycast>
+</skill>
+<skill id="4" skilltype="2" useinbattle="true" levels="1" skilltarget="SINGLE" targettype="ENEMY">
+<name lang="0"><![CDATA[Melee]]></name>
+<description lang="0"><![CDATA[New Description]]></description>
+<level id="0" effects="2" element="0" consumes="7" skillcombos="0">
+<targetconsume id="0" value="5" operator="SUB" formulachooser="VALUE"></targetconsume>
 <stealchance></stealchance>
 </level>
 <targetraycast></targetraycast>

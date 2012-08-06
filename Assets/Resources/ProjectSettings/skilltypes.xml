@@ -1,0 +1,14 @@
+<skilltypes>
+<skilltype id="0">
+<name lang="0"><![CDATA[Common]]></name>
+<description lang="0"><![CDATA[Skills for everyone]]></description>
+</skilltype>
+<skilltype id="1">
+<name lang="0"><![CDATA[Magic]]></name>
+<description lang="0"><![CDATA[Magic Skills]]></description>
+</skilltype>
+<skilltype id="2">
+<name lang="0"><![CDATA[Fighting]]></name>
+<description lang="0"><![CDATA[Fighting Skills]]></description>
+</skilltype>
+</skilltypes>
