@@ -1,37 +1,54 @@
 <armors>
-<armor minimumlevel="1" equipparts="2" sizes="3" buyprice="0" elements="3" id="0" races="4" effects="2" equiptype="SINGLE">
+<armor minimumlevel="1" equipparts="2" sizes="3" buyprice="0" elements="3" id="0" races="2" effects="2" equiptype="SINGLE">
 <name lang="0"><![CDATA[Leather  Armor]]></name>
 <description lang="0"><![CDATA[]]></description>
 <equippart id="0" enabled="True"></equippart>
 <blockpart id="1" blocked="True"></blockpart>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0">
+<status id="4" value="1"></status>
+</bonussettings>
 </armor>
-<armor minimumlevel="3" equipparts="2" sizes="3" effects="2" buyprice="50" elements="3" id="1" sellprice="20" sellsetter="PERCENT" races="4" equiptype="SINGLE">
+<armor minimumlevel="3" equipparts="2" sizes="3" effects="2" buyprice="50" elements="3" id="1" sellprice="20" sellsetter="PERCENT" races="2" equiptype="SINGLE">
 <name lang="0"><![CDATA[Bronze Armor]]></name>
 <description lang="0"><![CDATA[]]></description>
 <equippart id="0" enabled="True"></equippart>
 <blockpart id="1" blocked="True"></blockpart>
-<bonussettings block="1" escape="0" critical="1" counter="1" hit="2" moneysteal="1" itemsteal="1" speed="0"></bonussettings>
+<bonussettings block="3" escape="0" critical="0" counter="3" hit="0" moneysteal="0" itemsteal="0" speed="0">
+<status id="4" value="3"></status>
+<status id="5" value="1"></status>
+</bonussettings>
 </armor>
-<armor minimumlevel="5" equipparts="2" sizes="3" effects="2" buyprice="100" elements="3" id="2" sellprice="20" sellsetter="PERCENT" races="4" equiptype="SINGLE">
+<armor minimumlevel="5" equipparts="2" sizes="3" effects="2" buyprice="100" elements="3" id="2" sellprice="20" sellsetter="PERCENT" races="2" equiptype="SINGLE">
 <name lang="0"><![CDATA[Iron Armor]]></name>
 <description lang="0"><![CDATA[]]></description>
 <equippart id="0" enabled="True"></equippart>
 <blockpart id="1" blocked="True"></blockpart>
-<bonussettings block="3" escape="0" critical="3" counter="3" hit="4" moneysteal="3" itemsteal="3" speed="0"></bonussettings>
+<bonussettings block="4" escape="0" critical="0" counter="4" hit="0" moneysteal="0" itemsteal="0" speed="0">
+<status id="4" value="4"></status>
+<status id="5" value="2"></status>
+</bonussettings>
 </armor>
-<armor equipparts="2" sizes="3" buyprice="0" elements="3" id="3" races="4" effects="2" equiptype="SINGLE">
+<armor equipparts="2" sizes="3" buyprice="0" elements="3" id="3" races="2" effects="2" equiptype="SINGLE">
 <name lang="0"><![CDATA[Threadbare Robe]]></name>
 <description lang="0"><![CDATA[]]></description>
-<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0">
+<status id="5" value="1"></status>
+</bonussettings>
 </armor>
-<armor equipparts="2" sizes="3" buyprice="0" elements="3" id="4" races="4" effects="2" equiptype="SINGLE">
+<armor equipparts="2" sizes="3" buyprice="0" elements="3" id="4" races="2" effects="2" equiptype="SINGLE">
 <name lang="0"><![CDATA[Cotton Robe]]></name>
 <description lang="0"><![CDATA[]]></description>
-<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<bonussettings block="3" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="3">
+<status id="4" value="1"></status>
+<status id="5" value="3"></status>
+</bonussettings>
 </armor>
-<armor equipparts="2" sizes="3" buyprice="0" elements="3" id="5" races="4" effects="2" equiptype="SINGLE">
+<armor equipparts="2" sizes="3" buyprice="0" elements="3" id="5" races="2" effects="2" equiptype="SINGLE">
 <name lang="0"><![CDATA[Velvet Robe]]></name>
 <description lang="0"><![CDATA[]]></description>
-<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<bonussettings block="4" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="4">
+<status id="4" value="2"></status>
+<status id="5" value="4"></status>
+</bonussettings>
 </armor>
 </armors>
