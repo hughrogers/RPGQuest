@@ -10,7 +10,6 @@
 <statusvalue id="4" value="3"></statusvalue>
 <statusvalue id="5" value="0"></statusvalue>
 <statusvalue id="6" value="10"></statusvalue>
-<audioclip id="0"><![CDATA[monster1]]></audioclip>
 <attack id="0" id2="0"></attack>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <variables variables="0" numbervariables="0"></variables>
@@ -27,8 +26,7 @@
 <statusvalue id="3" value="3"></statusvalue>
 <statusvalue id="4" value="0"></statusvalue>
 <statusvalue id="5" value="2"></statusvalue>
-<statusvalue id="6" value="0"></statusvalue>
-<audioclip id="0"><![CDATA[monster1]]></audioclip>
+<statusvalue id="6" value="10"></statusvalue>
 <attack id="0" id2="0"></attack>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <variables variables="0" numbervariables="0"></variables>
@@ -45,8 +43,7 @@
 <statusvalue id="3" value="4"></statusvalue>
 <statusvalue id="4" value="4"></statusvalue>
 <statusvalue id="5" value="4"></statusvalue>
-<statusvalue id="6" value="0"></statusvalue>
-<audioclip id="0"><![CDATA[monster1]]></audioclip>
+<statusvalue id="6" value="120"></statusvalue>
 <attack id="0" id2="0"></attack>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <variables variables="0" numbervariables="0"></variables>
