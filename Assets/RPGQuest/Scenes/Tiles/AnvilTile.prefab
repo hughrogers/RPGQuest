@@ -12,7 +12,7 @@ GameObject:
   - 23: {fileID: 2300000}
   - 114: {fileID: 11400000}
   m_Layer: 0
-  m_Name: WheatTile
+  m_Name: AnvilTile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24,15 +24,9 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100000}
-<<<<<<< HEAD
   m_LocalRotation: {x: -.707106829, y: 0, z: 0, w: .707106709}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 0}
-=======
-  m_LocalRotation: {x: 1.15202326e-07, y: .707106709, z: .707106829, w: -1.15202312e-07}
-  m_LocalPosition: {x: .241598696, y: .117818452, z: 3.62843275e-06}
+  m_LocalPosition: {x: .24285388, y: .117818452, z: .0484407693}
   m_LocalScale: {x: 1, y: 1, z: 1}
->>>>>>> Made all non-repeating tiles and miscellaneous tiles
   m_Children: []
   m_Father: {fileID: 0}
 --- !u!23 &2300000
@@ -72,12 +66,8 @@ MonoBehaviour:
   m_Name: 
   collection: {fileID: 11400000, guid: f4749c86f0ad844d5b3c782d052c0143, type: 2}
   _color: {r: 1, g: 1, b: 1, a: 1}
-<<<<<<< HEAD
-  _scale: {x: .150000006, y: .150000006, z: .150000006}
-=======
-  _scale: {x: .150000006, y: .150000006, z: 1}
->>>>>>> Made all non-repeating tiles and miscellaneous tiles
-  _spriteId: 13
+  _scale: {x: .569999993, y: .550000012, z: 1}
+  _spriteId: 12
   pixelPerfect: 0
   boxCollider: {fileID: 0}
   meshCollider: {fileID: 0}
