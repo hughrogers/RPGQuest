@@ -1,0 +1,10 @@
+<gameevents>
+<gameevent block="True" audioclips="0" steps="0" maincam="True" prefabs="0" waypoints="0" actors="2">
+<actor id="0" showname="true">
+<name id="0"><![CDATA[Arthas]]></name>
+</actor>
+<actor id="1" showname="true">
+<name id="0"><![CDATA[Elvis]]></name>
+</actor>
+</gameevent>
+</gameevents>

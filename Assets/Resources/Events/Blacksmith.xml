@@ -1,8 +1,6 @@
 <gameevents>
-<gameevent block="True" audioclips="0" steps="0" maincam="True" prefabs="0" waypoints="0" actors="5">
-<actor id="0" showname="true">
-<name id="0"><![CDATA[Arthas]]></name>
-</actor>
+<gameevent block="True" audioclips="0" steps="0" maincam="True" prefabs="0" waypoints="1" actors="5">
+<actor id="0" player="true" showname="true"></actor>
 <actor id="1" showname="true">
 <name id="0"><![CDATA[Blacksmith]]></name>
 </actor>
