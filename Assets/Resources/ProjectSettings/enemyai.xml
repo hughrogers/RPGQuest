@@ -1,0 +1,7 @@
+<ais>
+<ai id="0" conditions="2" needed="ALL">
+<name><![CDATA[New AI]]></name>
+<condition statussetter="VALUE" type="STATUS" statuscheck="EQUALS" statusid="0" target="SELF" id="0" statusvalue="0" checkstatusid="0"></condition>
+<condition statussetter="VALUE" type="STATUS" statuscheck="EQUALS" statusid="0" target="SELF" id="1" statusvalue="0" checkstatusid="0"></condition>
+</ai>
+</ais>

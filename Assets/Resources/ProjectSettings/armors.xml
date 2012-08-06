@@ -20,4 +20,19 @@
 <blockpart id="1" blocked="True"></blockpart>
 <bonussettings block="3" escape="0" critical="3" counter="3" hit="4" moneysteal="3" itemsteal="3" speed="0"></bonussettings>
 </armor>
+<armor equipparts="2" sizes="3" buyprice="0" elements="3" id="3" races="4" effects="2" equiptype="SINGLE">
+<name lang="0"><![CDATA[Threadbare Robe]]></name>
+<description lang="0"><![CDATA[]]></description>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</armor>
+<armor equipparts="2" sizes="3" buyprice="0" elements="3" id="4" races="4" effects="2" equiptype="SINGLE">
+<name lang="0"><![CDATA[Cotton Robe]]></name>
+<description lang="0"><![CDATA[]]></description>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</armor>
+<armor equipparts="2" sizes="3" buyprice="0" elements="3" id="5" races="4" effects="2" equiptype="SINGLE">
+<name lang="0"><![CDATA[Velvet Robe]]></name>
+<description lang="0"><![CDATA[]]></description>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+</armor>
 </armors>
