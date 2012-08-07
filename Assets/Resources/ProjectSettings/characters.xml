@@ -8,7 +8,7 @@
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <development startlevel="1" maxlevel="5">
-<statusvalue id="0" 4="49999" 0="0" 1="19999" 2="29999" 3="39999"></statusvalue>
+<statusvalue id="0" 4="150" 0="0" 1="150" 2="150" 3="150"></statusvalue>
 <statusvalue id="1" 4="49999" 0="0" 1="19999" 2="29999" 3="39999"></statusvalue>
 <statusvalue id="2" 4="49999" 0="0" 1="19999" 2="29999" 3="39999"></statusvalue>
 <statusvalue id="3" 4="49999" 0="0" 1="19999" 2="29999" 3="39999"></statusvalue>
@@ -27,7 +27,7 @@
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <development startlevel="1" maxlevel="10">
-<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="150" 2="150" 3="150" 4="150" 5="150" 6="150" 7="150" 8="150" 9="150" id="0"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>
@@ -46,7 +46,7 @@
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <development startlevel="1" maxlevel="10">
-<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="150" 2="150" 3="150" 4="150" 5="150" 6="150" 7="150" 8="150" 9="150" id="0"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>
@@ -65,7 +65,7 @@
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <development startlevel="1" maxlevel="10">
-<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="150" 2="150" 3="150" 4="150" 5="150" 6="150" 7="150" 8="150" 9="150" id="0"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>
@@ -84,7 +84,7 @@
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <development startlevel="1" maxlevel="10">
-<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="150" 2="150" 3="150" 4="150" 5="150" 6="150" 7="150" 8="150" 9="150" id="0"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>
@@ -103,7 +103,7 @@
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <development startlevel="1" maxlevel="10">
-<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="150" 2="150" 3="150" 4="150" 5="150" 6="150" 7="150" 8="150" 9="150" id="0"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>
@@ -122,7 +122,7 @@
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <development startlevel="1" maxlevel="10">
-<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="150" 2="150" 3="150" 4="150" 5="150" 6="150" 7="150" 8="150" 9="150" id="0"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>
@@ -141,7 +141,7 @@
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <development startlevel="1" maxlevel="10">
-<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="150" 2="150" 3="150" 4="150" 5="150" 6="150" 7="150" 8="150" 9="150" id="0"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>
@@ -160,7 +160,7 @@
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <development startlevel="1" maxlevel="10">
-<statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="0"></statusvalue>
+<statusvalue 0="0" 1="150" 2="150" 3="150" 4="150" 5="150" 6="150" 7="150" 8="150" 9="150" id="0"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="1"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="2"></statusvalue>
 <statusvalue 0="0" 1="19999" 2="29999" 3="39999" 4="49999" 5="59999" 6="69999" 7="79999" 8="89999" 9="99999" id="3"></statusvalue>

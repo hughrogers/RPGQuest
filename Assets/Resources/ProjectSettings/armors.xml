@@ -13,7 +13,7 @@
 <description lang="0"><![CDATA[]]></description>
 <equippart id="0" enabled="True"></equippart>
 <blockpart id="1" blocked="True"></blockpart>
-<bonussettings block="3" escape="0" critical="0" counter="3" hit="0" moneysteal="0" itemsteal="0" speed="0">
+<bonussettings block="3" escape="0" critical="0" counter="3" hit="0" moneysteal="3" itemsteal="3" speed="0">
 <status id="4" value="3"></status>
 <status id="5" value="1"></status>
 </bonussettings>
@@ -23,7 +23,7 @@
 <description lang="0"><![CDATA[]]></description>
 <equippart id="0" enabled="True"></equippart>
 <blockpart id="1" blocked="True"></blockpart>
-<bonussettings block="4" escape="0" critical="0" counter="4" hit="0" moneysteal="0" itemsteal="0" speed="0">
+<bonussettings block="4" escape="0" critical="0" counter="4" hit="0" moneysteal="4" itemsteal="4" speed="0">
 <status id="4" value="4"></status>
 <status id="5" value="2"></status>
 </bonussettings>
@@ -38,7 +38,7 @@
 <armor equipparts="2" sizes="3" buyprice="0" elements="3" id="4" races="2" effects="2" equiptype="SINGLE">
 <name lang="0"><![CDATA[Cotton Robe]]></name>
 <description lang="0"><![CDATA[]]></description>
-<bonussettings block="3" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="3">
+<bonussettings block="3" escape="0" critical="0" counter="0" hit="0" moneysteal="3" itemsteal="3" speed="3">
 <status id="4" value="1"></status>
 <status id="5" value="3"></status>
 </bonussettings>
@@ -46,7 +46,7 @@
 <armor equipparts="2" sizes="3" buyprice="0" elements="3" id="5" races="2" effects="2" equiptype="SINGLE">
 <name lang="0"><![CDATA[Velvet Robe]]></name>
 <description lang="0"><![CDATA[]]></description>
-<bonussettings block="4" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="4">
+<bonussettings block="4" escape="0" critical="0" counter="0" hit="0" moneysteal="4" itemsteal="4" speed="4">
 <status id="4" value="2"></status>
 <status id="5" value="4"></status>
 </bonussettings>
