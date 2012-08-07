@@ -1,0 +1,7 @@
+<gameevents>
+<gameevent block="True" audioclips="0" steps="0" maincam="True" prefabs="0" waypoints="0" actors="3">
+<actor id="0" player="true"></actor>
+<actor id="1"></actor>
+<actor id="2"></actor>
+</gameevent>
+</gameevents>
