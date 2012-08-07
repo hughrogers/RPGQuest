@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f639d4a6705364f78858dcac9f79c987
+labels:
+- 2D
+- Animation
+- Skeletal
+- Skeleton
+- Bone
+- Hierarchy
+- Sprite
+- Atlas
+- Motion
+- Curve
+MonoAssemblyImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}

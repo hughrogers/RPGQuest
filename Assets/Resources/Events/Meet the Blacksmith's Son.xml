@@ -1,10 +1,22 @@
 <gameevents>
-<gameevent block="True" audioclips="0" steps="0" maincam="True" prefabs="0" waypoints="3" actors="2">
+<gameevent block="True" audioclips="0" steps="0" maincam="True" prefabs="0" waypoints="3" actors="6">
 <actor id="0" player="true" showname="true">
 <name id="0"><![CDATA[Anlad]]></name>
 </actor>
 <actor id="1" showname="true">
 <name id="0"><![CDATA[Blacksmith's Son]]></name>
+</actor>
+<actor id="2" showname="true">
+<name id="0"><![CDATA[Skeleton Warrior 1]]></name>
+</actor>
+<actor id="3" showname="true">
+<name id="0"><![CDATA[Skeleton Warrior 2]]></name>
+</actor>
+<actor id="4" showname="true">
+<name id="0"><![CDATA[Skeleton Wizard 1]]></name>
+</actor>
+<actor id="5" showname="true">
+<name id="0"><![CDATA[Skeleton Wizard 2]]></name>
 </actor>
 </gameevent>
 </gameevents>
