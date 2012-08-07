@@ -95,8 +95,8 @@ MonoBehaviour:
     texture: {fileID: 2800000, guid: 75efcff6db69f4a628a51da74708156d, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 100
-    anchorY: 95
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -132,8 +132,8 @@ MonoBehaviour:
     texture: {fileID: 2800000, guid: ef5e6337424314e988feb4439874b58c, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 124
-    anchorY: 27
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -243,8 +243,8 @@ MonoBehaviour:
     texture: {fileID: 2800000, guid: c5fcd300e941b46ae9357ce89eb36168, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 79
-    anchorY: 121
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -280,8 +280,8 @@ MonoBehaviour:
     texture: {fileID: 2800000, guid: da27f6cb441fe42f5841d3376d402c5c, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 72
-    anchorY: 141
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -317,8 +317,8 @@ MonoBehaviour:
     texture: {fileID: 2800000, guid: f7490aeb7fe39409684c8828418e6d86, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 47
-    anchorY: 91
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -539,8 +539,8 @@ MonoBehaviour:
     texture: {fileID: 2800000, guid: 3492d0eaa77f14c5faba123c993034ff, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 69
-    anchorY: 42
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -835,8 +835,8 @@ MonoBehaviour:
     texture: {fileID: 2800000, guid: af7a4c4834c3c47e7bdc1fc230b725d7, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 110
-    anchorY: 69
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -872,8 +872,8 @@ MonoBehaviour:
     texture: {fileID: 2800000, guid: 183b7868db6a04c44bdf8f888b922c5d, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 103
-    anchorY: 47
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -1168,8 +1168,8 @@ MonoBehaviour:
     texture: {fileID: 2800000, guid: fffcfcd1844b748e5bac281eddb41c0a, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 123
-    anchorY: 97
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
