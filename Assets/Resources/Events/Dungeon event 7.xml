@@ -1,0 +1,26 @@
+<gameevents>
+<gameevent block="True" audioclips="0" steps="6" maincam="True" prefabs="0" waypoints="76" actors="2">
+<actor id="0" showname="true">
+<name id="0"><![CDATA[Blacksmith's Son]]></name>
+</actor>
+<actor id="1" player="true"></actor>
+<step show3="True" id="0" number="0" type="SHOW_DIALOGUE" next="1" actor="0">
+<message id="0"><![CDATA[Yea Nice swordsmanship, if my fathers anecdotes had any truth to them, it must be the parts about your father. You are a true reincarnation of him]]></message>
+</step>
+<step show3="True" id="1" number="0" type="SHOW_DIALOGUE" next="2" actor="1">
+<message id="0"><![CDATA[So I’ve heard. You’re not too shabby of a mage yourself. At this rate you’ll become the archmage- eh?]]></message>
+</step>
+<step show3="True" id="2" number="0" type="SHOW_DIALOGUE" next="3" actor="0">
+<message id="0"><![CDATA[Well, one can hope. What of my father anyway? Does he know I’m safe now?]]></message>
+</step>
+<step show3="True" id="3" number="0" type="SHOW_DIALOGUE" next="4" actor="1">
+<message id="0"><![CDATA[Yes, once I left town I sent a message to him saying that I’ve got you, and we are on the way to finding my father]]></message>
+</step>
+<step show3="True" id="4" number="0" type="SHOW_DIALOGUE" next="5" actor="0">
+<message id="0"><![CDATA[Ambitious man aren’t you.]]></message>
+</step>
+<step show3="True" id="5" number="0" type="SHOW_DIALOGUE" next="6" actor="1">
+<message id="0"><![CDATA[I am my father, aren’t I? sly smile]]></message>
+</step>
+</gameevent>
+</gameevents>
