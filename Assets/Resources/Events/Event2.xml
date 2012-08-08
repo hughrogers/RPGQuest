@@ -1,0 +1,32 @@
+<gameevents>
+<gameevent block="True" audioclips="0" steps="7" maincam="True" prefabs="0" waypoints="2" actors="3">
+<actor id="0" showname="true">
+<name id="0"><![CDATA[Elvis]]></name>
+</actor>
+<actor id="1" showname="true">
+<name id="0"><![CDATA[Blacksmith]]></name>
+</actor>
+<actor id="2" player="true" showname="true"></actor>
+<step show3="True" id="0" number="1" type="SHOW_DIALOGUE" next="1" actor="1">
+<message id="0"><![CDATA[Hahaha, is that who i think it is! My good old friend Elvis. Hows it been old pal?]]></message>
+</step>
+<step show3="True" id="1" number="0" type="SHOW_DIALOGUE" next="2" actor="0">
+<message id="0"><![CDATA[I’ve been splendid, How is the search for your son gone?]]></message>
+</step>
+<step show3="True" id="2" number="1" type="SHOW_DIALOGUE" next="3" actor="1">
+<message id="0"><![CDATA[Sigh, still no luck. I’m starting to lose hope. One day he goes into the woods and he is just gone. It’s heartbreaking...]]></message>
+</step>
+<step show3="True" id="3" number="1" type="SHOW_DIALOGUE" next="4" actor="0">
+<message id="0"><![CDATA[Ah- Don't dwell on it old pal, whatever you need, more soldiers, more materials, I’ll get it to you. Though let’s shift our hearts to a more light topic, shall we? My son is finally 18! Time flies doesn’t it]]></message>
+</step>
+<step show3="True" id="4" number="1" type="SHOW_DIALOGUE" next="5" actor="1">
+<message id="0"><![CDATA[You’re kidding! ah- I remember when it was just me and you, best friends, buying our first set. Now we are grown men, and look at you. My bestfriend is the leader of this old village. Who would’ve Guessed.]]></message>
+</step>
+<step show3="True" id="5" number="0" type="SHOW_DIALOGUE" next="6" actor="0">
+<message id="0"><![CDATA[Makes you feel old doesn’t it?]]></message>
+</step>
+<step show3="True" id="6" number="1" type="SHOW_DIALOGUE" next="7" actor="1">
+<message id="0"><![CDATA[Yea, i guess it does. Anyway, So what is it you want (player) I’ve got anything you can possibly want here.]]></message>
+</step>
+</gameevent>
+</gameevents>
