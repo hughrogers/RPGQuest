@@ -1,0 +1,11 @@
+<gameevents>
+<gameevent block="True" audioclips="0" steps="1" maincam="True" prefabs="0" waypoints="0" actors="2">
+<actor id="0" showname="true">
+<name id="0"><![CDATA[Blacksmith's son ]]></name>
+</actor>
+<actor id="1" player="true" showname="true"></actor>
+<step show3="False" id="0" number="0" type="SHOW_DIALOGUE" next="1">
+<message id="0"><![CDATA[Back! You filthy creature!]]></message>
+</step>
+</gameevent>
+</gameevents>
