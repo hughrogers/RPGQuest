@@ -406,7 +406,7 @@ MonoBehaviour:
   editorDataGUID: a02f41945b6ccea4bb75112aebce6c1a
   data: {fileID: 11400000, guid: 9eeef870c380b3e45b20e66656b43c29, type: 2}
   renderData: {fileID: 1452150320}
-  spriteCollection: {fileID: 11400000, guid: f4749c86f0ad844d5b3c782d052c0143, type: 2}
+  spriteCollection: {fileID: 0}
   spriteCollectionKey: 200633692
   width: 16
   height: 16
