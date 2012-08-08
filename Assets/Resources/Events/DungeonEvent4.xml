@@ -1,0 +1,26 @@
+<gameevents>
+<gameevent block="True" audioclips="0" steps="6" maincam="True" prefabs="0" waypoints="4" actors="2">
+<actor id="0" player="true" showname="true"></actor>
+<actor id="1" showname="true">
+<name id="0"><![CDATA[Blacksmith's son]]></name>
+</actor>
+<step show3="True" id="0" number="1" type="SHOW_DIALOGUE" next="1" actor="1">
+<message id="0"><![CDATA[Look who it is! The son of the great ol’ (DAD;’S NAME). Boy am i grateful a swordsman of your stature came. For a second there, I thought that last batch of monsters might get me.]]></message>
+</step>
+<step show3="True" id="1" number="0" type="SHOW_DIALOGUE" next="2" actor="0">
+<message id="0"><![CDATA[The pleasure is mine. How did you manage to get into this cave anyway?]]></message>
+</step>
+<step show3="True" id="2" number="1" type="SHOW_DIALOGUE" next="3" actor="1">
+<message id="0"><![CDATA[I was out gathering materials for making weapons, when a squadron of soldiers saw me and began to chase me, so I ran into this cave to hide until I was sure they had stopped looking. When I left my hiding spot to leave, a group of monsters ambushed me and beat me to near death.I managed to crawl away and regain my strength. The second I was able to walk, I tried to leave once again, but I was stopped by those things.]]></message>
+</step>
+<step show3="True" id="3" number="1" type="SHOW_DIALOGUE" next="4" actor="0">
+<message id="0"><![CDATA[You sure have had a fun time down here. How about i entice your warrior mind with something even more challenging.]]></message>
+</step>
+<step show3="True" id="4" number="0" type="SHOW_DIALOGUE" next="5" actor="1">
+<message id="0"><![CDATA[Shoot.]]></message>
+</step>
+<step show3="True" id="5" number="1" type="SHOW_DIALOGUE" next="6" actor="0">
+<message id="0"><![CDATA[My father has been captured by the Lues Empire. The soldiers that attacked you were probably from the same empire, considering this cave is in the direction they took my father.]]></message>
+</step>
+</gameevent>
+</gameevents>
