@@ -1,0 +1,20 @@
+<gameevents>
+<gameevent block="True" audioclips="0" steps="3" maincam="True" prefabs="0" waypoints="5" actors="3">
+<actor id="0" showname="true">
+<name id="0"><![CDATA[Blacksmith's Son]]></name>
+</actor>
+<actor id="1" player="true" showname="true"></actor>
+<actor id="2" showname="true">
+<name id="0"><![CDATA[Bonecrusher the Skeletal Behemoth]]></name>
+</actor>
+<step show3="True" id="0" number="0" type="SHOW_DIALOGUE" next="1" actor="0">
+<message id="0"><![CDATA[They WHAT! How di-]]></message>
+</step>
+<step show3="True" id="1" number="1" type="SHOW_DIALOGUE" next="2" actor="1">
+<message id="0"><![CDATA[He went willingly, don’t worry. He picked between me and him, and he sacrificed himself for me. But that raises my question. Will you be willing to come with me to get my father.]]></message>
+</step>
+<step show3="True" id="2" number="0" type="SHOW_DIALOGUE" next="3" actor="2">
+<message id="0"><![CDATA[ROOOAAAAR!!!!!]]></message>
+</step>
+</gameevent>
+</gameevents>
