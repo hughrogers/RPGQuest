@@ -229,3 +229,69 @@ MonoBehaviour:
     - 775e311b21d73a74c93ca74a71671b1e
     - 03fff0d1701d7e14399d5ee2209561dc
     version: 3
+  - name: BackgroundSprites
+    spriteCollectionGUID: 23d53b8aa161940ad9c5efa067773ece
+    spriteCollectionDataGUID: f4749c86f0ad844d5b3c782d052c0143
+    spriteNames:
+    - furnacePlaceholder
+    - bedPlaceholder
+    - stoneFloorTilePlaceholder
+    - chest02TilePlaceholder
+    - barrelPlaceholder
+    - parchedTreePlaceholder
+    - flowerPlaceholder
+    - stoneWallTilePlaceholder
+    - GrassTilePlaceholder
+    - boneFloorTilePlaceholder
+    - rockTilePlaceholder
+    - caveEntranceTilePlaceholder
+    - anVilPlaceholder
+    - wheatTilePlaceholder
+    - torchTilePlaceholder
+    - carpetTilePlaceholder
+    - chest01TilePlaceholder
+    - Grass02TilePlaceholder
+    - windowlTilePlaceholder
+    - woodpileTilePlaceholder
+    - counterPlaceholder
+    - rockPlaceholder
+    - villageDoorTile
+    - villageGateTilePlaceholder
+    - healingSpotTilePlaceholder
+    - dungeonDoorTilePlaceholder
+    - ladderTilePlaceholder
+    - stoneFloorPuddleTilePlaceholder
+    - tallGrassTilePlaceholder
+    - TablePlaceholder
+    spriteTextureGUIDs:
+    - 75efcff6db69f4a628a51da74708156d
+    - ef5e6337424314e988feb4439874b58c
+    - 65ed730c87be348dc97a58447cc80b8d
+    - b47e0ba7a8cbd4b45acdb02306739da1
+    - c5fcd300e941b46ae9357ce89eb36168
+    - da27f6cb441fe42f5841d3376d402c5c
+    - f7490aeb7fe39409684c8828418e6d86
+    - fbb9b4acc3db74e299c95789fc63dcad
+    - 75f86e87f9ea043f0b05ff9c03d2726d
+    - 8c9330fd6631a48e999cecbc3d745e1d
+    - 4d5bf2692c78141e585f116a7bb09caa
+    - 25ca051e8eb7e46d68e4718d25fe7cf4
+    - 3492d0eaa77f14c5faba123c993034ff
+    - 29127943e1cd143f5b64833c101fa59f
+    - 6a0bfd5328b6b49f29ecdb4ffe00c716
+    - 20d311a7c9cbd41389e6e11e678591ee
+    - 245b098c72d764c6c9dee4ddb74fec98
+    - 3b06d9297ab194f078720e805b2c8614
+    - 45ea3ae71f2334eadba2efb1a8f7770d
+    - 7bc374f7b9ced430cae46005ac73ded2
+    - af7a4c4834c3c47e7bdc1fc230b725d7
+    - 183b7868db6a04c44bdf8f888b922c5d
+    - edb98e98006da4047b96851a1abab68a
+    - 9be8fdaa288524519a78f0b533b16612
+    - 3053d1d34f0ec4bcb9418948e7ef455a
+    - 2f97c1c068cdf44609ac90860e7236ef
+    - 323c9593d4b684a68a961acd5ff8188c
+    - ecab1ee94666049738554e7aecfa75e2
+    - f843f307f9fd148a4bbd428c6a275bed
+    - fffcfcd1844b748e5bac281eddb41c0a
+    version: 3

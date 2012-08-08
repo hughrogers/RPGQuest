@@ -1161,11 +1161,7 @@ MonoBehaviour:
   spriteCollectionName: BackgroundSprites
   invOrthoSize: 1
   halfTargetHeight: 320
-<<<<<<< HEAD
   buildKey: 1431628359
-=======
-  buildKey: 983278216
->>>>>>> sync
   dataGuid: f4749c86f0ad844d5b3c782d052c0143
 --- !u!1001 &100100000
 Prefab:
