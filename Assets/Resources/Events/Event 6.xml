@@ -1,0 +1,10 @@
+<gameevents>
+<gameevent block="True" audioclips="0" steps="2" maincam="True" prefabs="0" waypoints="0" actors="0">
+<step show3="False" id="0" number="0" type="SHOW_DIALOGUE" next="1">
+<message id="0"><![CDATA[]]></message>
+</step>
+<step show3="False" id="1" number="0" type="SHOW_DIALOGUE" next="2">
+<message id="0"><![CDATA[ROOOOOOOOOOOOOAAAAAAAAAAAAAR!]]></message>
+</step>
+</gameevent>
+</gameevents>

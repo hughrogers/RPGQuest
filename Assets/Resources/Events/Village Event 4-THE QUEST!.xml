@@ -1,0 +1,17 @@
+<gameevents>
+<gameevent block="True" audioclips="0" steps="4" maincam="True" prefabs="0" waypoints="0" actors="1">
+<actor id="0" player="true" showname="true"></actor>
+<step show3="False" id="0" number="1" type="SHOW_DIALOGUE" next="1">
+<message id="0"><![CDATA[Don't let yourself get down. Your father was an amazing man. He helped us come to peace with our dwarven neighbors. Some call him the greatest leader we ever had.]]></message>
+</step>
+<step show3="False" id="1" number="1" type="SHOW_DIALOGUE" next="2">
+<message id="0"><![CDATA[But that's not what troubles me. None of you lifted a finger to try to save him. Even you said he was an amazing man. Since none of you will, I'm going to prove my worth and save my father.]]></message>
+</step>
+<step show3="False" id="2" number="0" type="SHOW_DIALOGUE" next="3">
+<message id="0"><![CDATA[Wait, son. I know you're angry at the empire, but killing yourself won't solve anything. If you want to blow off some steam, go join my son in the dungeon. He's been training there for hours, and I want to know if he's alright.]]></message>
+</step>
+<step show3="False" id="3" number="0" type="SHOW_DIALOGUE" next="4">
+<message id="0"><![CDATA[Alright, I'll go find your son for you. It'll probably take my mind off that blasted empire, too.]]></message>
+</step>
+</gameevent>
+</gameevents>

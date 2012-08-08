@@ -115,7 +115,7 @@ MonoBehaviour:
   data: {fileID: 11400000, guid: 668966774c7ca4d6b9f12871966432ec, type: 2}
   renderData: {fileID: 413008245}
   spriteCollection: {fileID: 11400000, guid: f4749c86f0ad844d5b3c782d052c0143, type: 2}
-  spriteCollectionKey: 200633692
+  spriteCollectionKey: 1756854507
   width: 32
   height: 32
   partitionSizeX: 32
@@ -158,7 +158,7 @@ MonoBehaviour:
     numRows: 1
     divX: 32
     divY: 32
-  buildKey: 678943749
+  buildKey: 101033107
   _inEditMode: 1
   serializeRenderData: 0
   serializedMeshPath: 
