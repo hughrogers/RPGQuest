@@ -1,6 +1,15 @@
 <dialoguepositions>
-<dialogueposition aligncenter="False" columnfill="VERTICAL" choiceinactivealpha="0.5" autocollapse="False" showshadow="True" showbox="True" linespacing="10" choicecolumns="1" oneline="False" columnspacing="10" shownamebox="True" scrollable="False" id="0" hidebutton="False">
-<name><![CDATA[Hello]]></name>
+<dialogueposition aligncenter="False" columnfill="VERTICAL" choiceinactivealpha="0.5" autocollapse="False" showshadow="True" showbox="True" linespacing="10" choicecolumns="1" oneline="True" columnspacing="10" shownamebox="True" scrollable="False" id="0" hidebutton="False">
+<name><![CDATA[Small Dialogue]]></name>
+<boxbounds y="0" h="800" w="1280" x="0"></boxbounds>
+<nameboxbounds y="750" h="50" w="150" x="0"></nameboxbounds>
+<boxpadding y="10" z="10" w="10" x="10"></boxpadding>
+<nameboxpadding y="1" z="5" w="1" x="5"></nameboxpadding>
+<shadowoffset y="1" x="1"></shadowoffset>
+<choicepadding y="5" x="5"></choicepadding>
+</dialogueposition>
+<dialogueposition aligncenter="False" columnfill="VERTICAL" choiceinactivealpha="0.5" autocollapse="False" showshadow="True" showbox="True" linespacing="10" choicecolumns="1" oneline="False" columnspacing="10" shownamebox="True" scrollable="False" id="1" hidebutton="True">
+<name><![CDATA[Large Dialogue]]></name>
 <boxbounds y="0" h="800" w="1280" x="0"></boxbounds>
 <nameboxbounds y="750" h="50" w="150" x="0"></nameboxbounds>
 <boxpadding y="10" z="10" w="10" x="10"></boxpadding>
