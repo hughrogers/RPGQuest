@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: f639d4a6705364f78858dcac9f79c987, type: 1}
+  m_Name: Atlas Imp. Soldier Side
+  material: {fileID: 2100000, guid: 2bb83f8bdf2c24dfcb8a914019e14584, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: .490234375
+    y: 0
+    width: .13671875
+    height: .55078125
+  - serializedVersion: 2
+    x: .767578125
+    y: 0
+    width: .15625
+    height: .35546875
+  - serializedVersion: 2
+    x: .34375
+    y: 0
+    width: .14453125
+    height: .765625
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: .169921875
+    height: .77734375
+  - serializedVersion: 2
+    x: .62890625
+    y: 0
+    width: .13671875
+    height: .55078125
+  - serializedVersion: 2
+    x: .171875
+    y: 0
+    width: .169921875
+    height: .77734375
+  textureGUIDs:
+  - 768798d54542045c888dbb58eac77590
+  - 48c7553ce7c9f4e89b329fdfad3930ea
+  - adf7a649dc08348fd8c2c2cff5da183b
+  - 251032536ed0e45fca1ef41b1be3aeb9
+  - 256da499f5c614898beb68642ab0a864
+  - b2770f28324ad407590ba4680d3d0c27
+  textureSizes:
+  - {x: 70, y: 141}
+  - {x: 80, y: 91}
+  - {x: 74, y: 196}
+  - {x: 87, y: 199}
+  - {x: 70, y: 141}
+  - {x: 87, y: 199}
+  defaultPivotOffsets:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  textureNames:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  lastBuildID: 20120808133521942
+  needsRebuilt: 0
+  atlasGUID: 
+  dataVersion: 3

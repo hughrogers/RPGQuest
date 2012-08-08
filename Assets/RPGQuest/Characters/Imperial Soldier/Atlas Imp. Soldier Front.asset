@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: f639d4a6705364f78858dcac9f79c987, type: 1}
+  m_Name: Atlas Imp. Soldier Front
+  material: {fileID: 2100000, guid: 909d778acb9ea4b319a5750e3eff3700, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: .634765625
+    y: 0
+    width: .126953125
+    height: .63671875
+  - serializedVersion: 2
+    x: .322265625
+    y: 0
+    width: .126953125
+    height: .6640625
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: .212890625
+    height: .84765625
+  - serializedVersion: 2
+    x: .21484375
+    y: 0
+    width: .10546875
+    height: .80859375
+  - serializedVersion: 2
+    x: .451171875
+    y: 0
+    width: .181640625
+    height: .44921875
+  - serializedVersion: 2
+    x: .763671875
+    y: 0
+    width: .095703125
+    height: .7890625
+  textureGUIDs:
+  - 8c8ff8c0fc34741e2b1147c0092e79a5
+  - 7bb9cd5e0233f40adb6a39b7f37dbc8c
+  - ac7c4ca2885524c2eaae1efb95e6e6ca
+  - aaf2dc8ce899c4a44bf97ca120eb1e58
+  - e18869a3cf8bc479882d83da25ac13f0
+  - ab54ddd6514f64de59ce7b0eb0a67213
+  textureSizes:
+  - {x: 64, y: 128}
+  - {x: 64, y: 128}
+  - {x: 128, y: 256}
+  - {x: 64, y: 256}
+  - {x: 64, y: 128}
+  - {x: 64, y: 256}
+  defaultPivotOffsets:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  textureNames:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  lastBuildID: 20120808131122507
+  needsRebuilt: 0
+  atlasGUID: 
+  dataVersion: 3

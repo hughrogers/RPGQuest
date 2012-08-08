@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: f639d4a6705364f78858dcac9f79c987, type: 1}
+  m_Name: Atlas Imp. Soldier Back
+  material: {fileID: 2100000, guid: 44300340f391c425b99ba5a8ab310534, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: .427734375
+    y: 0
+    width: .115234375
+    height: .306640625
+  - serializedVersion: 2
+    x: .208984375
+    y: .384765625
+    width: .080078125
+    height: .384765625
+  - serializedVersion: 2
+    x: 0
+    y: .4296875
+    width: .19140625
+    height: .203125
+  - serializedVersion: 2
+    x: .208984375
+    y: 0
+    width: .216796875
+    height: .3828125
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: .20703125
+    height: .427734375
+  - serializedVersion: 2
+    x: 0
+    y: .634765625
+    width: .126953125
+    height: .296875
+  textureGUIDs:
+  - bc03c42f0282242609f00d3905eec7c4
+  - 964cdd826c183404c8c77490614deb6c
+  - 2b60f1ddefa3049cfb9f87b58b1c8fc9
+  - 799ee8dd2e8054032b37d80fe5415382
+  - e93ff6a0aa7c449429928baf8f086660
+  - 857fd15c2ad5242aa96d7da9c2ef6b07
+  textureSizes:
+  - {x: 59, y: 157}
+  - {x: 41, y: 197}
+  - {x: 98, y: 104}
+  - {x: 111, y: 196}
+  - {x: 106, y: 219}
+  - {x: 65, y: 152}
+  defaultPivotOffsets:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  textureNames:
+  - Imperial-Soldier-Back-Left-Arm
+  - Imperial-Soldier-Back-Left-Leg
+  - Imperial-Soldier-Back-Head
+  - Imperial-Soldier-Back-Right-Leg
+  - Imperial-Soldier-Back-Body
+  - Imperial-Soldier-Back-Right-Arm
+  lastBuildID: 20120808134357568
+  needsRebuilt: 0
+  atlasGUID: 
+  dataVersion: 0

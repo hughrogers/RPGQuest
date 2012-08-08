@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: f639d4a6705364f78858dcac9f79c987, type: 1}
+  m_Name: Atlas Fighter Side
+  material: {fileID: 2100000, guid: aa8eb1b641a75437fa28198759983711, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: .541992188
+    y: 0
+    width: .123046875
+    height: .60546875
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: .205078125
+    height: .912109375
+  - serializedVersion: 2
+    x: .374023438
+    y: .66015625
+    width: .114257812
+    height: .328125
+  - serializedVersion: 2
+    x: .374023438
+    y: 0
+    width: .166992188
+    height: .658203125
+  - serializedVersion: 2
+    x: .666015625
+    y: 0
+    width: .123046875
+    height: .60546875
+  - serializedVersion: 2
+    x: .206054688
+    y: 0
+    width: .166992188
+    height: .796875
+  textureGUIDs:
+  - 4b1b45a50afa5486697d81e93a533376
+  - 839fe0fafaf0b4a68b8b526b75297785
+  - 1c0054aa2a13e40aba1cb665af7277c2
+  - 3e20f439725c74b70821ca0a1ed86023
+  - f778927d59c7a49da872a31f7f0a6d21
+  - 9ed2184c593114db4aef5de802b5a5b6
+  textureSizes:
+  - {x: 126, y: 310}
+  - {x: 210, y: 467}
+  - {x: 117, y: 168}
+  - {x: 171, y: 337}
+  - {x: 126, y: 310}
+  - {x: 171, y: 408}
+  defaultPivotOffsets:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  textureNames:
+  - Fighter-Side-Left-Arm
+  - Fighter-Side-Body
+  - Fighter-Side-Head
+  - Fighter-Side-Left-Leg
+  - Fighter-Side-Right-Arm
+  - Fighter-Side-Right-Leg
+  lastBuildID: 20120808141752264
+  needsRebuilt: 0
+  atlasGUID: 
+  dataVersion: 0

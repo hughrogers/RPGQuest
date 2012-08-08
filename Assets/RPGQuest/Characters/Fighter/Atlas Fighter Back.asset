@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: f639d4a6705364f78858dcac9f79c987, type: 1}
+  m_Name: Atlas Fighter Back
+  material: {fileID: 2100000, guid: 42ca6b6a32f1a492495a3327934e345a, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: 0
+    y: .513671875
+    width: .193359375
+    height: .327148438
+  - serializedVersion: 2
+    x: .194335938
+    y: .513671875
+    width: .116210938
+    height: .3203125
+  - serializedVersion: 2
+    x: .359375
+    y: 0
+    width: .10546875
+    height: .317382812
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: .358398438
+    height: .512695312
+  - serializedVersion: 2
+    x: .194335938
+    y: .834960938
+    width: .1015625
+    height: .161132812
+  - serializedVersion: 2
+    x: .465820312
+    y: 0
+    width: .0771484375
+    height: .309570312
+  textureGUIDs:
+  - 52f6570fe3d3d42a19971639a32da93a
+  - 09ad4b97b413343ce85207b559f80516
+  - 169354a8e2bb24680b7c72115a306f19
+  - e7bd57013d4374f1a8ee8530dcb91f6d
+  - e89f3465e8aa4445f9b04af5978d948a
+  - 038defa8e5f974372a427f54d28c1aa8
+  textureSizes:
+  - {x: 198, y: 335}
+  - {x: 119, y: 328}
+  - {x: 108, y: 325}
+  - {x: 367, y: 525}
+  - {x: 104, y: 165}
+  - {x: 79, y: 317}
+  defaultPivotOffsets:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  textureNames:
+  - Fighter-Back-Left-Arm
+  - Fighter-Back-Left-Leg
+  - Fighter-Back-Back-Right-Leg
+  - Fighter-Back-Body
+  - Fighter-Back-Head
+  - Fighter-Back-Right-Arm
+  lastBuildID: 20120808135604442
+  needsRebuilt: 0
+  atlasGUID: 
+  dataVersion: 0
