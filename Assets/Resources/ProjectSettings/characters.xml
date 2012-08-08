@@ -26,14 +26,14 @@
 <controlmap inputhandling="BUTTON_DOWN" axistimeout="0.5"></controlmap>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
-<development startlevel="1" maxlevel="10">
-<statusvalue 0="0" 1="150" 2="150" 3="150" 4="150" 5="150" 6="150" 7="150" 8="150" 9="150" id="0"></statusvalue>
-<statusvalue 0="0" 1="100" 2="100" 3="100" 4="100" 5="100" 6="100" 7="100" 8="100" 9="100" id="1"></statusvalue>
-<statusvalue 0="5" 1="5" 2="5" 3="5" 4="5" 5="1" 6="1" 7="1" 8="1" 9="1" id="2"></statusvalue>
-<statusvalue 0="1" 1="1" 2="1" 3="1" 4="1" 5="1" 6="1" 7="1" 8="1" 9="1" id="3"></statusvalue>
-<statusvalue 0="5" 1="5" 2="5" 3="5" 4="5" 5="1" 6="1" 7="1" 8="1" 9="1" id="4"></statusvalue>
-<statusvalue 0="1" 1="20" 2="20" 3="20" 4="20" 5="20" 6="20" 7="20" 8="20" 9="20" id="5"></statusvalue>
-<statusvalue 0="0" 1="250" 2="250" 3="250" 4="250" 5="250" 6="250" 7="250" 8="250" 9="250" id="6"></statusvalue>
+<development startlevel="1" maxlevel="5">
+<statusvalue id="0" 4="150" 0="0" 1="150" 2="150" 3="150"></statusvalue>
+<statusvalue id="1" 4="100" 0="0" 1="100" 2="100" 3="100"></statusvalue>
+<statusvalue id="2" 4="5" 0="5" 1="5" 2="5" 3="5"></statusvalue>
+<statusvalue id="3" 4="12" 0="5" 1="6" 2="8" 3="10"></statusvalue>
+<statusvalue id="4" 4="5" 0="5" 1="5" 2="5" 3="5"></statusvalue>
+<statusvalue id="5" 4="9" 0="5" 1="6" 2="7" 3="8"></statusvalue>
+<statusvalue id="6" 4="100" 0="0" 1="10" 2="25" 3="50"></statusvalue>
 </development>
 <customanimations animations="0"></customanimations>
 </character>
