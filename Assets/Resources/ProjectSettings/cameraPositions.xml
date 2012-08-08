@@ -1,0 +1,12 @@
+<camerapositions>
+<cameraposition id="0" fov="4">
+<rotation y="183.6214" z="0.07905579" x="0"></rotation>
+<name><![CDATA[Duo Skeleton Fight]]></name>
+<position y="21.33355" z="5.577609" x="28.34948"></position>
+</cameraposition>
+<cameraposition id="1" fov="4">
+<rotation y="0" z="0" x="0"></rotation>
+<name><![CDATA[Quad Skeleton Fight]]></name>
+<position y="32.51973" z="-10" x="26.22985"></position>
+</cameraposition>
+</camerapositions>
