@@ -1,5 +1,5 @@
 <gameevents>
-<gameevent block="True" audioclips="0" steps="3" maincam="True" prefabs="0" waypoints="5" actors="3">
+<gameevent block="True" audioclips="0" steps="4" maincam="True" prefabs="0" waypoints="5" actors="3">
 <actor id="0" showname="true">
 <name id="0"><![CDATA[Blacksmith's Son]]></name>
 </actor>
@@ -15,6 +15,9 @@
 </step>
 <step show3="True" id="2" number="0" type="SHOW_DIALOGUE" next="3" actor="2">
 <message id="0"><![CDATA[ROOOAAAAR!!!!!]]></message>
+</step>
+<step show3="False" id="3" number="0" type="SHOW_DIALOGUE" next="4">
+<message id="0"><![CDATA[]]></message>
 </step>
 </gameevent>
 </gameevents>
