@@ -74,69 +74,15 @@ NavMeshSettings:
     widthInaccuracy: 16.666666
     heightInaccuracy: 10
   m_NavMesh: {fileID: 0}
---- !u!1 &468611442
+--- !u!1 &1042511357
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 3
   m_Component:
-  - 4: {fileID: 468611443}
-  m_Layer: 0
-  m_Name: TileMap Render Data
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &468611443
-Transform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 468611442}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1862427671}
-  - {fileID: 839864646}
-  m_Father: {fileID: 0}
---- !u!1 &839864645
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 3
-  m_Component:
-  - 4: {fileID: 839864646}
-  m_Layer: 0
-  m_Name: Floor
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &839864646
-Transform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 839864645}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 468611443}
---- !u!1 &1117784874
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 3
-  m_Component:
-  - 4: {fileID: 1117784875}
-  - 114: {fileID: 1117784876}
+  - 4: {fileID: 1042511358}
+  - 114: {fileID: 1042511359}
   m_Layer: 0
   m_Name: TileMap
   m_TagString: Untagged
@@ -144,134 +90,48 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1117784875
+--- !u!4 &1042511358
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1117784874}
+  m_GameObject: {fileID: 1042511357}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
---- !u!114 &1117784876
+--- !u!114 &1042511359
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1117784874}
+  m_GameObject: {fileID: 1042511357}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d77403963ccc13b4bb3544092ec7858f, type: 1}
   m_Name: 
-  editorDataGUID: a4d375075ebc84d6b8f745a46a173b40
-  data: {fileID: 11400000, guid: b55d474b07e9e42eea383d4422c34c98, type: 2}
-  renderData: {fileID: 468611442}
-  spriteCollection: {fileID: 11400000, guid: f4749c86f0ad844d5b3c782d052c0143, type: 2}
-  spriteCollectionKey: 200633692
-  width: 64
-  height: 64
+  editorDataGUID: 
+  data: {fileID: 0}
+  renderData: {fileID: 0}
+  spriteCollection: {fileID: 11400000, guid: 822f1f9eedf119f4eaca33509ba7b549, type: 2}
+  spriteCollectionKey: 0
+  width: 128
+  height: 128
   partitionSizeX: 32
   partitionSizeY: 32
-  layers:
-  - hash: 1892887448
-    spriteChannel:
-      chunks:
-      - spriteIds: 
-        gameObject: {fileID: 0}
-        mesh: {fileID: 0}
-        meshCollider: {fileID: 0}
-        colliderMesh: {fileID: 0}
-      - spriteIds: 
-        gameObject: {fileID: 0}
-        mesh: {fileID: 0}
-        meshCollider: {fileID: 0}
-        colliderMesh: {fileID: 0}
-      - spriteIds: 
-        gameObject: {fileID: 0}
-        mesh: {fileID: 0}
-        meshCollider: {fileID: 0}
-        colliderMesh: {fileID: 0}
-      - spriteIds: 
-        gameObject: {fileID: 0}
-        mesh: {fileID: 0}
-        meshCollider: {fileID: 0}
-        colliderMesh: {fileID: 0}
-    width: 64
-    height: 64
-    numColumns: 2
-    numRows: 2
-    divX: 32
-    divY: 32
-    gameObject: {fileID: 839864645}
-  - hash: 1521443663
-    spriteChannel:
-      chunks:
-      - spriteIds: 
-        gameObject: {fileID: 0}
-        mesh: {fileID: 0}
-        meshCollider: {fileID: 0}
-        colliderMesh: {fileID: 0}
-      - spriteIds: 
-        gameObject: {fileID: 0}
-        mesh: {fileID: 0}
-        meshCollider: {fileID: 0}
-        colliderMesh: {fileID: 0}
-      - spriteIds: 
-        gameObject: {fileID: 0}
-        mesh: {fileID: 0}
-        meshCollider: {fileID: 0}
-        colliderMesh: {fileID: 0}
-      - spriteIds: 
-        gameObject: {fileID: 0}
-        mesh: {fileID: 0}
-        meshCollider: {fileID: 0}
-        colliderMesh: {fileID: 0}
-    width: 64
-    height: 64
-    numColumns: 2
-    numRows: 2
-    divX: 32
-    divY: 32
-    gameObject: {fileID: 1862427670}
+  layers: []
   colorChannel:
     clearColor: {r: 1, g: 1, b: 1, a: 1}
     chunks: []
-    numColumns: 2
-    numRows: 2
-    divX: 32
-    divY: 32
-  buildKey: 1016694511
+    numColumns: 0
+    numRows: 0
+    divX: 0
+    divY: 0
+  buildKey: 0
   _inEditMode: 1
   serializeRenderData: 0
   serializedMeshPath: 
---- !u!1 &1862427670
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 3
-  m_Component:
-  - 4: {fileID: 1862427671}
-  m_Layer: 0
-  m_Name: Walls
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1862427671
-Transform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1862427670}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -.100000001}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 468611443}
 --- !u!1 &1867290759
 GameObject:
   m_ObjectHideFlags: 0
