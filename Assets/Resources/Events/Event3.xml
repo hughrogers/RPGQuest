@@ -1,0 +1,77 @@
+<gameevents>
+<gameevent block="True" audioclips="0" steps="20" maincam="True" prefabs="0" waypoints="0" actors="4">
+<actor id="0" showname="true">
+<name id="0"><![CDATA[BLACKSMITH]]></name>
+</actor>
+<actor id="1" showname="true">
+<name id="0"><![CDATA[GENERAL]]></name>
+</actor>
+<actor id="2" showname="true">
+<name id="0"><![CDATA[ELVIS]]></name>
+</actor>
+<actor id="3" player="true"></actor>
+<step show3="True" id="0" number="0" type="SHOW_DIALOGUE" next="1" actor="0">
+<message id="0"><![CDATA[Good choice, maybe one day you’ll become just as great as your father with a blade.]]></message>
+</step>
+<step show3="True" id="1" number="0" type="SHOW_DIALOGUE" next="2" actor="3">
+<message id="0"><![CDATA[I can only hope.]]></message>
+</step>
+<step show3="True" id="2" number="0" type="SHOW_DIALOGUE" next="3" actor="2">
+<message id="0"><![CDATA[See you late-]]></message>
+</step>
+<step show3="False" id="3" number="0" type="SHOW_DIALOGUE" next="4">
+<message id="0"><![CDATA[Sounds of horns blaring
+All three men give each other a look, and blot out of the shop to face whatever has invaded the village.
+]]></message>
+</step>
+<step show3="True" id="4" number="0" type="SHOW_DIALOGUE" next="5" actor="2">
+<message id="0"><![CDATA[That was the war horns, that can only mean bad things. Whatever happens son, follow my lead.]]></message>
+</step>
+<step show3="True" id="5" number="0" type="SHOW_DIALOGUE" next="6" actor="3">
+<message id="0"><![CDATA[Alright]]></message>
+</step>
+<step show3="True" id="6" number="0" type="SHOW_DIALOGUE" next="7" actor="1">
+<message id="0"><![CDATA[All men stand down!]]></message>
+</step>
+<step show3="True" id="7" number="0" type="SHOW_DIALOGUE" next="8" actor="2">
+<message id="0"><![CDATA[As leader of this village, I demand you tell us who you are, why you are here, and who sent you.]]></message>
+</step>
+<step show3="True" id="8" number="0" type="SHOW_DIALOGUE" next="9" actor="1">
+<message id="0"><![CDATA[ Very well then. I am General Ursicinus. I am from the Lues Empire and my commanding leader is Trajan. ]]></message>
+</step>
+<step show3="True" id="9" number="0" type="SHOW_DIALOGUE" next="10" actor="2">
+<message id="0"><![CDATA[You haven't told me why you’re here yet, and i suggest you tell me soon, or I will have my men attack you and your men.]]></message>
+</step>
+<step show3="True" id="10" number="1" type="SHOW_DIALOGUE" next="11" actor="1">
+<message id="0"><![CDATA[Oh no, I understand. I saved the best part for last *sly smile* My orders are to take the leader of every village, to make for a more, how do u say... simple conquest? You have just made my job a lot simpler. Now do we have to take you by force, and are you going to come willingly]]></message>
+</step>
+<step show3="True" id="11" number="0" type="SHOW_DIALOGUE" next="12" actor="3">
+<message id="0"><![CDATA[Hahaha, you think we fear you. You are nothing but a man. What does one man mean to the army of our village.]]></message>
+</step>
+<step show3="True" id="12" number="0" type="SHOW_DIALOGUE" next="13" actor="1">
+<message id="0"><![CDATA[I was hoping you would say that *sly smile* The thing is I don’t need you to fear me. Heh, I don’t even want you to fear me, you should fear them]]></message>
+</step>
+<step show3="False" id="13" number="0" type="SHOW_DIALOGUE" next="14">
+<message id="0"><![CDATA[A Cavalry of 100 men and horses revel themselves from the bushes]]></message>
+</step>
+<step show3="True" id="14" number="0" type="SHOW_DIALOGUE" next="15" actor="3">
+<message id="0"><![CDATA[Bring it on, we can take you.]]></message>
+</step>
+<step show3="True" id="15" number="0" type="SHOW_DIALOGUE" next="16" actor="1">
+<message id="0"><![CDATA[You are but a mere boy, a pain to say the least. You sure are outspoken you must be out of your place. Unless.....
+MEN! grab that young man.]]></message>
+</step>
+<step show3="True" id="16" number="0" type="SHOW_DIALOGUE" next="17" actor="1">
+<message id="0"><![CDATA[Okay now that that’s settled, its you, or your son, pick your poison.]]></message>
+</step>
+<step show3="True" id="17" number="0" type="SHOW_DIALOGUE" next="18" actor="3">
+<message id="0"><![CDATA[Father, let them take me. I can handle them! They ar- oofff]]></message>
+</step>
+<step show3="True" id="18" number="0" type="SHOW_DIALOGUE" next="19" actor="1">
+<message id="0"><![CDATA[While my men beat your son for his intolerance, will you be willing to make a trade?]]></message>
+</step>
+<step show3="True" id="19" number="0" type="SHOW_DIALOGUE" next="20" actor="2">
+<message id="0"><![CDATA[... yes]]></message>
+</step>
+</gameevent>
+</gameevents>
