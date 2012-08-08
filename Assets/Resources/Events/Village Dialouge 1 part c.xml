@@ -1,0 +1,32 @@
+<gameevents>
+<gameevent block="True" audioclips="0" steps="8" maincam="True" prefabs="0" waypoints="0" actors="2">
+<actor id="0" player="true" showname="true"></actor>
+<actor id="1" showname="true">
+<name id="0"><![CDATA[Dad]]></name>
+</actor>
+<step show3="True" id="0" number="0" type="SHOW_DIALOGUE" next="1" actor="0">
+<message id="0"><![CDATA[Dad how was your armor set?]]></message>
+</step>
+<step show3="True" id="1" number="1" type="SHOW_DIALOGUE" next="2" actor="1">
+<message id="0"><![CDATA[Well son, I’m sure you know how i felt. Your feeling the same way as I did. Anxious, Proud, Excited, but most of all, ready. I’ve prepared you for this, and I’m sure you can’t wait for your first few swings of that sword!]]></message>
+</step>
+<step show3="True" id="2" number="0" type="SHOW_DIALOGUE" next="3" actor="0">
+<message id="0"><![CDATA[Yes dad, and I will be more excited to be swinging that sword by your side!]]></message>
+</step>
+<step show3="True" id="3" number="1" type="SHOW_DIALOGUE" next="4" actor="1">
+<message id="0"><![CDATA[Sigh...  I dread that day will be coming sooner rather than later. Common dad, no need to be so glum. Its a good day today. You don’t think the Empires will actually fight on our land do you. cz]]></message>
+</step>
+<step show3="True" id="4" number="0" type="SHOW_DIALOGUE" next="5" actor="0">
+<message id="0"><![CDATA[ Common dad, no need to be so glum. Its a good day today. You don’t think the Empires will actually fight on our land do you?]]></message>
+</step>
+<step show3="True" id="5" number="0" type="SHOW_DIALOGUE" next="6" actor="1">
+<message id="0"><![CDATA[I don’t know son. but considering the lengths these empires have gone to conquer all this land so far, i wouldn’t be surprised.]]></message>
+</step>
+<step show3="True" id="6" number="0" type="SHOW_DIALOGUE" next="7" actor="0">
+<message id="0"><![CDATA[I doubt it. If the day comes when we have to defend our land, we will do some with the ferocity of 1000 suns.]]></message>
+</step>
+<step show3="True" id="7" number="0" type="SHOW_DIALOGUE" next="8" actor="1">
+<message id="0"><![CDATA[Atta’ boy.]]></message>
+</step>
+</gameevent>
+</gameevents>

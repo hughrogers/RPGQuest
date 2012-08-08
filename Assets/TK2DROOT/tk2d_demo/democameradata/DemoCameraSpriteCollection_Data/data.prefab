@@ -44,12 +44,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d546f34a90531a14eaba82a43b05b86b, type: 1}
   m_Name: 
   version: 3
-  materialIdsValid: 0
+  materialIdsValid: 1
   spriteDefinitions:
   - name: heart_empty
     boundsData:
-    - {x: .5, y: 0, z: -.000500000024}
-    - {x: 45, y: 40, z: .00100000005}
+    - {x: .5, y: 0, z: 0}
+    - {x: 45, y: 40, z: 0}
     untrimmedBoundsData:
     - {x: .5, y: 0, z: 0}
     - {x: 45, y: 40, z: 0}
@@ -58,7 +58,7 @@ MonoBehaviour:
     - {x: -22, y: -20, z: 0}
     - {x: 23, y: -20, z: 0}
     - {x: -22, y: 20, z: 0}
-    - {x: 23, y: 20, z: -.00100000005}
+    - {x: 23, y: 20, z: 0}
     normals: []
     tangents: []
     uvs:
@@ -85,8 +85,8 @@ MonoBehaviour:
     colliderSmoothSphereCollisions: 0
   - name: heart_full
     boundsData:
-    - {x: .5, y: 0, z: -.000500000024}
-    - {x: 45, y: 40, z: .00100000005}
+    - {x: .5, y: 0, z: 0}
+    - {x: 45, y: 40, z: 0}
     untrimmedBoundsData:
     - {x: .5, y: 0, z: 0}
     - {x: 45, y: 40, z: 0}
@@ -95,7 +95,7 @@ MonoBehaviour:
     - {x: -22, y: -20, z: 0}
     - {x: 23, y: -20, z: 0}
     - {x: -22, y: 20, z: 0}
-    - {x: 23, y: 20, z: -.00100000005}
+    - {x: 23, y: 20, z: 0}
     normals: []
     tangents: []
     uvs:
@@ -122,8 +122,8 @@ MonoBehaviour:
     colliderSmoothSphereCollisions: 0
   - name: heart_half
     boundsData:
-    - {x: .5, y: 0, z: -.000500000024}
-    - {x: 45, y: 40, z: .00100000005}
+    - {x: .5, y: 0, z: 0}
+    - {x: 45, y: 40, z: 0}
     untrimmedBoundsData:
     - {x: .5, y: 0, z: 0}
     - {x: 45, y: 40, z: 0}
@@ -132,7 +132,7 @@ MonoBehaviour:
     - {x: -22, y: -20, z: 0}
     - {x: 23, y: -20, z: 0}
     - {x: -22, y: 20, z: 0}
-    - {x: 23, y: 20, z: -.00100000005}
+    - {x: 23, y: 20, z: 0}
     normals: []
     tangents: []
     uvs:
@@ -159,8 +159,8 @@ MonoBehaviour:
     colliderSmoothSphereCollisions: 0
   - name: window
     boundsData:
-    - {x: .5, y: 0, z: -.000500000024}
-    - {x: 45, y: 40, z: .00100000005}
+    - {x: .5, y: 0, z: 0}
+    - {x: 45, y: 40, z: 0}
     untrimmedBoundsData:
     - {x: .5, y: 0, z: 0}
     - {x: 45, y: 40, z: 0}
@@ -169,7 +169,7 @@ MonoBehaviour:
     - {x: -22, y: -20, z: 0}
     - {x: 23, y: -20, z: 0}
     - {x: -22, y: 20, z: 0}
-    - {x: 23, y: 20, z: -.00100000005}
+    - {x: 23, y: 20, z: 0}
     normals: []
     tangents: []
     uvs:
@@ -205,7 +205,7 @@ MonoBehaviour:
   spriteCollectionName: DemoCameraSpriteCollection
   invOrthoSize: 2
   halfTargetHeight: .5
-  buildKey: 1266624944
+  buildKey: 9020301
   dataGuid: 4864518b0693631458553f73aaa86021
 --- !u!1002 &11400001
 EditorExtensionImpl:

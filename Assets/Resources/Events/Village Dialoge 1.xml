@@ -4,10 +4,10 @@
 <actor id="1" showname="true">
 <name id="0"><![CDATA[Dad]]></name>
 </actor>
-<step time="1" show3="True" type="SHOW_DIALOGUE" show2="False" number="0" actor="1" id="0" next="1" show="True">
+<step show3="True" id="0" number="0" type="SHOW_DIALOGUE" next="1" actor="1">
 <message id="0"><![CDATA[Come on son, it's your big day!]]></message>
 </step>
-<step time="1" show3="True" type="SHOW_DIALOGUE" show2="False" number="0" actor="0" id="1" next="2" show="True">
+<step show3="True" id="1" number="0" type="SHOW_DIALOGUE" next="2" actor="0">
 <message id="0"><![CDATA[Urghhh wha- oh right! Today is my big day. Today is the day i become a real man.]]></message>
 </step>
 </gameevent>

@@ -1,0 +1,17 @@
+<gameevents>
+<gameevent block="True" audioclips="0" steps="3" maincam="True" prefabs="0" waypoints="0" actors="2">
+<actor id="0" player="true" showname="true"></actor>
+<actor id="1" showname="true">
+<name id="0"><![CDATA[Dad]]></name>
+</actor>
+<step show3="True" id="0" number="0" type="SHOW_DIALOGUE" next="1" actor="0">
+<message id="0"><![CDATA[ So dad, when are going to go out to the Blacksmith.]]></message>
+</step>
+<step show3="True" id="1" number="0" type="SHOW_DIALOGUE" next="2" actor="1">
+<message id="0"><![CDATA[If you're ready son we can get going as soon as your want.]]></message>
+</step>
+<step show3="True" id="2" number="0" type="SHOW_DIALOGUE" next="3" actor="0">
+<message id="0"><![CDATA[Ive been waiting for this moment my whole life, lets get going.]]></message>
+</step>
+</gameevent>
+</gameevents>

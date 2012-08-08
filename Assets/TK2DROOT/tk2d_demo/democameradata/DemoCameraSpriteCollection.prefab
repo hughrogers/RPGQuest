@@ -218,7 +218,8 @@ MonoBehaviour:
     colliderColor: 0
   spriteCollection: {fileID: 11400000, guid: 4864518b0693631458553f73aaa86021, type: 2}
   premultipliedAlpha: 1
-  altMaterials: []
+  altMaterials:
+  - {fileID: 2100000, guid: 45d35519481f70649a530df6dcddd423, type: 2}
   atlasMaterials:
   - {fileID: 2100000, guid: 45d35519481f70649a530df6dcddd423, type: 2}
   atlasTextures:
