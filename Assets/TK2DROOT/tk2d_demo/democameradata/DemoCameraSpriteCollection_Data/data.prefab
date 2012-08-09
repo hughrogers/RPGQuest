@@ -205,7 +205,7 @@ MonoBehaviour:
   spriteCollectionName: DemoCameraSpriteCollection
   invOrthoSize: 2
   halfTargetHeight: .5
-  buildKey: 9020301
+  buildKey: 1293904435
   dataGuid: 4864518b0693631458553f73aaa86021
 --- !u!1002 &11400001
 EditorExtensionImpl:

@@ -1780,7 +1780,7 @@ MonoBehaviour:
   spriteCollectionName: DemoSpriteCollection
   invOrthoSize: 1
   halfTargetHeight: 320
-  buildKey: 2009328192
+  buildKey: 55075929
   dataGuid: b5aec6ebd1a8ffc458a2e46a3236acab
 --- !u!1002 &11400001
 EditorExtensionImpl:

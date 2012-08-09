@@ -1691,7 +1691,7 @@ MonoBehaviour:
   spriteCollectionName: DemoMultiAtlas
   invOrthoSize: 1
   halfTargetHeight: 320
-  buildKey: 735781718
+  buildKey: 893486875
   dataGuid: e40f26e01721f87448061d44beed20dd
 --- !u!1002 &11400001
 EditorExtensionImpl:

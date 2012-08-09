@@ -205,7 +205,7 @@ MonoBehaviour:
   spriteCollectionName: DemoSpiderSpriteCollection
   invOrthoSize: 1
   halfTargetHeight: 320
-  buildKey: 1356670035
+  buildKey: 1111988492
   dataGuid: 822f1f9eedf119f4eaca33509ba7b549
 --- !u!1002 &11400001
 EditorExtensionImpl:

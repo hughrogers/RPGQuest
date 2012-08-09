@@ -266,7 +266,7 @@ MonoBehaviour:
     - Wood-Wall
     - WoodDock
     - Swamp
-    - Forge Crystal
+    - 
     - Dirt-road
     spriteTextureGUIDs:
     - 75efcff6db69f4a628a51da74708156d
@@ -302,6 +302,6 @@ MonoBehaviour:
     - 3ebb8949c95b14255b600296555c51ba
     - ea1bd1d5b95ac4a889e40726f8f2ad3d
     - d1214b1da378342a3981adc30a9a76bf
-    - 23e3aa1c6ddad4515bafd38fdc11c8b6
+    - 
     - 33d9864ec133048ea9fe3e03a7d83ddc
     version: 3
