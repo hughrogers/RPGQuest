@@ -10,8 +10,8 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fb356b9a6a1da084695128b00c8721be, type: 1}
   m_Name: DungeonFloor2TileMapData
-  tileSize: {x: .453125, y: .793749988, z: 0}
-  tileOrigin: {x: -.225000009, y: -.396874994, z: 0}
+  tileSize: {x: 1.59687507, y: 1.59687507, z: 0}
+  tileOrigin: {x: -.796875, y: -.800000012, z: 0}
   tileType: 0
   sortMethod: 0
   tilePrefabs:
@@ -19,12 +19,71 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   tileInfo: []
   tileMapLayers:
-  - name: Layer 0
+  - name: Floor
     hash: 1892887448
     useColor: 1
     generateCollider: 1
     z: 0
+    unityLayer: 0
+    skipMeshGeneration: 0
+  - name: Walls
+    hash: 897059253
+    useColor: 1
+    generateCollider: 1
+    z: .100000001
+    unityLayer: 0
+    skipMeshGeneration: 0
+  - name: Ladders
+    hash: 1619562479
+    useColor: 1
+    generateCollider: 1
+    z: .100000001
+    unityLayer: 0
+    skipMeshGeneration: 0
+  - name: Chest
+    hash: 1942018580
+    useColor: 1
+    generateCollider: 1
+    z: .100000001
     unityLayer: 0
     skipMeshGeneration: 0
