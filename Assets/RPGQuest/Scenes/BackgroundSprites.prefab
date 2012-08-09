@@ -49,7 +49,7 @@ MonoBehaviour:
   - {fileID: 2800000, guid: fbb9b4acc3db74e299c95789fc63dcad, type: 1}
   - {fileID: 2800000, guid: 75f86e87f9ea043f0b05ff9c03d2726d, type: 1}
   - {fileID: 2800000, guid: 8c9330fd6631a48e999cecbc3d745e1d, type: 1}
-  - {fileID: 2800000, guid: 4d5bf2692c78141e585f116a7bb09caa, type: 1}
+  - {fileID: 2800000, guid: 40a30f6f2ac204299b0827336c88d1a8, type: 1}
   - {fileID: 2800000, guid: 25ca051e8eb7e46d68e4718d25fe7cf4, type: 1}
   - {fileID: 2800000, guid: 3492d0eaa77f14c5faba123c993034ff, type: 1}
   - {fileID: 2800000, guid: 29127943e1cd143f5b64833c101fa59f, type: 1}
@@ -467,7 +467,7 @@ MonoBehaviour:
     disableTrimming: 0
     additive: 0
     scale: {x: 1, y: 1, z: 1}
-    texture: {fileID: 2800000, guid: 4d5bf2692c78141e585f116a7bb09caa, type: 1}
+    texture: {fileID: 2800000, guid: 40a30f6f2ac204299b0827336c88d1a8, type: 1}
     materialId: 0
     anchor: 4
     anchorX: 255
