@@ -50,6 +50,13 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   tileInfo:
   - stringVal: 
     intVal: 0
@@ -156,8 +163,29 @@ MonoBehaviour:
   - stringVal: 
     intVal: 0
     floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
   tileMapLayers:
-  - name: Layer 0
+  - name: Floor
     hash: 1892887448
     useColor: 1
     generateCollider: 1
