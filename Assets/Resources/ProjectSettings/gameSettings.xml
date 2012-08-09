@@ -1,5 +1,5 @@
 <gamesettings>
-<gamesetting inputhandling="BUTTON_DOWN" langs="1" cursortimeout="0.25" itemcollectionpos="0" hudrefreshrate="0.5" maxactiveparty="3" gamecontrol="BOTH" guisystemtype="UNITY" dialogueokposition="BOTTOM_RIGHT" guifiltermode="Bilinear" battletexturedelete="NONE" maxrandomrange="100" mipmapbias="0.5" clicktimeout="0.2" scrollspeed="3" minrandomrange="0" menutexturedelete="NONE" guiscalemode="STRETCH_TO_FILL" maxclickdistance="2" guiimagestretch="BILINEAR">
+<gamesetting inputhandling="BUTTON_DOWN" langs="1" cursortimeout="0.25" itemcollectionpos="0" hudrefreshrate="0.5" maxactiveparty="4" gamecontrol="BOTH" guisystemtype="ORK" dialogueokposition="BOTTOM_RIGHT" guifiltermode="Bilinear" battletexturedelete="NONE" maxrandomrange="100" mipmapbias="0.5" clicktimeout="0.2" scrollspeed="3" minrandomrange="0" menutexturedelete="NONE" guiscalemode="STRETCH_TO_FILL" maxclickdistance="2" guiimagestretch="BILINEAR">
 <itemcollectiontext id="0"><![CDATA[You found % %n!]]></itemcollectiontext>
 <itemcollectionyestext id="0"><![CDATA[Take]]></itemcollectionyestext>
 <itemcollectionnotext id="0"><![CDATA[Leave]]></itemcollectionnotext>
@@ -19,7 +19,7 @@
 <timetext id="0"><![CDATA[Time: %]]></timetext>
 <skilllevelname id="0"><![CDATA[%n Lvl %]]></skilllevelname>
 <playercontrolsettings type="NONE"></playercontrolsettings>
-<cameracontrolsettings type="NONE"></cameracontrolsettings>
+<cameracontrolsettings distance="0" rotationdamping="3" heightdamping="2" type="FOLLOW" height="10"></cameracontrolsettings>
 <moneyprefab><![CDATA[]]></moneyprefab>
 <moneycollectiontext id="0"><![CDATA[You found % money!]]></moneycollectiontext>
 <moneycollectionyes id="0"><![CDATA[Take]]></moneycollectionyes>
