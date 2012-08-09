@@ -178,3 +178,10 @@ MonoBehaviour:
     z: 0
     unityLayer: 0
     skipMeshGeneration: 0
+  - name: wall
+    hash: 2094606667
+    useColor: 1
+    generateCollider: 1
+    z: .100000001
+    unityLayer: 0
+    skipMeshGeneration: 0
