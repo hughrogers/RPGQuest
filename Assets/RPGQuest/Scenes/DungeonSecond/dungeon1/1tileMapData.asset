@@ -14,6 +14,17 @@ MonoBehaviour:
   tileOrigin: {x: 0, y: 0, z: 0}
   tileType: 0
   sortMethod: 0
-  tilePrefabs: []
+  tilePrefabs:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   tileInfo: []
-  tileMapLayers: []
+  tileMapLayers:
+  - name: Layer 0
+    hash: 1892887448
+    useColor: 1
+    generateCollider: 1
+    z: 0
+    unityLayer: 0
+    skipMeshGeneration: 0
