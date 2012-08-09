@@ -1,0 +1,54 @@
+<battlesystem>
+<system activecommand="True" maxtimebar="1000" type="TURN" defendformula="0" revivesets="7" enemyspots="3" starttimecalc="0" turncalc="0" enemycounting="NONE" actionborder="1000" menuborder="1000" escapeformula="0" actionpause="True" atbtickinterval="0.05">
+<revive id="0" value="50"></revive>
+<revive id="1" value="50"></revive>
+<partyspot id="0" z="0" y="0" x="0"></partyspot>
+<partyspot id="1" z="0" y="0" x="0"></partyspot>
+<partyspot id="2" z="0" y="0" x="0"></partyspot>
+<enemyspot id="0" z="0" y="0" x="0"></enemyspot>
+<enemyspot id="1" z="0" y="0" x="0"></enemyspot>
+<enemyspot id="2" z="0" y="0" x="0"></enemyspot>
+<partyadvantage></partyadvantage>
+<enemiesadvantage></enemiesadvantage>
+</system>
+<menu showendturn="False" itemposition="0" showdefend="True" skillposition="0" showattack="True" combineitems="True" order="Attack:Skill:Item:Defend:Escape:End" showitems="True" showescape="False" dialogueposition="0" combineskills="True" showskills="True" targetposition="0">
+<attack id="0"><![CDATA[Attack]]></attack>
+<skill id="0"><![CDATA[Skill]]></skill>
+<item id="0"><![CDATA[Item]]></item>
+<defend id="0"><![CDATA[Defend]]></defend>
+<target interpolation="Linear" time="0.5" rs="1" children="False" re="1" targetblink="True" targetmenu="True"></target>
+</menu>
+<text bvshadowcolor="1" bvcolor="3" bdshadowcolor="1" showuserdamage="False" becolor="6" beshadowcolor="0" bscolor="0" bdcolor="4" bsshadowcolor="1">
+<counter id="0"><![CDATA[Counter attack]]></counter>
+<allies id="0"><![CDATA[All allies]]></allies>
+<enemies id="0"><![CDATA[All enemies]]></enemies>
+<battlestart id="0"><![CDATA[Fight!]]></battlestart>
+<battlevictory id="0"><![CDATA[Victory]]></battlevictory>
+<battledefeat id="0"><![CDATA[You are defeated]]></battledefeat>
+<battleescape id="0"><![CDATA[You escaped]]></battleescape>
+<stealitem id="0"><![CDATA[%n stole %]]></stealitem>
+<stealitemfail id="0"><![CDATA[Steal failed]]></stealitemfail>
+<stealmoney id="0"><![CDATA[%n stole %]]></stealmoney>
+<stealmoneyfail id="0"><![CDATA[Steal failed]]></stealmoneyfail>
+<effect></effect>
+<misssettings></misssettings>
+<blocksettings></blocksettings>
+<castcancelsettings></castcancelsettings>
+<levelupsettings></levelupsettings>
+<classlevelupsettings></classlevelupsettings>
+</text>
+<battleend pos="0" levelorder="Levelup:Status:Skill">
+<levelup id="0"><![CDATA[you reached the next level!]]></levelup>
+<classlevelup id="0"><![CDATA[you reached the next class level!]]></classlevelup>
+<status id="0"><![CDATA[%n +%]]></status>
+<skill id="0"><![CDATA[new skill learned!]]></skill>
+<experience id="0"><![CDATA[% %n gained.]]></experience>
+</battleend>
+<battlecam></battlecam>
+<battlecontrol>
+<attack><![CDATA[]]></attack>
+<menu><![CDATA[]]></menu>
+<skillmenu><![CDATA[]]></skillmenu>
+<itemmenu><![CDATA[]]></itemmenu>
+</battlecontrol>
+</battlesystem>
