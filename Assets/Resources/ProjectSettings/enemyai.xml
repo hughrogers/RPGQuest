@@ -1,7 +1,20 @@
 <ais>
-<ai id="0" conditions="2" needed="ALL">
-<name><![CDATA[New AI]]></name>
-<condition statussetter="VALUE" type="STATUS" statuscheck="EQUALS" statusid="0" target="SELF" id="0" statusvalue="0" checkstatusid="0"></condition>
-<condition statussetter="VALUE" type="STATUS" statuscheck="EQUALS" statusid="0" target="SELF" id="1" statusvalue="0" checkstatusid="0"></condition>
+<ai id="0" conditions="3" needed="ALL">
+<name><![CDATA[Warrior Attack AI]]></name>
+<condition statussetter="VALUE" type="STATUS" statuscheck="LESS" statusid="0" target="ENEMY" id="0" statusvalue="100" checkstatusid="0"></condition>
+<condition id="1" effectactive="INACTIVE" target="SELF" type="EFFECT" effectid="1"></condition>
+<condition statussetter="PERCENT" type="STATUS" statuscheck="GREATER" statusid="0" target="SELF" id="2" statusvalue="50" checkstatusid="0"></condition>
+</ai>
+<ai id="1" conditions="2" needed="ONE">
+<name><![CDATA[Warrior Defend AI]]></name>
+<condition statussetter="PERCENT" type="STATUS" statuscheck="LESS" statusid="0" target="SELF" id="0" statusvalue="50" checkstatusid="0"></condition>
+<condition statussetter="PERCENT" type="STATUS" statuscheck="EQUALS" statusid="0" target="SELF" id="1" statusvalue="50" checkstatusid="0"></condition>
+</ai>
+<ai id="2" conditions="4" needed="ONE">
+<name><![CDATA[Wizard Heal AI]]></name>
+<condition statussetter="PERCENT" type="STATUS" statuscheck="LESS" statusid="0" target="ALLY" id="0" statusvalue="50" checkstatusid="0"></condition>
+<condition statussetter="PERCENT" type="STATUS" statuscheck="EQUALS" statusid="0" target="ALLY" id="1" statusvalue="50" checkstatusid="0"></condition>
+<condition statussetter="PERCENT" type="STATUS" statuscheck="LESS" statusid="0" target="SELF" id="2" statusvalue="50" checkstatusid="0"></condition>
+<condition statussetter="PERCENT" type="STATUS" statuscheck="EQUALS" statusid="0" target="SELF" id="3" statusvalue="50" checkstatusid="0"></condition>
 </ai>
 </ais>

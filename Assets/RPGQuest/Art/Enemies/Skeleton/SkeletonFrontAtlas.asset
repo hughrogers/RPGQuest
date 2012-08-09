@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: f639d4a6705364f78858dcac9f79c987, type: 1}
+  m_Name: SkeletonFrontAtlas
+  material: {fileID: 2100000, guid: 4abb2af5b0c564e149dc06be78513055, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: 0
+    y: .541015625
+    width: .193359375
+    height: .331054688
+  - serializedVersion: 2
+    x: 0
+    y: .239257812
+    width: .28515625
+    height: .30078125
+  - serializedVersion: 2
+    x: .638671875
+    y: 0
+    width: .322265625
+    height: .127929688
+  - serializedVersion: 2
+    x: .3828125
+    y: 0
+    width: .25390625
+    height: .181640625
+  - serializedVersion: 2
+    x: .1953125
+    y: .541015625
+    width: .1796875
+    height: .345703125
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: .380859375
+    height: .23828125
+  - serializedVersion: 2
+    x: .287109375
+    y: .239257812
+    width: .26953125
+    height: .28125
+  textureGUIDs:
+  - c3a3feffa20a942489c317ebd4f6e190
+  - 44ccc9197c4514b849d9f01bcff6802e
+  - 5dab0069a26634f71a988462f694a335
+  - 33e9fc0b8da604199ae8e19d4df64899
+  - 096dbce3755c542638ae1739d796c8c2
+  - 4cfc31405b1904d979d54a43f808947a
+  - cc74af351a5cc4a7f91b9b3bc0b6804e
+  textureSizes:
+  - {x: 99, y: 339}
+  - {x: 146, y: 308}
+  - {x: 165, y: 131}
+  - {x: 130, y: 186}
+  - {x: 92, y: 354}
+  - {x: 195, y: 244}
+  - {x: 138, y: 288}
+  defaultPivotOffsets:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  textureNames:
+  - SkeletonFront-Lleg
+  - SkeletonFront_LArm
+  - SkeletonFront-Pelvis
+  - SkeletonFront-Head
+  - SkeletonFront-Rleg
+  - SkeletonFront-Body
+  - SkeletonFront-RArm
+  lastBuildID: 20120809110347564
+  needsRebuilt: 0
+  atlasGUID: 
+  dataVersion: 3

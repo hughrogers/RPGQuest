@@ -1,5 +1,5 @@
 <enemies>
-<enemy attacks="1" classlevel="1" baseelement="0" drops="0" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="0" races="4" basecounter="0" money="0" values="7">
+<enemy attacks="1" classlevel="1" baseelement="0" drops="0" ais="2" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="0" races="4" basecounter="0" money="0" values="7">
 <animations></animations>
 <name lang="0"><![CDATA[Skeleton Lvl1]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -10,13 +10,19 @@
 <statusvalue id="4" value="5"></statusvalue>
 <statusvalue id="5" value="5"></statusvalue>
 <statusvalue id="6" value="10"></statusvalue>
+<aibehaviour id="0" actions="1" battleai="0" difficulty="0">
+<action id="0" useid="0" attackselection="ATTACK" lvl="1" difficulty="0"></action>
+</aibehaviour>
+<aibehaviour id="1" actions="1" battleai="1" difficulty="0">
+<action id="0" useid="0" attackselection="DEFEND" lvl="1" difficulty="0"></action>
+</aibehaviour>
 <attack id="0" id2="0"></attack>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <variables variables="0" numbervariables="0"></variables>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <customanimations animations="0"></customanimations>
 </enemy>
-<enemy attacks="1" classlevel="1" baseelement="0" drops="0" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="1" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="1" races="4" basecounter="0" money="0" values="7">
+<enemy attacks="1" classlevel="1" baseelement="0" drops="0" ais="2" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="1" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="1" races="4" basecounter="0" money="0" values="7">
 <animations></animations>
 <name lang="0"><![CDATA[Skeleton Wizard Lvl1]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -27,13 +33,19 @@
 <statusvalue id="4" value="5"></statusvalue>
 <statusvalue id="5" value="5"></statusvalue>
 <statusvalue id="6" value="10"></statusvalue>
+<aibehaviour id="0" actions="1" battleai="2" difficulty="0">
+<action id="0" useid="0" attackselection="SKILL" lvl="1" difficulty="0"></action>
+</aibehaviour>
+<aibehaviour id="1" actions="1" battleai="0" difficulty="0">
+<action id="0" useid="0" attackselection="ATTACK" lvl="1" difficulty="0"></action>
+</aibehaviour>
 <attack id="0" id2="0"></attack>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <variables variables="0" numbervariables="0"></variables>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <customanimations animations="0"></customanimations>
 </enemy>
-<enemy movespeed="1" attacks="1" classlevel="5" baseelement="0" drops="0" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="5" id="2" races="4" basecounter="0" money="0" values="7">
+<enemy movespeed="1" attacks="1" classlevel="5" baseelement="0" drops="0" ais="2" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="5" id="2" races="4" basecounter="0" money="0" values="7">
 <animations></animations>
 <name lang="0"><![CDATA[Bonecrusher, The Skeletal Behemoth ]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -44,13 +56,19 @@
 <statusvalue id="4" value="4"></statusvalue>
 <statusvalue id="5" value="4"></statusvalue>
 <statusvalue id="6" value="120"></statusvalue>
+<aibehaviour id="0" actions="1" battleai="0" difficulty="0">
+<action id="0" useid="0" attackselection="ATTACK" lvl="1" difficulty="0"></action>
+</aibehaviour>
+<aibehaviour id="1" actions="1" battleai="1" difficulty="0">
+<action id="0" useid="0" attackselection="DEFEND" lvl="1" difficulty="0"></action>
+</aibehaviour>
 <attack id="0" id2="0"></attack>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <variables variables="0" numbervariables="0"></variables>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <customanimations animations="0"></customanimations>
 </enemy>
-<enemy attacks="1" classlevel="1" baseelement="0" drops="0" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="2" id="3" races="2" basecounter="0" money="0" values="7">
+<enemy attacks="1" classlevel="1" baseelement="0" drops="0" ais="2" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="2" id="3" races="2" basecounter="0" money="0" values="7">
 <animations></animations>
 <name lang="0"><![CDATA[Skeleton Fighter Lvl2]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -61,13 +79,19 @@
 <statusvalue id="4" value="6"></statusvalue>
 <statusvalue id="5" value="5"></statusvalue>
 <statusvalue id="6" value="0"></statusvalue>
+<aibehaviour id="0" actions="1" battleai="0" difficulty="0">
+<action id="0" useid="0" attackselection="ATTACK" lvl="1" difficulty="0"></action>
+</aibehaviour>
+<aibehaviour id="1" actions="1" battleai="1" difficulty="0">
+<action id="0" useid="0" attackselection="DEFEND" lvl="1" difficulty="0"></action>
+</aibehaviour>
 <attack id="0" id2="0"></attack>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <variables variables="0" numbervariables="0"></variables>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <customanimations animations="0"></customanimations>
 </enemy>
-<enemy attacks="1" classlevel="1" baseelement="0" drops="0" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="4" races="2" basecounter="0" money="0" values="7">
+<enemy attacks="1" classlevel="1" baseelement="0" drops="0" ais="2" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="4" races="2" basecounter="0" money="0" values="7">
 <animations></animations>
 <name lang="0"><![CDATA[Skeleton Wizard lvl2]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -78,13 +102,19 @@
 <statusvalue id="4" value="6"></statusvalue>
 <statusvalue id="5" value="5"></statusvalue>
 <statusvalue id="6" value="0"></statusvalue>
+<aibehaviour id="0" actions="1" battleai="2" difficulty="0">
+<action id="0" useid="0" attackselection="SKILL" lvl="1" difficulty="0"></action>
+</aibehaviour>
+<aibehaviour id="1" actions="1" battleai="0" difficulty="0">
+<action id="0" useid="0" attackselection="ATTACK" lvl="1" difficulty="0"></action>
+</aibehaviour>
 <attack id="0" id2="0"></attack>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <variables variables="0" numbervariables="0"></variables>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <customanimations animations="0"></customanimations>
 </enemy>
-<enemy attacks="1" classlevel="1" baseelement="0" drops="0" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="5" races="2" basecounter="0" money="0" values="7">
+<enemy attacks="1" classlevel="1" baseelement="0" drops="0" ais="2" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="5" races="2" basecounter="0" money="0" values="7">
 <animations></animations>
 <name lang="0"><![CDATA[Skeleton Fighter Lvl3]]></name>
 <description lang="0"><![CDATA[New Description]]></description>
@@ -95,13 +125,19 @@
 <statusvalue id="4" value="7"></statusvalue>
 <statusvalue id="5" value="5"></statusvalue>
 <statusvalue id="6" value="0"></statusvalue>
+<aibehaviour id="0" actions="1" battleai="0" difficulty="0">
+<action id="0" useid="0" attackselection="ATTACK" lvl="1" difficulty="0"></action>
+</aibehaviour>
+<aibehaviour id="1" actions="1" battleai="1" difficulty="0">
+<action id="0" useid="0" attackselection="DEFEND" lvl="1" difficulty="0"></action>
+</aibehaviour>
 <attack id="0" id2="0"></attack>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <variables variables="0" numbervariables="0"></variables>
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <customanimations animations="0"></customanimations>
 </enemy>
-<enemy attacks="1" classlevel="1" baseelement="0" drops="0" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="6" races="2" basecounter="0" money="0" values="7">
+<enemy attacks="1" classlevel="1" baseelement="0" drops="0" ais="2" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="6" races="2" basecounter="0" money="0" values="7">
 <animations></animations>
 <name lang="0"><![CDATA[Skeleton Wizard Lvl3]]></name>
 <description lang="0"><![CDATA[New Description]]></description>
@@ -112,6 +148,12 @@
 <statusvalue id="4" value="5"></statusvalue>
 <statusvalue id="5" value="7"></statusvalue>
 <statusvalue id="6" value="0"></statusvalue>
+<aibehaviour id="0" actions="1" battleai="2" difficulty="0">
+<action id="0" useid="0" attackselection="SKILL" lvl="1" difficulty="0"></action>
+</aibehaviour>
+<aibehaviour id="1" actions="1" battleai="0" difficulty="0">
+<action id="0" useid="0" attackselection="ATTACK" lvl="1" difficulty="0"></action>
+</aibehaviour>
 <attack id="0" id2="0"></attack>
 <fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
 <variables variables="0" numbervariables="0"></variables>
