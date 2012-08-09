@@ -90,7 +90,7 @@ MonoBehaviour:
   atlasWidth: 4096
   atlasHeight: 4096
   forceSquareAtlas: 0
-  atlasWastage: 46.6671829
+  atlasWastage: 47.8859787
   allowMultipleAtlases: 0
   textureParams:
   - name: furnacePlaceholder
@@ -137,8 +137,8 @@ MonoBehaviour:
     texture: {fileID: 2800000, guid: ef5e6337424314e988feb4439874b58c, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 255
-    anchorY: 255
+    anchorX: 143
+    anchorY: 100
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -656,7 +656,7 @@ MonoBehaviour:
     materialId: 0
     anchor: 4
     anchorX: 255
-    anchorY: 255
+    anchorY: 256
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
