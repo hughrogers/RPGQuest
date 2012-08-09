@@ -200,10 +200,10 @@
 <description lang="0"><![CDATA[New Description]]></description>
 <statusvalue id="0" value="0"></statusvalue>
 <statusvalue id="1" value="0"></statusvalue>
-<statusvalue id="2" value="1"></statusvalue>
-<statusvalue id="3" value="1"></statusvalue>
-<statusvalue id="4" value="1"></statusvalue>
-<statusvalue id="5" value="1"></statusvalue>
+<statusvalue id="2" value="12"></statusvalue>
+<statusvalue id="3" value="5"></statusvalue>
+<statusvalue id="4" value="9"></statusvalue>
+<statusvalue id="5" value="5"></statusvalue>
 <statusvalue id="6" value="0"></statusvalue>
 <aibehaviour id="0" actions="1" battleai="0" difficulty="0">
 <action id="0" useid="0" attackselection="ATTACK" lvl="1" difficulty="0"></action>
@@ -223,10 +223,10 @@
 <description lang="0"><![CDATA[New Description]]></description>
 <statusvalue id="0" value="0"></statusvalue>
 <statusvalue id="1" value="0"></statusvalue>
-<statusvalue id="2" value="1"></statusvalue>
-<statusvalue id="3" value="1"></statusvalue>
-<statusvalue id="4" value="1"></statusvalue>
-<statusvalue id="5" value="1"></statusvalue>
+<statusvalue id="2" value="5"></statusvalue>
+<statusvalue id="3" value="12"></statusvalue>
+<statusvalue id="4" value="5"></statusvalue>
+<statusvalue id="5" value="9"></statusvalue>
 <statusvalue id="6" value="0"></statusvalue>
 <aibehaviour id="0" actions="1" battleai="0" difficulty="0">
 <action id="0" useid="0" attackselection="ATTACK" lvl="1" difficulty="0"></action>
