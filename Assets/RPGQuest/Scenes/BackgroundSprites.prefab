@@ -97,7 +97,7 @@ MonoBehaviour:
   atlasWidth: 4096
   atlasHeight: 4096
   forceSquareAtlas: 0
-  atlasWastage: 46.6671829
+  atlasWastage: 34.1184006
   allowMultipleAtlases: 0
   textureParams:
   - name: furnacePlaceholder
@@ -1325,11 +1325,11 @@ MonoBehaviour:
     disableTrimming: 0
     additive: 0
     scale: {x: 1, y: 1, z: 1}
-    texture: {fileID: 0}
+    texture: {fileID: 2800000, guid: f24bce7b428b5437594320e89a59d6cf, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 1
-    anchorY: 1
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -1399,11 +1399,11 @@ MonoBehaviour:
     disableTrimming: 0
     additive: 0
     scale: {x: 1, y: 1, z: 1}
-    texture: {fileID: 0}
+    texture: {fileID: 2800000, guid: 43852097abd3248d89dec37237ef7289, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 0
-    anchorY: 0
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -1436,11 +1436,11 @@ MonoBehaviour:
     disableTrimming: 0
     additive: 0
     scale: {x: 1, y: 1, z: 1}
-    texture: {fileID: 0}
+    texture: {fileID: 2800000, guid: b73dbbfc75a904a168a4f88f6b34374f, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 0
-    anchorY: 0
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -1473,11 +1473,11 @@ MonoBehaviour:
     disableTrimming: 0
     additive: 0
     scale: {x: 1, y: 1, z: 1}
-    texture: {fileID: 0}
+    texture: {fileID: 2800000, guid: a2a41ded9485a4c50adc5dcea031f68b, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 0
-    anchorY: 0
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -1510,11 +1510,11 @@ MonoBehaviour:
     disableTrimming: 0
     additive: 0
     scale: {x: 1, y: 1, z: 1}
-    texture: {fileID: 0}
+    texture: {fileID: 2800000, guid: 40a30f6f2ac204299b0827336c88d1a8, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 0
-    anchorY: 0
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -1547,11 +1547,11 @@ MonoBehaviour:
     disableTrimming: 0
     additive: 0
     scale: {x: 1, y: 1, z: 1}
-    texture: {fileID: 0}
+    texture: {fileID: 2800000, guid: a7277a4907fbc42c59cff35277809280, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 0
-    anchorY: 0
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -1584,11 +1584,11 @@ MonoBehaviour:
     disableTrimming: 0
     additive: 0
     scale: {x: 1, y: 1, z: 1}
-    texture: {fileID: 0}
+    texture: {fileID: 2800000, guid: 2791904c7f629418ca79a704f310ddba, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 0
-    anchorY: 0
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []
@@ -1621,11 +1621,11 @@ MonoBehaviour:
     disableTrimming: 0
     additive: 0
     scale: {x: 1, y: 1, z: 1}
-    texture: {fileID: 0}
+    texture: {fileID: 2800000, guid: e087a626d4892460e854ffb753fc40d7, type: 1}
     materialId: 0
     anchor: 4
-    anchorX: 0
-    anchorY: 0
+    anchorX: 255
+    anchorY: 255
     overrideMesh: {fileID: 0}
     customSpriteGeometry: 0
     geometryIslands: []

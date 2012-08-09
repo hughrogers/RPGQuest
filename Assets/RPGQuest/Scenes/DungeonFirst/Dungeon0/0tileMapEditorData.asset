@@ -30,7 +30,7 @@ MonoBehaviour:
     edgeMode: 0
     multiLayer: 0
     overrideWithSpriteBounds: 0
-    brushHash: 1633161088
+    brushHash: 2136545408
   activeBrush:
     name: 
     type: 0
@@ -39,13 +39,13 @@ MonoBehaviour:
     - x: 0
       y: 0
       layer: 0
-      spriteId: 2
+      spriteId: 39
       blendAmount: 0
-    multiSelectTiles: 02000000
+    multiSelectTiles: 27000000
     edgeMode: 0
     multiLayer: 0
     overrideWithSpriteBounds: 0
-    brushHash: 1519427072
+    brushHash: -1819637440
   brushes: []
   paletteBrush:
     name: 
@@ -53,186 +53,222 @@ MonoBehaviour:
     paintMode: 0
     tiles:
     - x: 0
-      y: 4
+      y: 5
       layer: 0
       spriteId: 0
       blendAmount: 0
     - x: 1
-      y: 4
+      y: 5
       layer: 0
       spriteId: 1
       blendAmount: 0
     - x: 2
-      y: 4
+      y: 5
       layer: 0
       spriteId: 2
       blendAmount: 0
     - x: 3
-      y: 4
+      y: 5
       layer: 0
       spriteId: 3
       blendAmount: 0
     - x: 4
-      y: 4
+      y: 5
       layer: 0
       spriteId: 4
       blendAmount: 0
     - x: 5
-      y: 4
+      y: 5
       layer: 0
       spriteId: 5
       blendAmount: 0
     - x: 6
-      y: 4
+      y: 5
       layer: 0
       spriteId: 6
       blendAmount: 0
     - x: 7
-      y: 4
+      y: 5
       layer: 0
       spriteId: 7
       blendAmount: 0
     - x: 0
-      y: 3
+      y: 4
       layer: 0
       spriteId: 8
       blendAmount: 0
     - x: 1
-      y: 3
+      y: 4
       layer: 0
       spriteId: 9
       blendAmount: 0
     - x: 2
-      y: 3
+      y: 4
       layer: 0
       spriteId: 10
       blendAmount: 0
     - x: 3
-      y: 3
+      y: 4
       layer: 0
       spriteId: 11
       blendAmount: 0
     - x: 4
-      y: 3
+      y: 4
       layer: 0
       spriteId: 12
       blendAmount: 0
     - x: 5
-      y: 3
+      y: 4
       layer: 0
       spriteId: 13
       blendAmount: 0
     - x: 6
-      y: 3
+      y: 4
       layer: 0
       spriteId: 14
       blendAmount: 0
     - x: 7
-      y: 3
+      y: 4
       layer: 0
       spriteId: 15
       blendAmount: 0
     - x: 0
-      y: 2
+      y: 3
       layer: 0
       spriteId: 16
       blendAmount: 0
     - x: 1
-      y: 2
+      y: 3
       layer: 0
       spriteId: 17
       blendAmount: 0
     - x: 2
-      y: 2
+      y: 3
       layer: 0
       spriteId: 18
       blendAmount: 0
     - x: 3
-      y: 2
+      y: 3
       layer: 0
       spriteId: 19
       blendAmount: 0
     - x: 4
-      y: 2
+      y: 3
       layer: 0
       spriteId: 20
       blendAmount: 0
     - x: 5
-      y: 2
+      y: 3
       layer: 0
       spriteId: 21
       blendAmount: 0
     - x: 6
-      y: 2
+      y: 3
       layer: 0
       spriteId: 22
       blendAmount: 0
     - x: 7
-      y: 2
+      y: 3
       layer: 0
       spriteId: 23
       blendAmount: 0
     - x: 0
-      y: 1
+      y: 2
       layer: 0
       spriteId: 24
       blendAmount: 0
     - x: 1
-      y: 1
+      y: 2
       layer: 0
       spriteId: 25
       blendAmount: 0
     - x: 2
-      y: 1
+      y: 2
       layer: 0
       spriteId: 26
       blendAmount: 0
     - x: 3
-      y: 1
+      y: 2
       layer: 0
       spriteId: 27
       blendAmount: 0
     - x: 4
-      y: 1
+      y: 2
       layer: 0
       spriteId: 28
       blendAmount: 0
     - x: 5
-      y: 1
+      y: 2
       layer: 0
       spriteId: 29
       blendAmount: 0
     - x: 6
-      y: 1
+      y: 2
       layer: 0
       spriteId: 30
       blendAmount: 0
     - x: 7
-      y: 1
+      y: 2
       layer: 0
       spriteId: 31
       blendAmount: 0
     - x: 0
-      y: 0
+      y: 1
       layer: 0
       spriteId: 32
       blendAmount: 0
+    - x: 1
+      y: 1
+      layer: 0
+      spriteId: 33
+      blendAmount: 0
     - x: 2
-      y: 0
+      y: 1
       layer: 0
       spriteId: 34
+      blendAmount: 0
+    - x: 3
+      y: 1
+      layer: 0
+      spriteId: 35
+      blendAmount: 0
+    - x: 4
+      y: 1
+      layer: 0
+      spriteId: 36
+      blendAmount: 0
+    - x: 5
+      y: 1
+      layer: 0
+      spriteId: 37
+      blendAmount: 0
+    - x: 6
+      y: 1
+      layer: 0
+      spriteId: 38
+      blendAmount: 0
+    - x: 7
+      y: 1
+      layer: 0
+      spriteId: 39
+      blendAmount: 0
+    - x: 0
+      y: 0
+      layer: 0
+      spriteId: 40
+      blendAmount: 0
+    - x: 1
+      y: 0
+      layer: 0
+      spriteId: 41
       blendAmount: 0
     multiSelectTiles: 
     edgeMode: 0
     multiLayer: 0
     overrideWithSpriteBounds: 1
-<<<<<<< HEAD
-    brushHash: -1620790848
-=======
-    brushHash: -1378177344
->>>>>>> c31823a5ca7dee67280739564015f37ed17bf7dc
+    brushHash: -1445974464
   paletteTilesPerRow: 8
-  setupMode: 32
+  setupMode: 0
   showBrush: 1
   showPalette: 1
   layer: 1

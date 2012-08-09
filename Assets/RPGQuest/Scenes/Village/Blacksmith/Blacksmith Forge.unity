@@ -74,6 +74,167 @@ NavMeshSettings:
     widthInaccuracy: 16.666666
     heightInaccuracy: 10
   m_NavMesh: {fileID: 0}
+--- !u!1 &369426265
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 369426266}
+  - 33: {fileID: 369426268}
+  - 23: {fileID: 369426267}
+  - 64: {fileID: 369426269}
+  m_Layer: 0
+  m_Name: Chunk 0 0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &369426266
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 369426265}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1614737145}
+--- !u!23 &369426267
+Renderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 369426265}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_LightmapIndex: 255
+  m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
+  m_Materials:
+  - {fileID: 2100000, guid: 6024a652156544227a098ffb2f6ec7d0, type: 2}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_LightProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+--- !u!33 &369426268
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 369426265}
+  m_Mesh: {fileID: 1651799620}
+--- !u!64 &369426269
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 369426265}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_SmoothSphereCollisions: 0
+  m_Convex: 0
+  m_Mesh: {fileID: 0}
+--- !u!1 &557413101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 557413102}
+  m_Layer: 0
+  m_Name: Layer 0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &557413102
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 557413101}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 901597788}
+  m_Father: {fileID: 2114525956}
+--- !u!1 &901597787
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 901597788}
+  - 33: {fileID: 901597790}
+  - 23: {fileID: 901597789}
+  - 64: {fileID: 901597791}
+  m_Layer: 0
+  m_Name: Chunk 0 0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &901597788
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 901597787}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 557413102}
+--- !u!23 &901597789
+Renderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 901597787}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_LightmapIndex: 255
+  m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
+  m_Materials:
+  - {fileID: 2100000, guid: 6024a652156544227a098ffb2f6ec7d0, type: 2}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_LightProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+--- !u!33 &901597790
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 901597787}
+  m_Mesh: {fileID: 1530244926}
+--- !u!64 &901597791
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 901597787}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_SmoothSphereCollisions: 0
+  m_Convex: 0
+  m_Mesh: {fileID: 0}
 --- !u!1 &935547347
 GameObject:
   m_ObjectHideFlags: 0
@@ -141,6 +302,333 @@ MeshCollider:
   m_SmoothSphereCollisions: 0
   m_Convex: 0
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1338432940
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 1338432941}
+  - 114: {fileID: 1338432942}
+  m_Layer: 0
+  m_Name: TileMap
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1338432941
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1338432940}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &1338432942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1338432940}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d77403963ccc13b4bb3544092ec7858f, type: 1}
+  m_Name: 
+  editorDataGUID: 09d5b1d2dbdadda4c8b386106506c99d
+  data: {fileID: 11400000, guid: 918b9027a25d4e043aa9a828b6ea70ad, type: 2}
+  renderData: {fileID: 2114525955}
+  spriteCollection: {fileID: 11400000, guid: f4749c86f0ad844d5b3c782d052c0143, type: 2}
+  spriteCollectionKey: 1395659855
+  width: 16
+  height: 16
+  partitionSizeX: 32
+  partitionSizeY: 32
+  layers:
+  - hash: 1892887448
+    spriteChannel:
+      chunks:
+      - spriteIds: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff2700000027000000270000002700000027000000270000002700000027000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff2700000027000000270000002700000027000000270000002700000027000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff270000000c0000002700000027000000270000000c0000002700000027000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff270000002700000027000000ffffffff27000000270000002700000027000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff2700000027000000270000002700000027000000270000002700000027000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff2700000027000000270000002700000027000000270000002700000027000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        gameObject: {fileID: 901597787}
+        mesh: {fileID: 1530244926}
+        meshCollider: {fileID: 901597791}
+        colliderMesh: {fileID: 0}
+    width: 16
+    height: 16
+    numColumns: 1
+    numRows: 1
+    divX: 32
+    divY: 32
+    gameObject: {fileID: 557413101}
+  - hash: 1760559356
+    spriteChannel:
+      chunks:
+      - spriteIds: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1e0000001e0000001e0000001e0000001e000000280000001e0000001e0000001e0000001e000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1e000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1e000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1e00000027000000ffffffffffffffffffffffff0c000000ffffffffffffffffffffffff1e000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1e000000ffffffff27000000ffffffffffffffffffffffff27000000ffffffffffffffff1e000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1e000000ffffffffffffffff2700000027000000ffffffffffffffffffffffffffffffff1e000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1e000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1e000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1e000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1e000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1e000000120000001e0000001e000000120000001e0000001e000000120000001e0000001e000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        gameObject: {fileID: 369426265}
+        mesh: {fileID: 1651799620}
+        meshCollider: {fileID: 369426269}
+        colliderMesh: {fileID: 0}
+    width: 16
+    height: 16
+    numColumns: 1
+    numRows: 1
+    divX: 32
+    divY: 32
+    gameObject: {fileID: 1614737144}
+  colorChannel:
+    clearColor: {r: 1, g: 1, b: 1, a: 1}
+    chunks: []
+    numColumns: 1
+    numRows: 1
+    divX: 32
+    divY: 32
+  buildKey: 1762160897
+  _inEditMode: 1
+  serializeRenderData: 0
+  serializedMeshPath: 
+--- !u!43 &1530244926
+Mesh:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  serializedVersion: 6
+  m_SubMeshes:
+  - firstByte: 0
+    indexCount: 282
+    isTriStrip: 0
+    triangleCount: 94
+    firstVertex: 0
+    vertexCount: 188
+    localAABB:
+      m_Center: {x: 11.9781256, y: 13.5718756, z: 0}
+      m_Extent: {x: 6.38749981, y: 4.79062557, z: 0}
+  m_MeshCompression: 0
+  m_IndexBuffer: 00000300010002000300000004000700050006000700040008000b0009000a000b0008000c000f000d000e000f000c0010001300110012001300100014001700150016001700140018001b0019001a001b0018001c001f001d001e001f001c0020002300210022002300200024002700250026002700240028002b0029002a002b0028002c002f002d002e002f002c0030003300310032003300300034003700350036003700340038003b0039003a003b0038003c003f003d003e003f003c0040004300410042004300400044004700450046004700440048004b0049004a004b0048004c004f004d004e004f004c0050005300510052005300500054005700550056005700540058005b0059005a005b0058005c005f005d005e005f005c0060006300610062006300600064006700650066006700640068006b0069006a006b0068006c006f006d006e006f006c0070007300710072007300700074007700750076007700740078007b0079007a007b0078007c007f007d007e007f007c0080008300810082008300800084008700850086008700840088008b0089008a008b0088008c008f008d008e008f008c0090009300910092009300900094009700950096009700940098009b0099009a009b0098009c009f009d009e009f009c00a000a300a100a200a300a000a400a700a500a600a700a400a800ab00a900aa00ab00a800ac00af00ad00ae00af00ac00b000b300b100b200b300b000b400b700b500b600b700b400b800bb00b900ba00bb00b800
+  m_Skin: []
+  m_BindPose: []
+  m_VertexData:
+    m_CurrentChannels: 13
+    m_VertexCount: 188
+    m_Streams[0]:
+      channelMask: 13
+      offset: 0
+      stride: 24
+      align: 16
+    m_Streams[1]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_Streams[2]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_Streams[3]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_DataSize: 4512
+    _typelessdata: 67e6b24000800c4100000000ffffffff0470403f0880c03e0100e64000800c4100000000fffffffffc5f603f0880c03e67e6b240cd0c264100000000ffffffff0470403ffc2f003f0100e640cd0c264100000000fffffffffc5f603ffc2f003f0100e64000800c4100000000ffffffff0470403f0880c03ecd8c0c4100800c4100000000fffffffffc5f603f0880c03e0100e640cd0c264100000000ffffffff0470403ffc2f003fcd8c0c41cd0c264100000000fffffffffc5f603ffc2f003fcd8c0c4100800c4100000000ffffffff0470403f0880c03e9a19264100800c4100000000fffffffffc5f603f0880c03ecd8c0c41cd0c264100000000ffffffff0470403ffc2f003f9a192641cd0c264100000000fffffffffc5f603ffc2f003f9a19264100800c4100000000ffffffff0470403f0880c03e67a63f4100800c4100000000fffffffffc5f603f0880c03e9a192641cd0c264100000000ffffffff0470403ffc2f003f67a63f41cd0c264100000000fffffffffc5f603ffc2f003f67a63f4100800c4100000000ffffffff0470403f0880c03e3433594100800c4100000000fffffffffc5f603f0880c03e67a63f41cd0c264100000000ffffffff0470403ffc2f003f34335941cd0c264100000000fffffffffc5f603ffc2f003f3433594100800c4100000000ffffffff0470403f0880c03e01c0724100800c4100000000fffffffffc5f603f0880c03e34335941cd0c264100000000ffffffff0470403ffc2f003f01c07241cd0c264100000000fffffffffc5f603ffc2f003f01c0724100800c4100000000ffffffff0470403f0880c03e6726864100800c4100000000fffffffffc5f603f0880c03e01c07241cd0c264100000000ffffffff0470403ffc2f003f67268641cd0c264100000000fffffffffc5f603ffc2f003f6726864100800c4100000000ffffffff0470403f0880c03ecdec924100800c4100000000fffffffffc5f603f0880c03e67268641cd0c264100000000ffffffff0470403ffc2f003fcdec9241cd0c264100000000fffffffffc5f603ffc2f003f67e6b240cd0c264100000000ffffffff0470403f0880c03e0100e640cd0c264100000000fffffffffc5f603f0880c03e67e6b2409a993f4100000000ffffffff0470403ffc2f003f0100e6409a993f4100000000fffffffffc5f603ffc2f003f0100e640cd0c264100000000ffffffff0470403f0880c03ecd8c0c41cd0c264100000000fffffffffc5f603f0880c03e0100e6409a993f4100000000ffffffff0470403ffc2f003fcd8c0c419a993f4100000000fffffffffc5f603ffc2f003fcd8c0c41cd0c264100000000ffffffff0470403f0880c03e9a192641cd0c264100000000fffffffffc5f603f0880c03ecd8c0c419a993f4100000000ffffffff0470403ffc2f003f9a1926419a993f4100000000fffffffffc5f603ffc2f003f9a192641cd0c264100000000ffffffff0470403f0880c03e67a63f41cd0c264100000000fffffffffc5f603f0880c03e9a1926419a993f4100000000ffffffff0470403ffc2f003f67a63f419a993f4100000000fffffffffc5f603ffc2f003f67a63f41cd0c264100000000ffffffff0470403f0880c03e34335941cd0c264100000000fffffffffc5f603f0880c03e67a63f419a993f4100000000ffffffff0470403ffc2f003f343359419a993f4100000000fffffffffc5f603ffc2f003f34335941cd0c264100000000ffffffff0470403f0880c03e01c07241cd0c264100000000fffffffffc5f603f0880c03e343359419a993f4100000000ffffffff0470403ffc2f003f01c072419a993f4100000000fffffffffc5f603ffc2f003f01c07241cd0c264100000000ffffffff0470403f0880c03e67268641cd0c264100000000fffffffffc5f603f0880c03e01c072419a993f4100000000ffffffff0470403ffc2f003f672686419a993f4100000000fffffffffc5f603ffc2f003f67268641cd0c264100000000ffffffff0470403f0880c03ecdec9241cd0c264100000000fffffffffc5f603f0880c03e672686419a993f4100000000ffffffff0470403ffc2f003fcdec92419a993f4100000000fffffffffc5f603ffc2f003f67e6b2409a993f4100000000ffffffff0470403f0880c03e0100e6409a993f4100000000fffffffffc5f603f0880c03e67e6b2406726594100000000ffffffff0470403ffc2f003f0100e6406726594100000000fffffffffc5f603ffc2f003f0100e6409a993f4100000000ffffffff0470403fc5208039cd8c0c419a993f4100000000fffffffffc5f603fc52080390100e6406726594100000000ffffffff0470403fdfffff3dcd8c0c416726594100000000fffffffffc5f603fdfffff3dcd8c0c419a993f4100000000ffffffff0470403f0880c03e9a1926419a993f4100000000fffffffffc5f603f0880c03ecd8c0c416726594100000000ffffffff0470403ffc2f003f9a1926416726594100000000fffffffffc5f603ffc2f003f9a1926419a993f4100000000ffffffff0470403f0880c03e67a63f419a993f4100000000fffffffffc5f603f0880c03e9a1926416726594100000000ffffffff0470403ffc2f003f67a63f416726594100000000fffffffffc5f603ffc2f003f67a63f419a993f4100000000ffffffff0470403f0880c03e343359419a993f4100000000fffffffffc5f603f0880c03e67a63f416726594100000000ffffffff0470403ffc2f003f343359416726594100000000fffffffffc5f603ffc2f003f343359419a993f4100000000ffffffff0470403fc520803901c072419a993f4100000000fffffffffc5f603fc5208039343359416726594100000000ffffffff0470403fdfffff3d01c072416726594100000000fffffffffc5f603fdfffff3d01c072419a993f4100000000ffffffff0470403f0880c03e672686419a993f4100000000fffffffffc5f603f0880c03e01c072416726594100000000ffffffff0470403ffc2f003f672686416726594100000000fffffffffc5f603ffc2f003f672686419a993f4100000000ffffffff0470403f0880c03ecdec92419a993f4100000000fffffffffc5f603f0880c03e672686416726594100000000ffffffff0470403ffc2f003fcdec92416726594100000000fffffffffc5f603ffc2f003f67e6b2406726594100000000ffffffff0470403f0880c03e0100e6406726594100000000fffffffffc5f603f0880c03e67e6b24034b3724100000000ffffffff0470403ffc2f003f0100e64034b3724100000000fffffffffc5f603ffc2f003f0100e6406726594100000000ffffffff0470403f0880c03ecd8c0c416726594100000000fffffffffc5f603f0880c03e0100e64034b3724100000000ffffffff0470403ffc2f003fcd8c0c4134b3724100000000fffffffffc5f603ffc2f003fcd8c0c416726594100000000ffffffff0470403f0880c03e9a1926416726594100000000fffffffffc5f603f0880c03ecd8c0c4134b3724100000000ffffffff0470403ffc2f003f9a19264134b3724100000000fffffffffc5f603ffc2f003f67a63f416726594100000000ffffffff0470403f0880c03e343359416726594100000000fffffffffc5f603f0880c03e67a63f4134b3724100000000ffffffff0470403ffc2f003f3433594134b3724100000000fffffffffc5f603ffc2f003f343359416726594100000000ffffffff0470403f0880c03e01c072416726594100000000fffffffffc5f603f0880c03e3433594134b3724100000000ffffffff0470403ffc2f003f01c0724134b3724100000000fffffffffc5f603ffc2f003f01c072416726594100000000ffffffff0470403f0880c03e672686416726594100000000fffffffffc5f603f0880c03e01c0724134b3724100000000ffffffff0470403ffc2f003f6726864134b3724100000000fffffffffc5f603ffc2f003f672686416726594100000000ffffffff0470403f0880c03ecdec92416726594100000000fffffffffc5f603f0880c03e6726864134b3724100000000ffffffff0470403ffc2f003fcdec924134b3724100000000fffffffffc5f603ffc2f003f67e6b24034b3724100000000ffffffff0470403f0880c03e0100e64034b3724100000000fffffffffc5f603f0880c03e67e6b2400120864100000000ffffffff0470403ffc2f003f0100e6400120864100000000fffffffffc5f603ffc2f003f0100e64034b3724100000000ffffffff0470403f0880c03ecd8c0c4134b3724100000000fffffffffc5f603f0880c03e0100e6400120864100000000ffffffff0470403ffc2f003fcd8c0c410120864100000000fffffffffc5f603ffc2f003fcd8c0c4134b3724100000000ffffffff0470403f0880c03e9a19264134b3724100000000fffffffffc5f603f0880c03ecd8c0c410120864100000000ffffffff0470403ffc2f003f9a1926410120864100000000fffffffffc5f603ffc2f003f9a19264134b3724100000000ffffffff0470403f0880c03e67a63f4134b3724100000000fffffffffc5f603f0880c03e9a1926410120864100000000ffffffff0470403ffc2f003f67a63f410120864100000000fffffffffc5f603ffc2f003f67a63f4134b3724100000000ffffffff0470403f0880c03e3433594134b3724100000000fffffffffc5f603f0880c03e67a63f410120864100000000ffffffff0470403ffc2f003f343359410120864100000000fffffffffc5f603ffc2f003f3433594134b3724100000000ffffffff0470403f0880c03e01c0724134b3724100000000fffffffffc5f603f0880c03e343359410120864100000000ffffffff0470403ffc2f003f01c072410120864100000000fffffffffc5f603ffc2f003f01c0724134b3724100000000ffffffff0470403f0880c03e6726864134b3724100000000fffffffffc5f603f0880c03e01c072410120864100000000ffffffff0470403ffc2f003f672686410120864100000000fffffffffc5f603ffc2f003f6726864134b3724100000000ffffffff0470403f0880c03ecdec924134b3724100000000fffffffffc5f603f0880c03e672686410120864100000000ffffffff0470403ffc2f003fcdec92410120864100000000fffffffffc5f603ffc2f003f67e6b2400120864100000000ffffffff0470403f0880c03e0100e6400120864100000000fffffffffc5f603f0880c03e67e6b24067e6924100000000ffffffff0470403ffc2f003f0100e64067e6924100000000fffffffffc5f603ffc2f003f0100e6400120864100000000ffffffff0470403f0880c03ecd8c0c410120864100000000fffffffffc5f603f0880c03e0100e64067e6924100000000ffffffff0470403ffc2f003fcd8c0c4167e6924100000000fffffffffc5f603ffc2f003fcd8c0c410120864100000000ffffffff0470403f0880c03e9a1926410120864100000000fffffffffc5f603f0880c03ecd8c0c4167e6924100000000ffffffff0470403ffc2f003f9a19264167e6924100000000fffffffffc5f603ffc2f003f9a1926410120864100000000ffffffff0470403f0880c03e67a63f410120864100000000fffffffffc5f603f0880c03e9a19264167e6924100000000ffffffff0470403ffc2f003f67a63f4167e6924100000000fffffffffc5f603ffc2f003f67a63f410120864100000000ffffffff0470403f0880c03e343359410120864100000000fffffffffc5f603f0880c03e67a63f4167e6924100000000ffffffff0470403ffc2f003f3433594167e6924100000000fffffffffc5f603ffc2f003f343359410120864100000000ffffffff0470403f0880c03e01c072410120864100000000fffffffffc5f603f0880c03e3433594167e6924100000000ffffffff0470403ffc2f003f01c0724167e6924100000000fffffffffc5f603ffc2f003f01c072410120864100000000ffffffff0470403f0880c03e672686410120864100000000fffffffffc5f603f0880c03e01c0724167e6924100000000ffffffff0470403ffc2f003f6726864167e6924100000000fffffffffc5f603ffc2f003f672686410120864100000000ffffffff0470403f0880c03ecdec92410120864100000000fffffffffc5f603f0880c03e6726864167e6924100000000ffffffff0470403ffc2f003fcdec924167e6924100000000fffffffffc5f603ffc2f003f
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BindPoses:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Colors:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+  m_LocalAABB:
+    m_Center: {x: 11.9781256, y: 13.5718756, z: 0}
+    m_Extent: {x: 6.38749981, y: 4.79062557, z: 0}
+  m_MeshUsageFlags: 0
+  m_MeshOptimized: 0
+--- !u!1 &1614737144
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 1614737145}
+  m_Layer: 0
+  m_Name: wall
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1614737145
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1614737144}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -.100000001}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 369426266}
+  m_Father: {fileID: 2114525956}
+--- !u!43 &1651799620
+Mesh:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  serializedVersion: 6
+  m_SubMeshes:
+  - firstByte: 0
+    indexCount: 228
+    isTriStrip: 0
+    triangleCount: 76
+    firstVertex: 0
+    vertexCount: 152
+    localAABB:
+      m_Center: {x: 11.9781246, y: 13.5718756, z: 0}
+      m_Extent: {x: 7.984375, y: 6.38749981, z: 0}
+  m_MeshCompression: 0
+  m_IndexBuffer: 00000300010002000300000004000700050006000700040008000b0009000a000b0008000c000f000d000e000f000c0010001300110012001300100014001700150016001700140018001b0019001a001b0018001c001f001d001e001f001c0020002300210022002300200024002700250026002700240028002b0029002a002b0028002c002f002d002e002f002c0030003300310032003300300034003700350036003700340038003b0039003a003b0038003c003f003d003e003f003c0040004300410042004300400044004700450046004700440048004b0049004a004b0048004c004f004d004e004f004c0050005300510052005300500054005700550056005700540058005b0059005a005b0058005c005f005d005e005f005c0060006300610062006300600064006700650066006700640068006b0069006a006b0068006c006f006d006e006f006c0070007300710072007300700074007700750076007700740078007b0079007a007b0078007c007f007d007e007f007c0080008300810082008300800084008700850086008700840088008b0089008a008b0088008c008f008d008e008f008c00900093009100920093009000940097009500960097009400
+  m_Skin: []
+  m_BindPose: []
+  m_VertexData:
+    m_CurrentChannels: 13
+    m_VertexCount: 152
+    m_Streams[0]:
+      channelMask: 13
+      offset: 0
+      stride: 24
+      align: 16
+    m_Streams[1]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_Streams[2]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_Streams[3]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_DataSize: 3648
+    _typelessdata: 9a997f4067e6e54000000000ffffffff0450003f0860803e67e6b24067e6e54000000000fffffffffc3f203f0860803e9a997f4001800c4100000000ffffffff0450003ff83fc03e67e6b24001800c4100000000fffffffffc3f203ff83fc03e67e6b24067e6e54000000000ffffffff0450003f0860803e0100e64067e6e54000000000fffffffffc3f203f0860803e67e6b24001800c4100000000ffffffff0450003ff83fc03e0100e64001800c4100000000fffffffffc3f203ff83fc03e0100e64067e6e54000000000ffffffff0450003f0860803ecd8c0c4167e6e54000000000fffffffffc3f203f0860803e0100e64001800c4100000000ffffffff0450003ff83fc03ecd8c0c4101800c4100000000fffffffffc3f203ff83fc03ecd8c0c4167e6e54000000000ffffffff0450003f0860803e9a19264167e6e54000000000fffffffffc3f203f0860803ecd8c0c4101800c4100000000ffffffff0450003ff83fc03e9a19264101800c4100000000fffffffffc3f203ff83fc03e9a19264167e6e54000000000ffffffff0450003f0860803e67a63f4167e6e54000000000fffffffffc3f203f0860803e9a19264101800c4100000000ffffffff0450003ff83fc03e67a63f4101800c4100000000fffffffffc3f203ff83fc03e67a63f4167e6e54000000000ffffffff0450003f0450003f3433594167e6e54000000000fffffffffc3f203f0450003f67a63f4101800c4100000000ffffffff0450003ffc3f203f3433594101800c4100000000fffffffffc3f203ffc3f203f3433594167e6e54000000000ffffffff0450003f0860803e01c0724167e6e54000000000fffffffffc3f203f0860803e3433594101800c4100000000ffffffff0450003ff83fc03e01c0724101800c4100000000fffffffffc3f203ff83fc03e01c0724167e6e54000000000ffffffff0450003f0860803e6726864167e6e54000000000fffffffffc3f203f0860803e01c0724101800c4100000000ffffffff0450003ff83fc03e6726864101800c4100000000fffffffffc3f203ff83fc03e6726864167e6e54000000000ffffffff0450003f0860803ecdec924167e6e54000000000fffffffffc3f203f0860803e6726864101800c4100000000ffffffff0450003ff83fc03ecdec924101800c4100000000fffffffffc3f203ff83fc03ecdec924167e6e54000000000ffffffff0450003f0860803e33b39f4167e6e54000000000fffffffffc3f203f0860803ecdec924101800c4100000000ffffffff0450003ff83fc03e33b39f4101800c4100000000fffffffffc3f203ff83fc03e9a997f4000800c4100000000ffffffff0450003f0860803e67e6b24000800c4100000000fffffffffc3f203f0860803e9a997f40cd0c264100000000ffffffff0450003ff83fc03e67e6b240cd0c264100000000fffffffffc3f203ff83fc03ecdec924100800c4100000000ffffffff0450003f0860803e33b39f4100800c4100000000fffffffffc3f203f0860803ecdec9241cd0c264100000000ffffffff0450003ff83fc03e33b39f41cd0c264100000000fffffffffc3f203ff83fc03e9a997f40cd0c264100000000ffffffff0450003f0860803e67e6b240cd0c264100000000fffffffffc3f203f0860803e9a997f409a993f4100000000ffffffff0450003ff83fc03e67e6b2409a993f4100000000fffffffffc3f203ff83fc03e67e6b240cd0c264100000000ffffffff0470403f0880c03e0100e640cd0c264100000000fffffffffc5f603f0880c03e67e6b2409a993f4100000000ffffffff0470403ffc2f003f0100e6409a993f4100000000fffffffffc5f603ffc2f003f67a63f41cd0c264100000000ffffffff0470403fc520803934335941cd0c264100000000fffffffffc5f603fc520803967a63f419a993f4100000000ffffffff0470403fdfffff3d343359419a993f4100000000fffffffffc5f603fdfffff3dcdec9241cd0c264100000000ffffffff0450003f0860803e33b39f41cd0c264100000000fffffffffc3f203f0860803ecdec92419a993f4100000000ffffffff0450003ff83fc03e33b39f419a993f4100000000fffffffffc3f203ff83fc03e9a997f409a993f4100000000ffffffff0450003f0860803e67e6b2409a993f4100000000fffffffffc3f203f0860803e9a997f406726594100000000ffffffff0450003ff83fc03e67e6b2406726594100000000fffffffffc3f203ff83fc03e0100e6409a993f4100000000ffffffff0470403f0880c03ecd8c0c419a993f4100000000fffffffffc5f603f0880c03e0100e6406726594100000000ffffffff0470403ffc2f003fcd8c0c416726594100000000fffffffffc5f603ffc2f003f343359419a993f4100000000ffffffff0470403f0880c03e01c072419a993f4100000000fffffffffc5f603f0880c03e343359416726594100000000ffffffff0470403ffc2f003f01c072416726594100000000fffffffffc5f603ffc2f003fcdec92419a993f4100000000ffffffff0450003f0860803e33b39f419a993f4100000000fffffffffc3f203f0860803ecdec92416726594100000000ffffffff0450003ff83fc03e33b39f416726594100000000fffffffffc3f203ff83fc03e9a997f406726594100000000ffffffff0450003f0860803e67e6b2406726594100000000fffffffffc3f203f0860803e9a997f4034b3724100000000ffffffff0450003ff83fc03e67e6b24034b3724100000000fffffffffc3f203ff83fc03ecd8c0c416726594100000000ffffffff0470403f0880c03e9a1926416726594100000000fffffffffc5f603f0880c03ecd8c0c4134b3724100000000ffffffff0470403ffc2f003f9a19264134b3724100000000fffffffffc5f603ffc2f003f9a1926416726594100000000ffffffff0470403f0880c03e67a63f416726594100000000fffffffffc5f603f0880c03e9a19264134b3724100000000ffffffff0470403ffc2f003f67a63f4134b3724100000000fffffffffc5f603ffc2f003fcdec92416726594100000000ffffffff0450003f0860803e33b39f416726594100000000fffffffffc3f203f0860803ecdec924134b3724100000000ffffffff0450003ff83fc03e33b39f4134b3724100000000fffffffffc3f203ff83fc03e9a997f4034b3724100000000ffffffff0450003f0860803e67e6b24034b3724100000000fffffffffc3f203f0860803e9a997f400120864100000000ffffffff0450003ff83fc03e67e6b2400120864100000000fffffffffc3f203ff83fc03ecdec924134b3724100000000ffffffff0450003f0860803e33b39f4134b3724100000000fffffffffc3f203f0860803ecdec92410120864100000000ffffffff0450003ff83fc03e33b39f410120864100000000fffffffffc3f203ff83fc03e9a997f400120864100000000ffffffff0450003f0860803e67e6b2400120864100000000fffffffffc3f203f0860803e9a997f4067e6924100000000ffffffff0450003ff83fc03e67e6b24067e6924100000000fffffffffc3f203ff83fc03ecdec92410120864100000000ffffffff0450003f0860803e33b39f410120864100000000fffffffffc3f203f0860803ecdec924167e6924100000000ffffffff0450003ff83fc03e33b39f4167e6924100000000fffffffffc3f203ff83fc03e9a997f4067e6924100000000ffffffff0450003f0860803e67e6b24067e6924100000000fffffffffc3f203f0860803e9a997f40cdac9f4100000000ffffffff0450003ff83fc03e67e6b240cdac9f4100000000fffffffffc3f203ff83fc03e67e6b24067e6924100000000ffffffff1080003e0470403f0100e64067e6924100000000fffffffff81f803e0470403f67e6b240cdac9f4100000000ffffffff1080003efc5f603f0100e640cdac9f4100000000fffffffff81f803efc5f603f0100e64067e6924100000000ffffffff0450003f0860803ecd8c0c4167e6924100000000fffffffffc3f203f0860803e0100e640cdac9f4100000000ffffffff0450003ff83fc03ecd8c0c41cdac9f4100000000fffffffffc3f203ff83fc03ecd8c0c4167e6924100000000ffffffff0450003f0860803e9a19264167e6924100000000fffffffffc3f203f0860803ecd8c0c41cdac9f4100000000ffffffff0450003ff83fc03e9a192641cdac9f4100000000fffffffffc3f203ff83fc03e9a19264167e6924100000000ffffffff1080003e0470403f67a63f4167e6924100000000fffffffff81f803e0470403f9a192641cdac9f4100000000ffffffff1080003efc5f603f67a63f41cdac9f4100000000fffffffff81f803efc5f603f67a63f4167e6924100000000ffffffff0450003f0860803e3433594167e6924100000000fffffffffc3f203f0860803e67a63f41cdac9f4100000000ffffffff0450003ff83fc03e34335941cdac9f4100000000fffffffffc3f203ff83fc03e3433594167e6924100000000ffffffff0450003f0860803e01c0724167e6924100000000fffffffffc3f203f0860803e34335941cdac9f4100000000ffffffff0450003ff83fc03e01c07241cdac9f4100000000fffffffffc3f203ff83fc03e01c0724167e6924100000000ffffffff1080003e0470403f6726864167e6924100000000fffffffff81f803e0470403f01c07241cdac9f4100000000ffffffff1080003efc5f603f67268641cdac9f4100000000fffffffff81f803efc5f603f6726864167e6924100000000ffffffff0450003f0860803ecdec924167e6924100000000fffffffffc3f203f0860803e67268641cdac9f4100000000ffffffff0450003ff83fc03ecdec9241cdac9f4100000000fffffffffc3f203ff83fc03ecdec924167e6924100000000ffffffff0450003f0860803e33b39f4167e6924100000000fffffffffc3f203f0860803ecdec9241cdac9f4100000000ffffffff0450003ff83fc03e33b39f41cdac9f4100000000fffffffffc3f203ff83fc03e
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BindPoses:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Colors:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+  m_LocalAABB:
+    m_Center: {x: 11.9781246, y: 13.5718756, z: 0}
+    m_Extent: {x: 7.984375, y: 6.38749981, z: 0}
+  m_MeshUsageFlags: 0
+  m_MeshOptimized: 0
 --- !u!1 &1655498958
 GameObject:
   m_ObjectHideFlags: 0
@@ -220,3 +708,31 @@ Behaviour:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1655498958}
   m_Enabled: 1
+--- !u!1 &2114525955
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 2114525956}
+  m_Layer: 0
+  m_Name: TileMap Render Data
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2114525956
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2114525955}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1614737145}
+  - {fileID: 557413102}
+  m_Father: {fileID: 0}
