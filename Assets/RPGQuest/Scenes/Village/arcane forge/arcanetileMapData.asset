@@ -149,15 +149,22 @@ MonoBehaviour:
     intVal: 0
     floatVal: 0
   tileMapLayers:
-  - name: Layer 0
+  - name: Floor
     hash: 1892887448
     useColor: 1
     generateCollider: 1
     z: 0
     unityLayer: 0
     skipMeshGeneration: 0
-  - name: New Layer
+  - name: Walls
     hash: 1674480374
+    useColor: 1
+    generateCollider: 1
+    z: .100000001
+    unityLayer: 0
+    skipMeshGeneration: 0
+  - name: Doors
+    hash: 585302810
     useColor: 1
     generateCollider: 1
     z: .100000001
