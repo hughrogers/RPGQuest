@@ -10,10 +10,199 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fb356b9a6a1da084695128b00c8721be, type: 1}
   m_Name: 1tileMapData
-  tileSize: {x: 0, y: 0, z: 0}
-  tileOrigin: {x: 0, y: 0, z: 0}
+  tileSize: {x: 1.59687507, y: 1.59687507, z: 0}
+  tileOrigin: {x: -.796875, y: -.800000012, z: 0}
   tileType: 0
   sortMethod: 0
-  tilePrefabs: []
-  tileInfo: []
-  tileMapLayers: []
+  tilePrefabs:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  tileInfo:
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  - stringVal: 
+    intVal: 0
+    floatVal: 0
+  tileMapLayers:
+  - name: Layer 0
+    hash: 1892887448
+    useColor: 1
+    generateCollider: 1
+    z: 0
+    unityLayer: 0
+    skipMeshGeneration: 0
+  - name: wall
+    hash: 671067397
+    useColor: 1
+    generateCollider: 1
+    z: .100000001
+    unityLayer: 0
+    skipMeshGeneration: 0
+  - name: ladder
+    hash: 2027605467
+    useColor: 1
+    generateCollider: 1
+    z: .100000001
+    unityLayer: 0
+    skipMeshGeneration: 0
