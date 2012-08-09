@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: f639d4a6705364f78858dcac9f79c987, type: 1}
+  m_Name: Atlas Mage Front
+  material: {fileID: 2100000, guid: 72decb6275d884d77a7e8fa9a7ec52ee, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: .603515625
+    y: 0
+    width: .095703125
+    height: .49609375
+  - serializedVersion: 2
+    x: .520507812
+    y: 0
+    width: .08203125
+    height: .58984375
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: .30859375
+    height: .96875
+  - serializedVersion: 2
+    x: .700195312
+    y: 0
+    width: .1171875
+    height: .353515625
+  - serializedVersion: 2
+    x: .309570312
+    y: 0
+    width: .103515625
+    height: .669921875
+  - serializedVersion: 2
+    x: .4140625
+    y: 0
+    width: .10546875
+    height: .62890625
+  textureGUIDs:
+  - 1c651016b0f9a44de92d663467128274
+  - 28207cad3e80240b08b779cb06e6df38
+  - 2acd5f6bb3a264e24b191ac39b2ada9c
+  - 97751225895274394902d7401c52e5b3
+  - 1674fc3a7fa0f404d956cc2b4a083bbd
+  - 33b9d800b54a64d3dbbcb23dba074850
+  textureSizes:
+  - {x: 98, y: 254}
+  - {x: 84, y: 302}
+  - {x: 316, y: 496}
+  - {x: 120, y: 181}
+  - {x: 106, y: 343}
+  - {x: 108, y: 322}
+  defaultPivotOffsets:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  textureNames:
+  - Mage-Front-Right-Arm
+  - Mage-Front-Left-Arm
+  - Mage-Front-Body
+  - Mage-Front-Head
+  - Mage-Front-Left-Leg
+  - Mage-Front-Right-Leg
+  lastBuildID: 20120809102207385
+  needsRebuilt: 0
+  atlasGUID: 
+  dataVersion: 0

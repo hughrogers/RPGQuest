@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: f639d4a6705364f78858dcac9f79c987, type: 1}
+  m_Name: Weapons Atlas
+  material: {fileID: 2100000, guid: 0ee8d69616393489c89bcabc10ca0ffa, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: .1796875
+    height: .59375
+  - serializedVersion: 2
+    x: 0
+    y: .595703125
+    width: .11328125
+    height: .34375
+  - serializedVersion: 2
+    x: .306640625
+    y: 0
+    width: .12890625
+    height: .4140625
+  - serializedVersion: 2
+    x: .115234375
+    y: .595703125
+    width: .056640625
+    height: .1484375
+  - serializedVersion: 2
+    x: .181640625
+    y: 0
+    width: .123046875
+    height: .4375
+  - serializedVersion: 2
+    x: .306640625
+    y: .416015625
+    width: .076171875
+    height: .4296875
+  - serializedVersion: 2
+    x: .4375
+    y: 0
+    width: .20703125
+    height: .205078125
+  - serializedVersion: 2
+    x: .181640625
+    y: .439453125
+    width: .111328125
+    height: .318359375
+  - serializedVersion: 2
+    x: .115234375
+    y: .74609375
+    width: .033203125
+    height: .189453125
+  textureGUIDs:
+  - 296a4f3a3f4b04439b8460d80697c972
+  - d98033cc3d99c4d40a60dbb3e8a56d69
+  - 683f5c95ab6b54d61ba50088ee6991d8
+  - 593bdbecdfcc84188ae6f891a5150f52
+  - 20a02ea7baf7a47bea32b9045f50fb3b
+  - 1d46703bb43e54c0d86695bdbb3fd50b
+  - 66fbe30a25bd646c086c27028f21b642
+  - 0f5d905651c274102ab6968408f7c053
+  - 952aec06ef53f406fb5bb3245390da70
+  textureSizes:
+  - {x: 92, y: 304}
+  - {x: 58, y: 176}
+  - {x: 66, y: 212}
+  - {x: 29, y: 76}
+  - {x: 63, y: 224}
+  - {x: 39, y: 220}
+  - {x: 106, y: 105}
+  - {x: 57, y: 163}
+  - {x: 17, y: 97}
+  defaultPivotOffsets:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  textureNames:
+  - Sword02
+  - War-Axe
+  - Sword01
+  - Dagger
+  - Sword
+  - Magic-Staff
+  - Shield
+  - Bow
+  - Arrow
+  lastBuildID: 20120809103532658
+  needsRebuilt: 0
+  atlasGUID: 
+  dataVersion: 0

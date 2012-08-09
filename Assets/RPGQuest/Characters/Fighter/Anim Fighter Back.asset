@@ -271,7 +271,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 4
       - boneDataIndex: 1
         frame: 5
         userTriggerCallback: 0
@@ -368,7 +368,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 4
       - boneDataIndex: 1
         frame: 10
         userTriggerCallback: 0
@@ -465,7 +465,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 4
       mixTransform: 0
       visible: 1
     - boneDataIndex: 2
@@ -566,7 +566,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 3
       - boneDataIndex: 2
         frame: 5
         userTriggerCallback: 0
@@ -663,7 +663,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 3
       - boneDataIndex: 2
         frame: 10
         userTriggerCallback: 0
@@ -760,7 +760,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 3
       mixTransform: 0
       visible: 1
     - boneDataIndex: 3
@@ -861,7 +861,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 0
       - boneDataIndex: 3
         frame: 5
         userTriggerCallback: 0
@@ -958,7 +958,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 0
       - boneDataIndex: 3
         frame: 10
         userTriggerCallback: 0
@@ -1055,7 +1055,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 0
       mixTransform: 0
       visible: 1
     - boneDataIndex: 4
@@ -1156,7 +1156,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 5
       - boneDataIndex: 4
         frame: 5
         userTriggerCallback: 0
@@ -1253,7 +1253,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 5
       - boneDataIndex: 4
         frame: 10
         userTriggerCallback: 0
@@ -1350,7 +1350,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 5
       mixTransform: 0
       visible: 1
     - boneDataIndex: 5
@@ -1451,7 +1451,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 1
       - boneDataIndex: 5
         frame: 5
         userTriggerCallback: 0
@@ -1548,7 +1548,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 1
       - boneDataIndex: 5
         frame: 10
         userTriggerCallback: 0
@@ -1645,7 +1645,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 1
       mixTransform: 0
       visible: 1
     - boneDataIndex: 6
@@ -1746,7 +1746,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 2
       - boneDataIndex: 6
         frame: 5
         userTriggerCallback: 0
@@ -1843,7 +1843,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 2
       - boneDataIndex: 6
         frame: 10
         userTriggerCallback: 0
@@ -1940,7 +1940,7 @@ MonoBehaviour:
           useAnimationLayer: 1
           layer: 0
           isTrigger: 1
-        textureIndex: -1
+        textureIndex: 2
       mixTransform: 0
       visible: 1
     fps: 5
