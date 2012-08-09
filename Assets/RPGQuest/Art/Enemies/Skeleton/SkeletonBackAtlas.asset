@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: f639d4a6705364f78858dcac9f79c987, type: 1}
+  m_Name: SkeletonBackAtlas
+  material: {fileID: 2100000, guid: a81bf59848c7c40dbb7d4f4e73602863, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: 0
+    y: .529296875
+    width: .158203125
+    height: .313476562
+  - serializedVersion: 2
+    x: .251953125
+    y: .262695312
+    width: .302734375
+    height: .180664062
+  - serializedVersion: 2
+    x: .556640625
+    y: .262695312
+    width: .19140625
+    height: .265625
+  - serializedVersion: 2
+    x: 0
+    y: .262695312
+    width: .25
+    height: .265625
+  - serializedVersion: 2
+    x: .16015625
+    y: .529296875
+    width: .1484375
+    height: .30078125
+  - serializedVersion: 2
+    x: .421875
+    y: 0
+    width: .326171875
+    height: .168945312
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: .419921875
+    height: .26171875
+  textureGUIDs:
+  - a2173b087a783454ca44067763c80c85
+  - 4b4658dabff2943aca59d94f587f10fd
+  - ffa70afaf1e2e49ef9cb06ff60c3670a
+  - d5f5cbee84f134f1fa9ba3933565826e
+  - e763af43bbe8b4192acf6100444ef157
+  - 5e3d0471213a24c80b6f8f56bfe54536
+  - 0bf65db9691894b4a8b1862be75d3edb
+  textureSizes:
+  - {x: 64, y: 256}
+  - {x: 128, y: 128}
+  - {x: 128, y: 256}
+  - {x: 128, y: 256}
+  - {x: 64, y: 256}
+  - {x: 128, y: 128}
+  - {x: 256, y: 256}
+  defaultPivotOffsets:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  textureNames:
+  - SkeletonBack_LLeg
+  - SkeletonBack-Head
+  - SkeletonBack_LArm
+  - SkeletonBack_RArm
+  - SkeletonBack_RLeg
+  - SkeletonBack-Pelvis
+  - SkeletonBack-Torso
+  lastBuildID: 20120809125437215
+  needsRebuilt: 0
+  atlasGUID: 
+  dataVersion: 0
