@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: f639d4a6705364f78858dcac9f79c987, type: 1}
+  m_Name: SkeletonSideAtlas
+  material: {fileID: 2100000, guid: e4a7124e6361b4b64b3334e6b69c8809, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: .5625
+    y: 0
+    width: .185546875
+    height: .1484375
+  - serializedVersion: 2
+    x: 0
+    y: .537109375
+    width: .10546875
+    height: .287109375
+  - serializedVersion: 2
+    x: .193359375
+    y: .255859375
+    width: .19140625
+    height: .278320312
+  - serializedVersion: 2
+    x: .279296875
+    y: 0
+    width: .28125
+    height: .145507812
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: .27734375
+    height: .254882812
+  - serializedVersion: 2
+    x: 0
+    y: .255859375
+    width: .19140625
+    height: .280273438
+  - serializedVersion: 2
+    x: .107421875
+    y: .537109375
+    width: .10546875
+    height: .287109375
+  textureGUIDs:
+  - 23d4e8b233ca740479a818dc0ee12815
+  - b0a2810aad5c94275b193aa64628498e
+  - abdc4eaa0a4bb47fe89f7ff72c82a63d
+  - 39626df9707cf4250b6f852123eb1ad4
+  - f190a10f422354c90be1e8c88e9068e5
+  - 21307effe3bf847c69e694c2b6a369bb
+  - 9a551439114544df5916f1e12ed56efe
+  textureSizes:
+  - {x: 95, y: 152}
+  - {x: 54, y: 294}
+  - {x: 98, y: 285}
+  - {x: 144, y: 149}
+  - {x: 142, y: 261}
+  - {x: 98, y: 287}
+  - {x: 54, y: 294}
+  defaultPivotOffsets:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  textureNames:
+  - SkeletonSide_Pelvis
+  - SkeletonSide_FArm
+  - SkeletonSide_BLeg
+  - SkeletonSide-Head
+  - SkeletonSide_Torso
+  - SkeletonSide_FLeg
+  - SkeletonSide_BArm
+  lastBuildID: 20120809112324778
+  needsRebuilt: 0
+  atlasGUID: 
+  dataVersion: 0

@@ -1605,7 +1605,11 @@ MonoBehaviour:
   spriteCollectionName: BackgroundSprites
   invOrthoSize: 1
   halfTargetHeight: 320
+<<<<<<< HEAD
   buildKey: 1395659855
+=======
+  buildKey: 626380381
+>>>>>>> Skeleton Combat Animations
   dataGuid: f4749c86f0ad844d5b3c782d052c0143
 --- !u!1001 &100100000
 Prefab:
