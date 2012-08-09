@@ -41,7 +41,7 @@ MonoBehaviour:
   textureRefs:
   - {fileID: 2800000, guid: 75efcff6db69f4a628a51da74708156d, type: 1}
   - {fileID: 2800000, guid: ef5e6337424314e988feb4439874b58c, type: 1}
-  - {fileID: 2800000, guid: 65ed730c87be348dc97a58447cc80b8d, type: 1}
+  - {fileID: 2800000, guid: a7277a4907fbc42c59cff35277809280, type: 1}
   - {fileID: 2800000, guid: b47e0ba7a8cbd4b45acdb02306739da1, type: 1}
   - {fileID: 2800000, guid: c5fcd300e941b46ae9357ce89eb36168, type: 1}
   - {fileID: 2800000, guid: da27f6cb441fe42f5841d3376d402c5c, type: 1}
@@ -66,13 +66,13 @@ MonoBehaviour:
   - {fileID: 2800000, guid: 3053d1d34f0ec4bcb9418948e7ef455a, type: 1}
   - {fileID: 2800000, guid: 2f97c1c068cdf44609ac90860e7236ef, type: 1}
   - {fileID: 2800000, guid: 323c9593d4b684a68a961acd5ff8188c, type: 1}
-  - {fileID: 2800000, guid: ecab1ee94666049738554e7aecfa75e2, type: 1}
+  - {fileID: 2800000, guid: bb58fda6cf6f743a183408700f22de8f, type: 1}
   - {fileID: 2800000, guid: f843f307f9fd148a4bbd428c6a275bed, type: 1}
   - {fileID: 2800000, guid: fffcfcd1844b748e5bac281eddb41c0a, type: 1}
   - {fileID: 2800000, guid: 3ebb8949c95b14255b600296555c51ba, type: 1}
   - {fileID: 2800000, guid: ea1bd1d5b95ac4a889e40726f8f2ad3d, type: 1}
   - {fileID: 2800000, guid: d1214b1da378342a3981adc30a9a76bf, type: 1}
-  - {fileID: 2800000, guid: 23e3aa1c6ddad4515bafd38fdc11c8b6, type: 1}
+  - {fileID: 0}
   - {fileID: 2800000, guid: 33d9864ec133048ea9fe3e03a7d83ddc, type: 1}
   spriteSheets: []
   fonts: []
@@ -171,7 +171,7 @@ MonoBehaviour:
     disableTrimming: 0
     additive: 0
     scale: {x: 1, y: 1, z: 1}
-    texture: {fileID: 2800000, guid: 65ed730c87be348dc97a58447cc80b8d, type: 1}
+    texture: {fileID: 2800000, guid: a7277a4907fbc42c59cff35277809280, type: 1}
     materialId: 0
     anchor: 4
     anchorX: 255
@@ -1096,7 +1096,7 @@ MonoBehaviour:
     disableTrimming: 0
     additive: 0
     scale: {x: 1, y: 1, z: 1}
-    texture: {fileID: 2800000, guid: ecab1ee94666049738554e7aecfa75e2, type: 1}
+    texture: {fileID: 2800000, guid: bb58fda6cf6f743a183408700f22de8f, type: 1}
     materialId: 0
     anchor: 4
     anchorX: 255
@@ -1343,7 +1343,7 @@ MonoBehaviour:
     regionW: 0
     regionH: 0
     regionId: 0
-    colliderType: 1
+    colliderType: 0
     boxColliderMin: {x: 0, y: 0}
     boxColliderMax: {x: 0, y: 0}
     polyColliderIslands: []
