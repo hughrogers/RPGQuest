@@ -10,7 +10,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 55b78d6060eadde4394ed1d0ba2b8c97, type: 1}
   m_Name: Dungeon2TileMapEditorData
-  editMode: 3
+  editMode: 0
   brushColor: {r: 1, g: 1, b: 1, a: 1}
   brushRadius: 1
   blendStrength: 1
@@ -39,13 +39,13 @@ MonoBehaviour:
     - x: 0
       y: 0
       layer: 0
-      spriteId: 2
+      spriteId: 7
       blendAmount: 0
-    multiSelectTiles: 02000000
+    multiSelectTiles: 07000000
     edgeMode: 0
     multiLayer: 0
     overrideWithSpriteBounds: 0
-    brushHash: 1424812992
+    brushHash: 1199127040
   brushes: []
   paletteBrush:
     name: 
@@ -226,9 +226,9 @@ MonoBehaviour:
     edgeMode: 0
     multiLayer: 0
     overrideWithSpriteBounds: 1
-    brushHash: -2617728
+    brushHash: -1088906304
   paletteTilesPerRow: 8
   setupMode: 0
   showBrush: 1
   showPalette: 1
-  layer: 2
+  layer: 1
