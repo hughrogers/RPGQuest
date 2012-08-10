@@ -1,5 +1,6 @@
 <enemies>
 <enemy attacks="1" classlevel="1" baseelement="0" drops="0" ais="2" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="0" races="4" basecounter="0" money="0" values="7">
+<prefab><![CDATA[Skeleton]]></prefab>
 <animations></animations>
 <name lang="0"><![CDATA[Skeleton Lvl1]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -23,6 +24,7 @@
 <customanimations animations="0"></customanimations>
 </enemy>
 <enemy attacks="1" classlevel="1" baseelement="0" drops="0" ais="2" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="1" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="1" races="4" basecounter="0" money="0" values="7">
+<prefab><![CDATA[Skeleton]]></prefab>
 <animations></animations>
 <name lang="0"><![CDATA[Skeleton Wizard Lvl1]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -46,6 +48,7 @@
 <customanimations animations="0"></customanimations>
 </enemy>
 <enemy movespeed="1" attacks="1" classlevel="5" baseelement="0" drops="0" ais="2" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="5" id="2" races="4" basecounter="0" money="0" values="7">
+<prefab><![CDATA[Boneshaker]]></prefab>
 <animations></animations>
 <name lang="0"><![CDATA[Bonecrusher, The Skeletal Behemoth ]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -69,6 +72,7 @@
 <customanimations animations="0"></customanimations>
 </enemy>
 <enemy attacks="1" classlevel="1" baseelement="0" drops="0" ais="2" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="2" id="3" races="2" basecounter="0" money="0" values="7">
+<prefab><![CDATA[Skeleton]]></prefab>
 <animations></animations>
 <name lang="0"><![CDATA[Skeleton Fighter Lvl2]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -92,6 +96,7 @@
 <customanimations animations="0"></customanimations>
 </enemy>
 <enemy attacks="1" classlevel="1" baseelement="0" drops="0" ais="2" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="4" races="2" basecounter="0" money="0" values="7">
+<prefab><![CDATA[Skeleton]]></prefab>
 <animations></animations>
 <name lang="0"><![CDATA[Skeleton Wizard lvl2]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -115,6 +120,7 @@
 <customanimations animations="0"></customanimations>
 </enemy>
 <enemy attacks="1" classlevel="1" baseelement="0" drops="0" ais="2" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="5" races="2" basecounter="0" money="0" values="7">
+<prefab><![CDATA[Skeleton]]></prefab>
 <animations></animations>
 <name lang="0"><![CDATA[Skeleton Fighter Lvl3]]></name>
 <description lang="0"><![CDATA[New Description]]></description>
@@ -138,6 +144,7 @@
 <customanimations animations="0"></customanimations>
 </enemy>
 <enemy attacks="1" classlevel="1" baseelement="0" drops="0" ais="2" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="6" races="2" basecounter="0" money="0" values="7">
+<prefab><![CDATA[Skeleton]]></prefab>
 <animations></animations>
 <name lang="0"><![CDATA[Skeleton Wizard Lvl3]]></name>
 <description lang="0"><![CDATA[New Description]]></description>
@@ -178,6 +185,7 @@
 <customanimations animations="0"></customanimations>
 </enemy>
 <enemy attacks="1" classlevel="1" baseelement="0" drops="0" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="8" races="2" basecounter="0" money="0" values="7">
+<prefab><![CDATA[Skeleton]]></prefab>
 <animations></animations>
 <name lang="0"><![CDATA[Skeleton Fighter Lvl 5]]></name>
 <description lang="0"><![CDATA[]]></description>
@@ -195,6 +203,7 @@
 <customanimations animations="0"></customanimations>
 </enemy>
 <enemy attacks="1" classlevel="1" baseelement="0" drops="0" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="9" races="2" basecounter="0" money="0" values="7">
+<prefab><![CDATA[Skeleton]]></prefab>
 <animations></animations>
 <name lang="0"><![CDATA[Skeleton Wizard Lvl 5]]></name>
 <description lang="0"><![CDATA[]]></description>
