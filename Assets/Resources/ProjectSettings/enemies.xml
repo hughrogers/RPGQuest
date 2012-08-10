@@ -177,4 +177,38 @@
 <bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
 <customanimations animations="0"></customanimations>
 </enemy>
+<enemy attacks="1" classlevel="1" baseelement="0" drops="0" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="8" races="2" basecounter="0" money="0" values="7">
+<animations></animations>
+<name lang="0"><![CDATA[Skeleton Fighter Lvl 5]]></name>
+<description lang="0"><![CDATA[]]></description>
+<statusvalue id="0" value="0"></statusvalue>
+<statusvalue id="1" value="0"></statusvalue>
+<statusvalue id="2" value="12"></statusvalue>
+<statusvalue id="3" value="5"></statusvalue>
+<statusvalue id="4" value="9"></statusvalue>
+<statusvalue id="5" value="5"></statusvalue>
+<statusvalue id="6" value="0"></statusvalue>
+<attack id="0" id2="0"></attack>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
+<variables variables="0" numbervariables="0"></variables>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<customanimations animations="0"></customanimations>
+</enemy>
+<enemy attacks="1" classlevel="1" baseelement="0" drops="0" basecritical="0" aggressivetype="ALWAYS" effects="2" sizeid="0" sizes="3" baseblock="0" raceid="1" elements="3" level="1" id="9" races="2" basecounter="0" money="0" values="7">
+<animations></animations>
+<name lang="0"><![CDATA[Skeleton Wizard Lvl 5]]></name>
+<description lang="0"><![CDATA[]]></description>
+<statusvalue id="0" value="0"></statusvalue>
+<statusvalue id="1" value="0"></statusvalue>
+<statusvalue id="2" value="5"></statusvalue>
+<statusvalue id="3" value="12"></statusvalue>
+<statusvalue id="4" value="5"></statusvalue>
+<statusvalue id="5" value="9"></statusvalue>
+<statusvalue id="6" value="0"></statusvalue>
+<attack id="0" id2="0"></attack>
+<fieldanimations fadelength="0.1" baseanimator="True" minfalltime="0.3" walkspeed="3" runspeed="8"></fieldanimations>
+<variables variables="0" numbervariables="0"></variables>
+<bonussettings block="0" escape="0" critical="0" counter="0" hit="0" moneysteal="0" itemsteal="0" speed="0"></bonussettings>
+<customanimations animations="0"></customanimations>
+</enemy>
 </enemies>
